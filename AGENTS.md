@@ -23,9 +23,9 @@ Jules executes the search autonomously. Do not ask repeated clarifying questions
 - Minimum 1,000,000 views if the video is 180 days old or less
 - Discard any video that does not meet either condition
 
-## Channel Filter — only small channels with real breakout
+## Channel Filter — small channels with real breakout
 - Calculate ratio: video views / channel subscribers
-- Minimum acceptable ratio: 10x
+- Minimum acceptable ratio: 5x
 - Discard large/established channels even if they have millions of views
 - Goal: detect the anomalous spike of a small channel, not the expected performance of a large channel or the algorithmic farming of shorts/meme channels
 
@@ -45,13 +45,14 @@ Exclude outright — even if the title contains niche keywords ("AI", "tech", "n
 - Corporate/tutorial product content (feature demos, "how to use X product") without a power/money/collapse angle
 - Any title where the financial/power angle is not explicit and verifiable
 
-## Winning Pattern — mandatory rejection filter, not a ranking criterion
-A candidate is only valid if it combines all 3 signals clearly and verifiably in the title:
+## Winning Pattern — mandatory rejection filter
+A candidate is valid if it combines AT LEAST 2 of these 3 signals, verifiable in the title OR description:
 1. "Massive" financial figure — billions of dollars, not small or vague numbers
 2. Recognizable proper noun — company (Anthropic, OpenAI, Nvidia) or person (Musk, Huang, Amodei)
 3. Systemic threat or opportunity — collapse, existential risk, breaking of the status quo
 
-If a candidate does not meet all 3 signals, discard it completely — do not include it in the final table just to reach the minimum of 10.
+If a candidate meets fewer than 2 of these signals, discard it completely.
+Prioritize candidates with all 3 signals when available, but do not require all 3 as a hard gate.
 Avoid abstract corporate topics without a strong proper noun (e.g., "pricing power," generic "semiconductors") — confirmed as low-performing in retention and views.
 
 ## YouTube Data API v3 Usage — quota control
@@ -70,8 +71,8 @@ Avoid abstract corporate topics without a strong proper noun (e.g., "pricing pow
 3. Format exclusion (podcast/interview)
 4. Exclusion of content unrelated to the niche (memes/gaming/corporate tutorial)
 5. View count filter (300K/90d OR 1M/180d)
-6. Winning pattern (figure + proper noun + threat) — mandatory, discards if not met
-7. Breakout filter (views/subscribers ratio ≥ 10x) — most quota-costly, applied last
+6. Winning pattern (at least 2 of 3 signals) — mandatory, discards if not met
+7. Breakout filter (views/subscribers ratio ≥ 5x) — most quota-costly, applied last
 
 ## Expected Output
 Table with: Title, Channel, Views, Channel Subscribers, Breakout Ratio, Duration, Publish Date, URL
