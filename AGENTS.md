@@ -229,3 +229,197 @@ non terminé
 Subtitle keywords: 5 present ✅
 non terminé
 After Effects: all fields completed ✅
+DIRECTOR — Production Script Rules (Google Flow Omni Flash)
+Source: DIRECTOR_SECRETS_v3 — NODESWIS — L99. Global source of truth: /Users/alejan/REGLAS_GLOBALES_NODESWIS.txt (applies to all skills, no exceptions).
+Pipeline: Google Flow Omni Flash — text-to-video, 10s, one prompt per scene. Google AI Ultra — Flow Agent + Flow Tools + SceneBuilder active.
+
+Critical Google Flow rule — zero tolerance
+FORBIDDEN in every Omni Flash prompt: the line [IMAGE: still Nano Banana + @Character character ingredient].
+This line causes an immediate Google Flow policy rejection. The image is dropped directly into Flow as an ingredient — never declare it as text in the prompt.
+
+Full pipeline — mandatory order
+Flow Characters — create @CharacterName once per series.
+Agent Instructions — load the full episode briefing before any generation (see template below).
+Nano Banana Pro — generate a 9:16 still, drop it directly as an ingredient into Omni Flash.
+Omni Flash — a single prompt block — ingredient + text — animate + @Voice — 10s.
+SceneBuilder — assemble the 60 clips into the timeline.
+Flow Agent — batch-edit if a narration correction is needed.
+Flow Tools — apply colorimetry + 115% watermark automatically.
+Agent Instructions template — load before every episode
+SERIES: [series name]
+EPISODE: [number and title]
+CHANNEL: [ES / FR / DE / EN]
+VOICE: @Voice: [NarradorES / NarradorFR / NarradorDE / NarradorEN]
+COLORIMETRY: [channel palette]
+CHARACTER: @[CharacterName]
+FINANCIAL ANGLE: [episode angle]
+NARRATION: EXACTLY 28-30 words FR — 26-28 words ES — 32-35 words EN/DE — count before writing
+SCENE 0: brutal scroll-stopper hook — ultra-fast summary of the full series — face fully visible from the first two seconds — lips moving
+Fixed structure — absolute standard
+STRUCTURE: 60 scenes total — Scene 0 to Scene 59.
+DURATION: 600 seconds = exactly 10 minutes — 60 scenes of 10 seconds each, Scene 0 included.
+EACH SCENE: exactly 10 seconds.
+Brutal hooks — six total, every 100 seconds exactly
+Hook	Scenes
+Hook 1	0, 1, 2
+Hook 2	10, 11, 12
+Hook 3	20, 21, 22
+Hook 4	30, 31, 32
+Hook 5	40, 41, 42
+Hook 6	50, 51, 52
+Each hook carries a different brutal idea — never repeat the same angle twice. Scene 0 is an integral part of Hook 1 — it is not a separate hook outside the act structure.
+
+Rehooks — three total
+Rehook	Scenes
+Rehook 1	16, 17, 18
+Rehook 2	33, 34, 35
+Rehook 3	53, 54, 55
+CTAs — three total: Scenes 23 / 43 / 59
+⚠️ Discrepancy to confirm with Ha: the source document (DIRECTOR_SECRETS_v3) places the three CTAs at scenes 23 / 43 / 59. A separate conversation referenced scenes 20 / 40 / 59 instead. These are not reconcilable as written — scene 20 is inside Hook 3 and scene 40 is inside Hook 5, so a CTA there would overlap the hook itself. Do not resolve this silently; confirm which set is current before wiring it into AGENTS.md.
+
+Scene 5 — fixed exception
+Scene 5 always remains the colorimetry crisis scene (deep red collapse accent, see Colorimetry below) — unchanged regardless of episode content.
+
+Three-act narrative structure
+Scene 0 is included in Act 1, integrated into Hook 1 as the scroll-stopper opening.
+
+ACT 1 — Scenes 0-23: Hook 1 (0-1-2) + Hook 2 (10-11-12) + Rehook 1 (16-17-18) + Hook 3 (20-21-22) + CTA (23)
+ACT 2 — Scenes 24-43: Hook 4 (30-31-32) + Rehook 2 (33-34-35) + Hook 5 (40-41-42) + CTA (43)
+ACT 3 — Scenes 44-59: Hook 6 (50-51-52) + Rehook 3 (53-54-55) + CTA (59)
+Note: Hook 3 closes Act 1 and Hook 5 closes Act 2 — each is the last hook of its act and serves as the narrative bridge into the next act, immediately before the CTA.
+
+CTA copy — scenes 23 / 43 / 59 — mandatory
+ES: [Pregunta que desestabiliza patrimonio personal — español de España] + "Sigue el canal para la próxima revelación."
+FR: [Question déstabilisante patrimoine personnel — français de France formel] + "Suivez le canal pour la prochaine révélation."
+DE: [Frage Zürich formal — Vermögen persönlich] + "Folgen Sie dem Kanal für die nächste Enthüllung."
+EN: [BBC-formal question — personal wealth] + "Follow the channel for the next revelation."
+Narration — absolute rule — exact limits per channel
+FR: EXACTLY 28-30 words per scene
+ES: EXACTLY 26-28 words per scene
+EN: EXACTLY 32-35 words per scene
+DE: EXACTLY 32-35 words per scene
+Count word by word before writing — display the real count next to the line: "text" (29 ✅). If out of range: STOP — REWRITE — never proceed with a false count. Numbers are ALWAYS written in words — never as digits. Lips synced, elegant natural gesture. @Voice only — zero music — zero sound effects.
+
+Actor motion rule — mandatory
+The three actors (lead + two secondary) must be in continuous physical motion for the full ten seconds of every scene. The camera must be in continuous motion for the full ten seconds. Each secondary actor performs one continuous, specific physical action — turning pages, adjusting an object, walking, pouring, manipulating an instrument.
+
+Forbidden to write: stationary, immobile, motionless, never moving, fixed, never crossing frame.
+
+Aesthetic — absolute standard
+Reference: Ritz Carlton / Rolex / Patek Philippe / Ferrari / Porsche.
+Materials: leather, marble, gold, crystal, lacquered wood — never plastic.
+Light: ARRI Alexa LF 8K — never flat light.
+Settings: historically specific — never generic. Never write "Victorian office" / "grand salon" without precision — always a real, dated location.
+14 camera movements — one distinct per scene 1-13 — never repeat
+Crane shot, brutal descent
+Steadicam push-in, extreme
+Dutch angle, aggressive
+Pull back, total reveal
+Fast lateral tracking shot
+Low angle, power rise
+Overhead, plunging
+Dolly zoom (Hitchcock)
+Orbital arc around the subject
+Handheld, intimate close
+Oner, continuous tracking
+Push-out, final reveal
+Extreme macro, financial close-up
+Tilt up, monumental final
+Colorimetry — exact per channel — mandatory in every block
+ES — dramatic gold: Deep, cinematic black shadows. Warm, dramatic gold light. Soft ivory highlights. Deep red collapse accent — scene 5 only.
+FR — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade. Deep red collapse accent replacing the gold — scene 5 only.
+DE — precise cold Zürich: Deep black shadows. Precise, cold gold light. Metallic silver accent. Soft ivory highlights.
+EN — BBC high contrast: Deep black shadows. Warm gold light. Cold white, high-definition highlights. BBC high-contrast documentary grade.
+Language and voice per channel — absolute rule
+ES: Spain Spanish — formal, high-register castellano — @Voice: NarradorES
+FR: France French — formal Parisian, ARTE accent — @Voice: NarradorFR
+DE: Zürichdeutsch — formal, elite Zürich accent — @Voice: NarradorDE
+EN: British English — BBC formal — @Voice: NarradorEN
+Scene 0 format — brutal intro hook — scroll stopper
+SCENE 0 — SCROLL STOPPER — 10 SECONDS
+OMNI FLASH — Text-to-video 10s — 9:16
+[LOCATION] [most epic location of the series] — [year in words] — [channel colorimetry]
+[SUBJECT] @[CharacterName] facing camera, human face fully visible from the first two seconds, lips moving.
+[ACTION] ULTRA-FAST COLLAGE — 5 FLASH CUTS IN 10 SECONDS:
+0.0-2.0s: EXTREME STEADICAM PUSH-IN on @[CharacterName]'s face, lips already moving, gaze rising toward the lens.
+2.0-4.0s: FLASH CUT — iconic physical detail — hands / object / money — brutal close-up — short orbital arc around the detail
+4.0-6.0s: FLASH CUT — most dramatic moment of the series — aggressive dutch angle — maximum contrast
+6.0-8.0s: FLASH CUT — @[CharacterName] facing camera in front of the monumental set — human scale vs. monumental scale — low angle power shot
+8.0-10.0s: total ORBITAL PULL BACK — reveals the full extent — final frame total black
+Hard brutal cut between each flash — zero fade — pure cinema
+[CAMERA] steadicam push-in / short orbital arc / dutch angle / low angle / total orbital pull back — five distinct movements, hard cuts between each flash
+[AUDIO] @Voice: [NarradorFR/ES/DE/EN]. Zero music.
+[CHANNEL COLORIMETRY]
+ARRI Alexa LF. 8K. Motion blur on secondary actors.
+Narrator: "[BRUTAL FIGURE IN WORDS — first word is the shock word — channel word limit]" ([N] ✅)
+Zero text. Zero music. Zero watermarks.
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+Scenes 1-59 format — single Omni Flash block
+SCENE [N] — [PRECISE HISTORICAL LOCATION — YEAR IN WORDS]
+OMNI FLASH — Text-to-video 10s — 9:16
+[LOCATION] [precise, dated historical location, year in words] — [channel colorimetry]
+[SUBJECT] @[CharacterName] [precise period costume — material/color detail]
+[ACTION] @[CharacterName] lips moving clearly, gesturing continuously over [precise luxury object — material] the full ten seconds.
+Second actor in continuous physical motion — turning pages of an open leather dossier [precise detail] — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — handling [iconic object] — adjusting, pouring or manipulating throughout the ten seconds.
+All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
+[CAMERA] [Movement N from the list — different from previous scenes]. 10 seconds continuous.
+[AUDIO] @Voice: [NarradorFR/ES/DE/EN]. Zero music. Zero effects.
+[CHANNEL COLORIMETRY]
+ARRI Alexa LF. 8K.
+Narrator: "[NARRATION — channel word limit — numbers in words]" ([N] ✅)
+Zero text. Zero music. Zero watermarks.
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+Historical proper-noun replacements — zero tolerance
+The source document (DIRECTOR_SECRETS_v3) marks this table ZÉRO TOLÉRANCE with no stated exception — every entry below must always be replaced:
+
+Never write	Always write
+Rockefeller	an American industrialist
+Wall Street	an American financial hub
+Rothschild	a European banking family
+JP Morgan	a New York banker
+Google / Apple / IBM	a technology empire
+FIFA / UEFA	an international sports organization
+Nike / Adidas	a global sports brand
+⚠️ Discrepancy to confirm with Ha: the SEO/copy section of AGENTS.md carries an exception where current-affairs entities central to an episode's angle (Nvidia, Nokia, etc.) stay named. Applying that same exception here would conflict with this table, since Google / Apple / IBM, FIFA / UEFA, and Nike / Adidas are all current, real, named brands that this table orders replaced with zero tolerance and no carve-out. Two rules cannot both hold as written: either (a) this table is a fixed, closed list of brand references to anonymize in narration regardless of the current-affairs exception, or (b) the current-affairs exception overrides this table when the episode's angle is specifically about one of these brands. Confirm which interpretation applies before this ships.
+
+SEO title rule — absolute
+Before writing any title:
+
+Run nodeswis-title-generator — search YouTube + Google Trends.
+FB Title A and B: ALWAYS open with a figure written in words — never any other opening.
+IG Title: figure + brutal consequence — never "secret / guerre / incroyable" (or their translations).
+Mandatory formula: CHIFFRE IMPOSSIBLE + GÉOGRAPHIE PRÉCISE + CONSÉQUENCE BRUTALE.
+If a title doesn't comply → fix it automatically → re-validate.
+NEVER deliver a title without a figure as the first word.
+Output format — clean text only
+Zero markdown in the delivered script — no ##, no **, no comments.
+Zero visible validation — zero checklist in the output.
+Zero [IMAGE: still...] line.
+Text ready to paste directly into Google Flow.
+Output ends with: ===FIN===
+Internal validation checklist — never show in output, run silently before delivering
+non terminé
+Narration word count verified — exact limit per channel — if out of range, STOP and REWRITE.
+non terminé
+Camera movement varied across scenes 1-59 — from the 14-movement list — never repeated within the same 3-scene sequence.
+non terminé
+Correct channel colorimetry present in every block.
+non terminé
+Correct @Voice for the channel.
+non terminé
+@CharacterName present in every Omni block.
+non terminé
+Zero historical proper noun in any narration.
+non terminé
+CTA only at scenes 23 / 43 / 59 — personal-wealth question — never elsewhere. (pending confirmation — see discrepancy note above)
+non terminé
+Numbers in words everywhere.
+non terminé
+Single language — zero mixing.
+non terminé
+Zero [IMAGE: still...] line.
+non terminé
+60 scenes produced — Scene 0 to Scene 59 — never fewer, never more.
+non terminé
+Three actors and camera in continuous physical motion throughout every scene.
