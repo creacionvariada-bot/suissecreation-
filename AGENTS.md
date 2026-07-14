@@ -88,3 +88,144 @@ Minimum 10 candidates per run when possible, without sacrificing filter quality 
 
 ## Verification Rule
 No self-reported data accepted without verification. All view/subscriber data must come directly from the YouTube Data API v3 — never estimated or invented.
+SEO & Copy Generation — Meta 2026 (Facebook/Instagram)
+Role & Input Contract
+Input, not discovery — Jules receives keyword research data as INPUT, already collected by the user via vidIQ (search volume, competition, related terms, trending topics). Jules never searches, scrapes, browses, or invents keywords. Jules's only job here is to convert the supplied research + episode topic into a finished copy package following the rules below.
+Output standard — clean, copy-paste-ready text. Zero commentary, zero explanatory markdown inside the delivered copy itself (the OUTPUT FORMAT structure below is the only formatting allowed).
+No creative drift — these rules are fixed specifications, not style suggestions. Do not reinterpret limits, counts, or structure per episode.
+Blocking Validation — Run BEFORE Writing Anything
+Execute in order, silently, before delivering output. If any step fails, discard the draft entirely and rewrite from scratch — never deliver copy that is out of range.
+
+Count Facebook caption visible characters — if > 125 → STOP, rewrite.
+Count Instagram caption characters — if < 150 or > 200 → STOP, rewrite.
+Count Facebook title words — if > 14 → STOP, rewrite.
+Count Instagram title words — if > 10 → STOP, rewrite.
+Compare Instagram caption vs Facebook caption — if identical → STOP, rewrite.
+One Language Per File — Absolute Rule
+ES: Spanish from Spain — mandatory accents — zero mixing.
+FR: French from France — mandatory accents — zero mixing.
+DE: German, Zürich standard — zero mixing.
+EN: British English — zero mixing.
+Audience Per Channel
+ES: men 45–54, Spain + US Hispanic + Switzerland — elite finance.
+FR: men 35–54, Switzerland + France + Belgium + French Canada — elite wealth/heritage.
+DE: men 40–54, German-speaking Switzerland + Germany — elite finance.
+EN: men 35–54, UK + USA + Australia — elite finance.
+Vocabulary Register — Elite Audience Only
+Use: heritage / legacy / strategy / accumulation / wealth (and language-appropriate equivalents: ES patrimonio/herencia/estrategia/acumulación; FR patrimoine/héritage/stratégie/accumulation; DE Erbe/Strategie/Vermögen/Akkumulation).
+
+Never use: "discover" / "descubre" / "découvrez" / "incredible" / "increíble" / "incroyable" or any generic-viral-bait vocabulary.
+
+Facebook Specification
+Title: max 14 words. Brutal hook — number + paradox. Accents mandatory.
+Caption: max 125 visible characters (before "see more"). Single short block: brutal hook + condensed CTA, must fit entirely within the 125-character limit — never truncated mid-sentence.
+Hashtags: exactly 5. Specific to the episode's topic — never generic or repeated across episodes.
+Instagram Specification
+Title: max 10 words. Direct, visual shock. Must never be a copy of the Facebook title. Accents mandatory.
+Caption: 150–200 characters, two blocks:
+Block 1 — ultra-short brutal hook: number + paradox, max 100 characters.
+Block 2 — direct imperative CTA: short question + follow prompt, max 100 characters.
+Must always differ from the Facebook caption — never copy-paste.
+Hashtags: exactly 3. The most precise ones for the episode's topic.
+Hashtag Rule
+Never reuse the same 3–5 generic hashtags across episodes. Mix: 1 fixed channel hashtag + 2–4 hashtags specific to the episode's topic.
+
+FR example (football): #HistoireDeFrance #HistoireduFootball #EconomieduSport #PatrimoineEuropéen #Finance
+ES example (Swiss vaults): #HistoriaFinanciera #BancaSuiza #SecretosBancarios #EstrategiaFinanciera #PatrimonioEuropeo
+CTA Rule — Aggressive Level Mandatory
+The CTA must imply the reader is losing something right now.
+Never a philosophical question about history — always a personal financial situation.
+Connect directly to the reader's wealth / money / decisions (age 35–54).
+The closing CTA ("Follow the channel" / "Suivez le canal" / "Sigue el canal" / equivalent) must never be verbatim-identical across two or more pieces of the same campaign (YouTube + IG + FB combined). Vary the wording each time while keeping the aggressive tone.
+Reference examples (vary beyond these, never recycle word-for-word):
+
+EN: "Is your money working while you sleep — or sleeping with you? Follow the channel." / "Your capital is losing value as you read this. Follow the channel."
+FR: "Votre argent travaille-t-il pendant que vous dormez — ou dort-il avec vous? Suivez le canal." / "Pendant que vous lisez ceci, votre capital perd de la valeur. Suivez le canal."
+ES: "¿Tu dinero trabaja mientras duermes — o duerme contigo? Sigue el canal." / "Mientras lees esto, tu capital pierde valor. Sigue el canal."
+Caption Rules — Zero Tolerance
+Never open with: "In this episode" / "Discover" / "Dans cet épisode" / "En este episodio" or any generic content description.
+Numbers always spelled out in words, never digits (e.g. "three thousand", never "3000").
+Accents/diacritics mandatory everywhere the language requires them.
+No real historical proper names (same masking rules as the DIRECTOR script — e.g. no "Rockefeller", "Wall Street", etc., named directly).
+Exception — current-events entities: companies and public figures that are the actual subject of a current-affairs episode (e.g. Anthropic, Dario Amodei) stay named explicitly. They are the episode's subject, not a historical reference being masked.
+Alt Text
+One precise sentence, in the channel's language, describing the image. Never use "fraudulent" / "crime" — use softer equivalents like "overvalued" / "misrepresented".
+
+Thumbnail Text
+Line 1: 2 words maximum.
+Line 2: 2 words maximum.
+Subtitle Keywords
+5 financial keywords from the episode, styled in After Effects with color #C9A227.
+
+FR example: NEUTRALITÉ — ACCUMULATION — CAPITAL — STRATÉGIE — HÉRITAGE
+ES example: PATRIMONIO — ACUMULACIÓN — ESTRATEGIA — CAPITAL — HERENCIA
+Filename
+[topic-keyword-year].mp4 — use the historical year for past financial topics; use the real current year (2025/2026) for tech/AI current-affairs topics.
+
+OUTPUT FORMAT — Deliver Exactly This Structure
+FILENAME
+[topic-keyword-year].mp4
+FACEBOOK TITLE A
+[title A — max 14 words — number + paradox — accents]
+FACEBOOK TITLE B
+[title B — max 14 words — different angle — accents]
+INSTAGRAM TITLE
+[title — max 10 words — visual shock — accents]
+FACEBOOK CAPTION
+[single short block — brutal hook + condensed CTA — max 125 visible characters]
+COUNT: XXX characters ✅
+FACEBOOK HASHTAGS
+#[channel hashtag] #[topic hashtag 1] #[topic hashtag 2] #[topic hashtag 3] #[topic hashtag 4]
+INSTAGRAM CAPTION
+[Block 1 — ultra-short hook]
+[Block 2 — direct personal CTA]
+COUNT: XXX characters ✅
+INSTAGRAM HASHTAGS
+#[channel hashtag] #[topic hashtag 1] #[topic hashtag 2]
+ALT TEXT
+[image description — channel language — one precise sentence]
+THUMBNAIL
+LINE 1: [max 2 words]
+LINE 2: [max 2 words]
+SUBTITLE KEYWORDS
+[5 financial keywords from the episode — #C9A227 in After Effects]
+AFTER EFFECTS
+SERIES TITLE: [series name]
+EPISODE NUMBER: [Episode one / Episodio uno / Épisode un / Folge eins]
+EPISODE TITLE: [full title — channel language]
+SHORT TITLE: [2-3 words]
+LOWER THIRD 1: [series name]
+LOWER THIRD 2: Ep. [N] — [short title]
+OPENING CARD: [series name] | [Episode/Episodio/Épisode] [N]
+END CARD: [short title]
+Final Validation — Never Display, Run Silently Before Delivering
+non terminé
+FB caption: XXX characters — max 125 ✅ or STOP/REWRITE
+non terminé
+IG caption: XXX characters — 150–200 ✅ or STOP/REWRITE
+non terminé
+FB title: XX words — max 14 ✅ or STOP
+non terminé
+IG title: XX words — max 10 ✅ or STOP
+non terminé
+FB hashtags: exactly 5 ✅
+non terminé
+IG hashtags: exactly 3 ✅
+non terminé
+IG caption differs from FB caption ✅
+non terminé
+CTA implies personal financial loss — never philosophical ✅
+non terminé
+CTA never verbatim-identical across two pieces of the same campaign ✅
+non terminé
+Accents present everywhere required ✅
+non terminé
+Filename year matches the exception rule (historical year for past topics, real year for current-affairs topics) ✅
+non terminé
+Single language only, no mixing ✅
+non terminé
+No real historical proper names — current-affairs subject may be named ✅
+non terminé
+Subtitle keywords: 5 present ✅
+non terminé
+After Effects: all fields completed ✅
