@@ -45,13 +45,20 @@ Exclude outright — even if the title contains niche keywords ("AI", "tech", "n
 - Corporate/tutorial product content (feature demos, "how to use X product") without a power/money/collapse angle
 - Any title where the financial/power angle is not explicit and verifiable
 
-## Winning Pattern — mandatory rejection filter
-A candidate is valid if it combines AT LEAST 2 of these 3 signals, verifiable in the title OR description:
-1. "Massive" financial figure — billions of dollars, not small or vague numbers
-2. Recognizable proper noun — company (Anthropic, OpenAI, Nvidia) or person (Musk, Huang, Amodei)
-3. Systemic threat or opportunity — collapse, existential risk, breaking of the status quo
+## Exclusion of Fiction/Entertainment Content
+Exclude outright: movies, films, series, trailers, dramatizations, or any fictional/scripted content — regardless of topic or title match. Only real news/analysis/documentary-style content about actual events qualifies. Red flags: "Full Movie," "Trailer," "Thriller," "Disaster," "Epic Films," or any title signaling fictional/cinematic content.
 
-If a candidate meets fewer than 2 of these signals, discard it completely.
+## Channel Diversity Rule
+Maximum 2 candidates from the same channel per run. If a channel produces more valid candidates than this limit, keep only the top 2 by breakout ratio and discard the rest to preserve topic diversity.
+
+## Winning Pattern — mandatory rejection filter
+A candidate is valid if it combines AT LEAST 2 of these 3 signals, and each signal used must be SPECIFIC — not generic or vague:
+
+1. Financial figure — must be a real, stated number (e.g., "$1 billion," "$965B") — NOT vague terms like "huge," "massive," or unstated amounts
+2. Proper noun — must be a company or executive with real financial/power stakes (e.g., Nvidia, Anthropic, Musk, Huang, Amodei) — NOT YouTubers, streamers, or public figures unrelated to corporate/financial power
+3. Threat or opportunity — must name a specific, concrete consequence (e.g., "biggest failure," "collapse," "$1B bet," "bankruptcy to resurrection") — NOT vague phrases like "experts warned" or "does exactly what you'd expect" with no named stakes
+
+If a candidate meets fewer than 2 SPECIFIC signals, discard it completely — vague or generic matches do not count toward the 2-of-3 requirement.
 Prioritize candidates with all 3 signals when available, but do not require all 3 as a hard gate.
 Avoid abstract corporate topics without a strong proper noun (e.g., "pricing power," generic "semiconductors") — confirmed as low-performing in retention and views.
 
@@ -70,9 +77,11 @@ Avoid abstract corporate topics without a strong proper noun (e.g., "pricing pow
 2. Topic exclusion (politics/scam/violence)
 3. Format exclusion (podcast/interview)
 4. Exclusion of content unrelated to the niche (memes/gaming/corporate tutorial)
-5. View count filter (300K/90d OR 1M/180d)
-6. Winning pattern (at least 2 of 3 signals) — mandatory, discards if not met
-7. Breakout filter (views/subscribers ratio ≥ 5x) — most quota-costly, applied last
+5. Exclusion of fiction/entertainment content
+6. View count filter (300K/90d OR 1M/180d)
+7. Winning pattern (at least 2 of 3 SPECIFIC signals) — mandatory, discards if not met
+8. Channel diversity rule (max 2 per channel)
+9. Breakout filter (views/subscribers ratio ≥ 5x) — most quota-costly, applied last
 
 ## Expected Output
 Table with: Title, Channel, Views, Channel Subscribers, Breakout Ratio, Duration, Publish Date, URL
