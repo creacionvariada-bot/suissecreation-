@@ -64,13 +64,11 @@ Avoid abstract corporate topics without a strong proper noun (e.g., "pricing pow
 
 ## YouTube Data API v3 Usage — quota control
 - Use exclusively the YouTube Data API v3 — never estimate or invent data
-- HARD LIMIT: maximum 2-3 API calls per full search run
-- Efficiency order:
-  1. One search.list call with the most specific parameters possible (keywords + date + long duration)
-  2. One videos.list call in batch (up to 50 IDs) for statistics
-  3. One channels.list call in batch (up to 50 IDs) for subscriber count
-- NEVER make individual calls in a loop — always use the batch parameter with comma-separated IDs
-- If 2-3 calls do not reach the minimum of 10 valid candidates, deliver what was found and explain why the minimum was not reached — never fill in with candidates that don't meet all filters
+- Use MULTIPLE search.list calls (5-8) with different specific keyword combinations to build a broad candidate pool (target: 200-300 raw candidates) before applying filters — one single search.list call is insufficient given the strict filter cascade
+- Example keyword combinations: "Anthropic billion", "OpenAI bankruptcy", "Nvidia collapse", "AI bubble burst", "tech billionaire AI", "AI startup failure billion"
+- After building the raw pool, use videos.list in batch (up to 50 IDs per call) to get statistics for all candidates
+- Use channels.list in batch (up to 50 IDs per call) to get subscriber counts for all candidate channels
+- Deduplicate candidates across search queries before applying filters
 
 ## Filter Application Order
 1. Duration (discard Shorts, <3 min)
