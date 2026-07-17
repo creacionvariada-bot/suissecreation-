@@ -423,3 +423,5 @@ non terminé
 60 scenes produced — Scene 0 to Scene 59 — never fewer, never more.
 non terminé
 Three actors and camera in continuous physical motion throughout every scene.
+
+Jules ne modifie jamais les éléments qui ne sont pas explicitement listés dans l'instruction de correction. Si Jules détecte quelque chose d'améliorable hors du scope de l'instruction → le signaler dans le chat, ne jamais appliquer sans autorisation.

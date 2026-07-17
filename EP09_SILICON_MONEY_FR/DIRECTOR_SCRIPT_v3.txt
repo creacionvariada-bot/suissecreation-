@@ -25,767 +25,708 @@ OMNI FLASH — Text-to-video 10s — 9:16
 Narrator: "Quatre-vingt-quinze pour cent des projets liés à l'intelligence artificielle génèrent exactement zéro retour sur investissement mesurable, d'après les récentes recherches approfondies menées par l'institut américain." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 1 — BUREAU D'INVESTISSEUR PRESTIGIEUX, CUIR PLEINE FLEUR ET ACAJOU — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau d'investisseur prestigieux, cuir pleine fleur et acajou — deux mille vingt-six — ARTE golden sepia
+SCENE 1 — ESCALIERS DE PALAIS ROYAUX — DEUX MILLE VINGT-SIX
+[LOCATION] escaliers de palais royaux — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan manipule lourdement une imposante horloge mécanique en bronze massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan feuillette lentement les pages d'un atlas maritime historique avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur déplace des lingots d'or sur un plateau en argent massif avec un effort physique visible sans s'arrêter.
 [CAMERA] Steadicam push-in, extreme, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Cette illusion technologique monumentale s'effrite lentement alors que les grands dirigeants d'entreprises mondiales commencent discrètement à revoir leurs ambitions démesurées et annulent brutalement de vastes initiatives." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 2 — BIBLIOTHÈQUE PRIVÉE MAJESTUEUSE, ÉTAGÈRES EN CHÊNE SÉCULAIRE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bibliothèque privée majestueuse, étagères en chêne séculaire — deux mille vingt-six — ARTE golden sepia
+SCENE 2 — CRYPTES DE BANQUES SOUTERRAINES — DEUX MILLE VINGT-SIX
+[LOCATION] cryptes de banques souterraines — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan examine méticuleusement une loupe d'expert avec manche en ébène pur avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan examine un lourd candélabre en cristal taillé à la main avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur déroule lentement une immense carte financière en soie avec un effort physique visible sans s'arrêter.
 [CAMERA] Dutch angle, aggressive, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Au lieu de révolutionner radicalement nos économies occidentales, ces systèmes numériques coûteux échouent lamentablement à accomplir les tâches primaires, forçant les immenses conglomérats internationaux à recruter les anciens salariés." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 3 — VAULT BANCAIRE ANTIQUE, MURS EN ACIER INOXYDABLE MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Vault bancaire antique, murs en acier inoxydable massif — deux mille vingt-six — ARTE golden sepia
+SCENE 3 — PLACES FINANCIÈRES HISTORIQUES — DEUX MILLE VINGT-SIX
+[LOCATION] places financières historiques — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan aligne avec une précision chirurgicale un lourd stylo plume en or rose finement ciselé avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan caresse le revêtement en cuir de Cordoue d'un coffret avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur pèse des pièces d'or sur une balance de précision ancienne avec un effort physique visible sans s'arrêter.
 [CAMERA] Pull back, total reveal, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Une très célèbre franchise de restauration rapide vient récemment d'engager une poursuite astronomique de cent millions de dollars contre sa maison mère européenne après un déploiement véritablement catastrophique destructeur." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 4 — SALON PRIVÉ D'UN CLUB ÉLITISTE, MARBRE DE CARRARE OPULENT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salon privé d'un club élitiste, marbre de Carrare opulent — deux mille vingt-six — ARTE golden sepia
+SCENE 4 — ATELIERS DE GRAVEURS DE MONNAIES ANCIENNES — DEUX MILLE VINGT-SIX
+[LOCATION] ateliers de graveurs de monnaies anciennes — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan fait tourner rapidement un globe terrestre antique monté sur argent massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan manipule un globe terrestre en bronze patiné avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur scelle des enveloppes diplomatiques avec de la cire rouge fondue avec un effort physique visible sans s'arrêter.
 [CAMERA] Fast lateral tracking shot, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Leur nouvel outil complexe de répartition automatisé a considérablement ralenti les opérations quotidiennes de livraison, détruisant instantanément la rentabilité globale et provoquant une chute vertigineuse des ventes régionales immédiates." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 5 — ATRIUM FINANCIER CLASSIQUE, VOÛTES VERTIGINEUSES EN PIERRE SCULPTÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Atrium financier classique, voûtes vertigineuses en pierre sculptée — deux mille vingt-six — ARTE golden sepia
+SCENE 5 — QUAIS DE PORTS MARCHANDS ANCIENS — DEUX MILLE VINGT-SIX
+[LOCATION] quais de ports marchands anciens — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan transporte solennellement une pile de documents scellés par un cachet de cire rouge avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan ajuste ses boutons de manchette en platine pur avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur grave des chiffres sur des plaques de cuivre avec un effort physique visible sans s'arrêter.
 [CAMERA] Low angle, power rise, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Cette correction silencieuse mais totalement implacable traverse actuellement toutes les sphères financières mondiales, provoquant de terribles sueurs froides chez les investisseurs institutionnels qui ont parié leur immense héritage." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 6 — CABINET DE STRATÉGIE, LUSTRES EN CRISTAL DE BACCARAT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Cabinet de stratégie, lustres en cristal de Baccarat — deux mille vingt-six — ARTE golden sepia
+SCENE 6 — SALLES DES COFFRES MONUMENTALES — DEUX MILLE VINGT-SIX
+[LOCATION] salles des coffres monumentales — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan ouvre et referme brutalement une mallette diplomatique en cuir d'autruche cousu main avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan aligne des jetons de comptage en nacre véritable avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur tend des câbles de télégraphe entre deux points avec un effort physique visible sans s'arrêter.
 [CAMERA] Overhead, plunging, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "La destruction rapide de capitaux inédits soulève désormais une question fondamentale concernant la véritable valeur intrinsèque des immenses sociétés technologiques qui dominent aujourd'hui les marchés boursiers modernes et volatils." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 7 — ARCHIVES FINANCIÈRES SOUTERRAINES, ATMOSPHÈRE SOLENNELLE ET DORÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Archives financières souterraines, atmosphère solennelle et dorée — deux mille vingt-six — ARTE golden sepia
+SCENE 7 — JARDINS DE RÉSIDENCES PRIVÉES — DEUX MILLE VINGT-SIX
+[LOCATION] jardins de résidences privées — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan renverse intentionnellement un sablier monumental contenant de la poussière d'or fin avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan fait tourner un lourd sablier rempli de poudre d'argent avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur photographie des documents avec un appareil chambre ancien avec un effort physique visible sans s'arrêter.
 [CAMERA] Dolly zoom (Hitchcock), objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les analystes estiment aujourd'hui que des dizaines de milliers d'heures de travail acharné ont été totalement gaspillées pour concevoir des infrastructures numériques finalement inutilisables et complètement défectueuses." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 8 — SALLE DU CONSEIL HISTORIQUE, BOISERIES EN NOYER MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salle du conseil historique, boiseries en noyer massif — deux mille vingt-six — ARTE golden sepia
+SCENE 8 — GALERIES DE TABLEAUX FINANCIERS — DEUX MILLE VINGT-SIX
+[LOCATION] galeries de tableaux financiers — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan tourne vigoureusement les pages de un dossier financier relié en cuir véritable avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan ouvre une tabatière en ronce de noyer et or avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur dispose des billets de banque historiques sur une table en acajou avec un effort physique visible sans s'arrêter.
 [CAMERA] Orbital arc around the subject, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "La promesse initiale d'une automatisation parfaite s'est transformée en cauchemar logistique extrêmement coûteux, obligeant les grandes banques mondiales à réviser drastiquement leurs prévisions de croissance future." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 9 — BUREAU D'INVESTISSEUR PRESTIGIEUX, CUIR PLEINE FLEUR ET ACAJOU — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau d'investisseur prestigieux, cuir pleine fleur et acajou — deux mille vingt-six — ARTE golden sepia
+SCENE 9 — COLONNADES DE BANQUES CENTRALES HISTORIQUES — DEUX MILLE VINGT-SIX
+[LOCATION] colonnades de banques centrales historiques — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan manipule lourdement une imposante horloge mécanique en bronze massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan examine un astrolabe en laiton finement ciselé avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur referme un coffre-fort monumental à combinaison avec un effort physique visible sans s'arrêter.
 [CAMERA] Handheld, intimate close, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les investisseurs avertis commencent enfin à comprendre que cette frénésie d'accumulation technologique pourrait engendrer une sévère crise financière systémique capable de ravager totalement les portefeuilles institutionnels particulièrement solides." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 10 — BIBLIOTHÈQUE PRIVÉE MAJESTUEUSE, ÉTAGÈRES EN CHÊNE SÉCULAIRE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bibliothèque privée majestueuse, étagères en chêne séculaire — deux mille vingt-six — ARTE golden sepia
+SCENE 10 — SALLES DE CARTOGRAPHIE ANTIQUE — DEUX MILLE VINGT-SIX
+[LOCATION] salles de cartographie antique — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan examine méticuleusement une loupe d'expert avec manche en ébène pur avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan soulève le couvercle d'une boîte à cigares en ébène massif avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur déroule des parchemins financiers sur une table de lecture avec un effort physique visible sans s'arrêter.
 [CAMERA] Oner, continuous tracking, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Dix-neuf mille milliards de dollars de capitalisation virtuelle sont aujourd'hui directement menacés par une correction majeure, d'après les analyses rigoureuses publiées par les experts du célèbre groupe." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 11 — VAULT BANCAIRE ANTIQUE, MURS EN ACIER INOXYDABLE MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Vault bancaire antique, murs en acier inoxydable massif — deux mille vingt-six — ARTE golden sepia
+SCENE 11 — TERRASSES PANORAMIQUES DE GRATTE-CIELS CLASSIQUES — DEUX MILLE VINGT-SIX
+[LOCATION] terrasses panoramiques de gratte-ciels classiques — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan aligne avec une précision chirurgicale un lourd stylo plume en or rose finement ciselé avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan trace des lignes avec un compas d'architecte en or avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur aligne des pièces de monnaie d'époque sur du velours noir avec un effort physique visible sans s'arrêter.
 [CAMERA] Push-out, final reveal, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Cette gigantesque somme astronomique représente un danger et un risque systémique sans précédent historique depuis la fin tragique des entreprises de l'internet au tout début des années deux mille." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 12 — SALON PRIVÉ D'UN CLUB ÉLITISTE, MARBRE DE CARRARE OPULENT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salon privé d'un club élitiste, marbre de Carrare opulent — deux mille vingt-six — ARTE golden sepia
+SCENE 12 — LABORATOIRES D'ASSAYEURS D'OR — DEUX MILLE VINGT-SIX
+[LOCATION] laboratoires d'assayeurs d'or — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan fait tourner rapidement un globe terrestre antique monté sur argent massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan déplace une statuette de taureau en bronze massif avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur transporte une malle en cuir clouté remplie de documents avec un effort physique visible sans s'arrêter.
 [CAMERA] Extreme macro, financial close-up, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Nous assistons à l'éclatement progressif d'une vaste bulle spéculative, où l'enthousiasme aveugle des investisseurs fortunés se heurte brutalement aux limites technologiques du monde financier d'aujourd'hui." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 13 — ATRIUM FINANCIER CLASSIQUE, VOÛTES VERTIGINEUSES EN PIERRE SCULPTÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Atrium financier classique, voûtes vertigineuses en pierre sculptée — deux mille vingt-six — ARTE golden sepia
+SCENE 13 — COURS INTÉRIEURES DE PALAIS RENAISSANCE — DEUX MILLE VINGT-SIX
+[LOCATION] cours intérieures de palais Renaissance — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan transporte solennellement une pile de documents scellés par un cachet de cire rouge avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan observe le reflet de la lumière sur un diamant monté en bague avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur vérifie des registres avec une règle en ivoire ancien avec un effort physique visible sans s'arrêter.
 [CAMERA] Tilt up, monumental final, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les colossales infrastructures informatiques nécessitent des ressources électriques qui demeurent physiquement impossibles à déployer correctement, rendant ainsi les immenses investissements initiaux totalement inutiles pour les grandes puissances mondiales." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 14 — CABINET DE STRATÉGIE, LUSTRES EN CRISTAL DE BACCARAT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Cabinet de stratégie, lustres en cristal de Baccarat — deux mille vingt-six — ARTE golden sepia
+SCENE 14 — CABINETS DE NOTAIRES HISTORIQUES — DEUX MILLE VINGT-SIX
+[LOCATION] cabinets de notaires historiques — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan ouvre et referme brutalement une mallette diplomatique en cuir d'autruche cousu main avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan referme doucement un livre d'heures aux enluminures d'or avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur emballe des lingots dans du velours bordeaux avec un effort physique visible sans s'arrêter.
 [CAMERA] Crane shot, brutal descent, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Pendant que les dirigeants technologiques vendent lâchement leurs propres actions personnelles, les investisseurs institutionnels ordinaires conservent aveuglément leurs portefeuilles, espérant naïvement une reprise économique miraculeuse absolument impossible et illusoire." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 15 — ARCHIVES FINANCIÈRES SOUTERRAINES, ATMOSPHÈRE SOLENNELLE ET DORÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Archives financières souterraines, atmosphère solennelle et dorée — deux mille vingt-six — ARTE golden sepia
+SCENE 15 — PARVIS DE CATHÉDRALES FINANCIÈRES — DEUX MILLE VINGT-SIX
+[LOCATION] parvis de cathédrales financières — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan renverse intentionnellement un sablier monumental contenant de la poussière d'or fin avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan ajuste le fermoir en acier trempé d'une sacoche de coursier avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur huile les rouages d'une horloge monumentale en bronze avec un effort physique visible sans s'arrêter.
 [CAMERA] Steadicam push-in, extreme, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Le capital immense accumulé durant ces deux dernières années s'évapore silencieusement, laissant derrière lui une infrastructure énergétique inutile et des promesses d'innovation complètement vides de sens." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 16 — SALLE DU CONSEIL HISTORIQUE, BOISERIES EN NOYER MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salle du conseil historique, boiseries en noyer massif — deux mille vingt-six — ARTE golden sepia
+SCENE 16 — SALLES DE TÉLÉGRAPHE FINANCIER — DEUX MILLE VINGT-SIX
+[LOCATION] salles de télégraphe financier — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan tourne vigoureusement les pages de un dossier financier relié en cuir véritable avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan examine les rouages d'une montre de gousset ouverte avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur timbre des documents avec un sceau en or massif avec un effort physique visible sans s'arrêter.
 [CAMERA] Dutch angle, aggressive, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Ce revirement brutal des immenses conglomérats occidentaux annonce une sévère correction drastique du marché financier mondial, affectant irrémédiablement le précieux patrimoine sécurisé des familles les plus fortunées aujourd'hui même." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 17 — BUREAU D'INVESTISSEUR PRESTIGIEUX, CUIR PLEINE FLEUR ET ACAJOU — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau d'investisseur prestigieux, cuir pleine fleur et acajou — deux mille vingt-six — ARTE golden sepia
+SCENE 17 — PONTS HISTORIQUES AU LEVER DU JOUR — DEUX MILLE VINGT-SIX
+[LOCATION] ponts historiques au lever du jour — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan manipule lourdement une imposante horloge mécanique en bronze massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan manipule un coupe-papier à manche en lapis-lazuli avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur classe des obligations financières dans des casiers en chêne avec un effort physique visible sans s'arrêter.
 [CAMERA] Pull back, total reveal, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "La dure réalité économique finit toujours par rattraper les illusions technologiques les plus séduisantes, détruisant sans aucune pitié les portefeuilles mal diversifiés des investisseurs refusant fièrement cette imminente correction." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 18 — BIBLIOTHÈQUE PRIVÉE MAJESTUEUSE, ÉTAGÈRES EN CHÊNE SÉCULAIRE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bibliothèque privée majestueuse, étagères en chêne séculaire — deux mille vingt-six — ARTE golden sepia
+SCENE 18 — LOGES DE NÉGOCIANTS EN SOIERIES — DEUX MILLE VINGT-SIX
+[LOCATION] loges de négociants en soieries — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan examine méticuleusement une loupe d'expert avec manche en ébène pur avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan tourne délicatement une clé monumentale en fer forgé avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur compte des pièces d'or avec des gants blancs de coton avec un effort physique visible sans s'arrêter.
 [CAMERA] Fast lateral tracking shot, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Une grande entreprise internationale spécialisée a follement dépensé environ cinq cents millions de dollars en un seul mois pour des outils numériques totalement inutiles, illustrant parfaitement cette folie financière irrationnelle." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 19 — VAULT BANCAIRE ANTIQUE, MURS EN ACIER INOXYDABLE MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Vault bancaire antique, murs en acier inoxydable massif — deux mille vingt-six — ARTE golden sepia
+SCENE 19 — FAÇADES DE BOURSES MONDIALES HISTORIQUES — DEUX MILLE VINGT-SIX
+[LOCATION] façades de bourses mondiales historiques — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan aligne avec une précision chirurgicale un lourd stylo plume en or rose finement ciselé avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan lisse les bords d'un traité d'alliance sur parchemin avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur referme un livre de comptes relié en maroquin rouge avec un effort physique visible sans s'arrêter.
 [CAMERA] Low angle, power rise, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
-Narrator: "L'effondrement silencieux de ces immenses entreprises phares pourrait bientôt se propager vers d'autres secteurs critiques, entraînant une vaste panique boursière inévitable chez tous les grands investisseurs institutionnels européens." (30 ✅)
+Narrator: "Le retournement silencieux de ces immenses entreprises phares pourrait bientôt se propager vers d'autres secteurs critiques, entraînant une vaste panique boursière inévitable chez tous les grands investisseurs institutionnels européens." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 20 — SALON PRIVÉ D'UN CLUB ÉLITISTE, MARBRE DE CARRARE OPULENT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salon privé d'un club élitiste, marbre de Carrare opulent — deux mille vingt-six — ARTE golden sepia
+SCENE 20 — OBSERVATOIRES ASTRONOMIQUES PRIVÉS — DEUX MILLE VINGT-SIX
+[LOCATION] observatoires astronomiques privés — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan fait tourner rapidement un globe terrestre antique monté sur argent massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan positionne des pièces d'échecs en marbre et albâtre avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur déploie un abaque en ébène et ivoire sur la table avec un effort physique visible sans s'arrêter.
 [CAMERA] Overhead, plunging, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Une prestigieuse institution d'analyse financière confirme que d'immenses projets informatiques atteignant plus de deux gigawatts de puissance électrique totale ont été purement et simplement abandonnés sans aucune explication." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 21 — ATRIUM FINANCIER CLASSIQUE, VOÛTES VERTIGINEUSES EN PIERRE SCULPTÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Atrium financier classique, voûtes vertigineuses en pierre sculptée — deux mille vingt-six — ARTE golden sepia
+SCENE 21 — PARVIS D'ANCIENS MARCHÉS BOURSIERS — DEUX MILLE VINGT-SIX
+[LOCATION] parvis d'anciens marchés boursiers — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan transporte solennellement une pile de documents scellés par un cachet de cire rouge avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan observe un rubis à travers une lentille en cristal avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur examine une action historique à la loupe cerclée d'or avec un effort physique visible sans s'arrêter.
 [CAMERA] Dolly zoom (Hitchcock), objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les contrats de construction massifs sont désormais résiliés silencieusement dans la nuit, laissant derrière eux d'immenses terrains vagues et des chantiers industriels complètement désertés par les promoteurs." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 22 — CABINET DE STRATÉGIE, LUSTRES EN CRISTAL DE BACCARAT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Cabinet de stratégie, lustres en cristal de Baccarat — deux mille vingt-six — ARTE golden sepia
+SCENE 22 — FONDERIES DE MÉTAUX PRÉCIEUX — DEUX MILLE VINGT-SIX
+[LOCATION] fonderies de métaux précieux — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan ouvre et referme brutalement une mallette diplomatique en cuir d'autruche cousu main avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan referme les fermoirs en laiton d'un lourd dossier de cuir avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur nettoie un plateau de présentation en argent massif avec un effort physique visible sans s'arrêter.
 [CAMERA] Orbital arc around the subject, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Cette annulation discrète d'infrastructures physiques prouve indéniablement que les gigantesques dirigeants d'empires technologiques ne croient plus du tout en la viabilité financière de leurs propres promesses." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 23 — ARCHIVES FINANCIÈRES SOUTERRAINES, ATMOSPHÈRE SOLENNELLE ET DORÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Archives financières souterraines, atmosphère solennelle et dorée — deux mille vingt-six — ARTE golden sepia
+SCENE 23 — JARDINS SUSPENDUS DE DEMEURES ARISTOCRATIQUES — DEUX MILLE VINGT-SIX
+[LOCATION] jardins suspendus de demeures aristocratiques — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan renverse intentionnellement un sablier monumental contenant de la poussière d'or fin avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan déploie une carte des routes commerciales en toile avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur aligne des lingots d'argent pur sur un drap de velours avec un effort physique visible sans s'arrêter.
 [CAMERA] Handheld, intimate close, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Votre propre patrimoine personnel est-il actuellement lourdement exposé à cette bulle spéculative très dangereuse qui menace brutalement de détruire vos précieuses réserves financières ? Suivez le canal pour la révélation." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 24 — SALLE DU CONSEIL HISTORIQUE, BOISERIES EN NOYER MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salle du conseil historique, boiseries en noyer massif — deux mille vingt-six — ARTE golden sepia
+SCENE 24 — CHAMBRES FORTES EN GRANIT — DEUX MILLE VINGT-SIX
+[LOCATION] chambres fortes en granit — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan tourne vigoureusement les pages de un dossier financier relié en cuir véritable avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan ajuste la mèche d'une lampe de bureau en bronze ouvragé avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur affûte une plume calligraphique avec un canif en nacre avec un effort physique visible sans s'arrêter.
 [CAMERA] Oner, continuous tracking, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les mêmes conglomérats qui annonçaient récemment la fin du travail humain lancent aujourd'hui de vastes campagnes mondiales pour embaucher discrètement des milliers de nouveaux employés diplômés qualifiés." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 25 — BUREAU D'INVESTISSEUR PRESTIGIEUX, CUIR PLEINE FLEUR ET ACAJOU — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau d'investisseur prestigieux, cuir pleine fleur et acajou — deux mille vingt-six — ARTE golden sepia
+SCENE 25 — ALLÉES MAJESTUEUSES DE DOMAINES PRIVÉS — DEUX MILLE VINGT-SIX
+[LOCATION] allées majestueuses de domaines privés — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan manipule lourdement une imposante horloge mécanique en bronze massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan fait glisser une chaîne de gousset en or massif entre ses doigts avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur trie des diamants bruts avec une pince en or avec un effort physique visible sans s'arrêter.
 [CAMERA] Push-out, final reveal, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Cette contradiction stupéfiante démontre parfaitement l'incapacité chronique des nouveaux systèmes automatisés à résoudre des problèmes intellectuels complexes sans recourir directement à l'intervention indispensable du cerveau humain." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 26 — BIBLIOTHÈQUE PRIVÉE MAJESTUEUSE, ÉTAGÈRES EN CHÊNE SÉCULAIRE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bibliothèque privée majestueuse, étagères en chêne séculaire — deux mille vingt-six — ARTE golden sepia
+SCENE 26 — SALLES DE PESÉE DE LINGOTS — DEUX MILLE VINGT-SIX
+[LOCATION] salles de pesée de lingots — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan examine méticuleusement une loupe d'expert avec manche en ébène pur avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan aligne des encriers en verre taillé sur son bureau avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur consigne des transactions sur un registre aux bords dorés avec un effort physique visible sans s'arrêter.
 [CAMERA] Extreme macro, financial close-up, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "La promesse séduisante d'une entreprise entièrement gérée par des machines intelligentes s'est transformée en un cauchemar logistique terriblement coûteux pour les directeurs financiers des puissantes sociétés occidentales." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 27 — VAULT BANCAIRE ANTIQUE, MURS EN ACIER INOXYDABLE MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Vault bancaire antique, murs en acier inoxydable massif — deux mille vingt-six — ARTE golden sepia
+SCENE 27 — BELVÉDÈRES DOMINANT D'ANCIENS QUARTIERS D'AFFAIRES — DEUX MILLE VINGT-SIX
+[LOCATION] belvédères dominant d'anciens quartiers d'affaires — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan aligne avec une précision chirurgicale un lourd stylo plume en or rose finement ciselé avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan caresse le bois laqué d'une maquette de navire marchand avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur manipule un boulier asiatique en bois de rose avec un effort physique visible sans s'arrêter.
 [CAMERA] Tilt up, monumental final, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Nous observons un retour fulgurant vers les méthodes de gestion traditionnelles et éprouvées, prouvant ainsi la valeur irremplaçable du jugement humain dans les décisions stratégiques les plus cruciales." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 28 — SALON PRIVÉ D'UN CLUB ÉLITISTE, MARBRE DE CARRARE OPULENT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salon privé d'un club élitiste, marbre de Carrare opulent — deux mille vingt-six — ARTE golden sepia
+SCENE 28 — ATELIERS D'HORLOGERIE DE PRÉCISION — DEUX MILLE VINGT-SIX
+[LOCATION] ateliers d'horlogerie de précision — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan fait tourner rapidement un globe terrestre antique monté sur argent massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan examine un sceau diplomatique taillé dans l'ivoire avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur dépoussière un compas de marine en cuivre patiné avec un effort physique visible sans s'arrêter.
 [CAMERA] Crane shot, brutal descent, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
-Narrator: "Les faillites silencieuses d'entreprises innovantes soutenues par des géants illustrent parfaitement la fragilité extrême d'un modèle économique fondé exclusivement sur des promesses grandioses et des illusions virtuelles." (29 ✅)
+Narrator: "Les dissolutions silencieuses d'entreprises innovantes soutenues par des géants illustrent parfaitement la fragilité extrême d'un modèle économique fondé exclusivement sur des promesses grandioses et des illusions virtuelles." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 29 — ATRIUM FINANCIER CLASSIQUE, VOÛTES VERTIGINEUSES EN PIERRE SCULPTÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Atrium financier classique, voûtes vertigineuses en pierre sculptée — deux mille vingt-six — ARTE golden sepia
+SCENE 29 — QUAIS PAVÉS DE COMPTOIRS D'IMPORTATION — DEUX MILLE VINGT-SIX
+[LOCATION] quais pavés de comptoirs d'importation — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan transporte solennellement une pile de documents scellés par un cachet de cire rouge avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan souffèse une lourde pièce d'or de huit escudos avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur referme une lourde sacoche diplomatique en crocodile avec un effort physique visible sans s'arrêter.
 [CAMERA] Steadicam push-in, extreme, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Chaque jour qui passe révèle de nouvelles annulations massives de projets numériques internationaux, accélérant inévitablement la destruction rapide de capitaux colossaux initialement destinés à construire un avenir radieux." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 30 — CABINET DE STRATÉGIE, LUSTRES EN CRISTAL DE BACCARAT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Cabinet de stratégie, lustres en cristal de Baccarat — deux mille vingt-six — ARTE golden sepia
+SCENE 30 — GALERIES SOUTERRAINES DE LINGOTS — DEUX MILLE VINGT-SIX
+[LOCATION] galeries souterraines de lingots — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan ouvre et referme brutalement une mallette diplomatique en cuir d'autruche cousu main avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan referme le clapet d'une bourse en velours cramoisi avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur verrouille un tiroir de dépôt avec une clé ciselée avec un effort physique visible sans s'arrêter.
 [CAMERA] Dutch angle, aggressive, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Un célèbre dirigeant technologique américain recrute soudainement un millier de nouveaux diplômés universitaires pour combler ses propres lacunes techniques, après avoir prédit la destruction massive d'emplois administratifs." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 31 — ARCHIVES FINANCIÈRES SOUTERRAINES, ATMOSPHÈRE SOLENNELLE ET DORÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Archives financières souterraines, atmosphère solennelle et dorée — deux mille vingt-six — ARTE golden sepia
+SCENE 31 — MARCHES DE MARBRE D'ANCIENNES DOUANES — DEUX MILLE VINGT-SIX
+[LOCATION] marches de marbre d'anciennes douanes — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan renverse intentionnellement un sablier monumental contenant de la poussière d'or fin avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan déplace un étouffoir à bougie en argent ciselé avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur tamponne des certificats d'action avec un encreur en argent avec un effort physique visible sans s'arrêter.
 [CAMERA] Pull back, total reveal, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Cette volte-face spectaculaire et silencieuse expose cyniquement l'hypocrisie déconcertante des élites financières, qui manipulent habilement les attentes boursières pour masquer les échecs cuisants de leurs outils numériques." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 32 — SALLE DU CONSEIL HISTORIQUE, BOISERIES EN NOYER MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salle du conseil historique, boiseries en noyer massif — deux mille vingt-six — ARTE golden sepia
+SCENE 32 — BIBLIOTHÈQUES DE TRAITÉS FINANCIERS MANUSCRITS — DEUX MILLE VINGT-SIX
+[LOCATION] bibliothèques de traités financiers manuscrits — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan tourne vigoureusement les pages de un dossier financier relié en cuir véritable avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan manipule une longue règle de calcul en palissandre avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur pèse des émeraudes sur une balance d'apothicaire avec un effort physique visible sans s'arrêter.
 [CAMERA] Fast lateral tracking shot, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "L'incapacité criante de ces nouvelles technologies à comprendre le contexte humain complexe engendre des erreurs commerciales catastrophiques qui coûtent littéralement des fortunes colossales aux plus grandes entreprises mondiales." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 33 — BUREAU D'INVESTISSEUR PRESTIGIEUX, CUIR PLEINE FLEUR ET ACAJOU — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau d'investisseur prestigieux, cuir pleine fleur et acajou — deux mille vingt-six — ARTE golden sepia
+SCENE 33 — TERRASSES DE VILLAS PATRICIENNES — DEUX MILLE VINGT-SIX
+[LOCATION] terrasses de villas patriciennes — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan manipule lourdement une imposante horloge mécanique en bronze massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan tourne les pages d'un répertoire des marchés financiers avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur ajuste le balancier d'une horloge astronomique ancienne avec un effort physique visible sans s'arrêter.
 [CAMERA] Low angle, power rise, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "La destruction silencieuse et systématique de la confiance des investisseurs amorce une puissante correction boursière, pulvérisant violemment les portefeuilles aveugles de ceux refusant fermement d'observer ces immenses changements." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 34 — BIBLIOTHÈQUE PRIVÉE MAJESTUEUSE, ÉTAGÈRES EN CHÊNE SÉCULAIRE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bibliothèque privée majestueuse, étagères en chêne séculaire — deux mille vingt-six — ARTE golden sepia
+SCENE 34 — SALLES DE CARTOGRAPHIE NAUTIQUE — DEUX MILLE VINGT-SIX
+[LOCATION] salles de cartographie nautique — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan examine méticuleusement une loupe d'expert avec manche en ébène pur avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan ajuste le couvercle d'un coffret à thé en marqueterie avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur classe des lettres de crédit dans un semainier en ronce de noyer avec un effort physique visible sans s'arrêter.
 [CAMERA] Overhead, plunging, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les tribunaux internationaux commencent doucement à recevoir des plaintes massives contre les promesses mensongères d'automatisation, transformant ces illusions technologiques en de véritables cauchemars judiciaires extrêmement coûteux pour tous." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 35 — VAULT BANCAIRE ANTIQUE, MURS EN ACIER INOXYDABLE MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Vault bancaire antique, murs en acier inoxydable massif — deux mille vingt-six — ARTE golden sepia
+SCENE 35 — PONTS DE PIERRE ENJAMBANT DES CANAUX MARCHANDS — DEUX MILLE VINGT-SIX
+[LOCATION] ponts de pierre enjambant des canaux marchands — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan aligne avec une précision chirurgicale un lourd stylo plume en or rose finement ciselé avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan observe un lingot d'argent à travers son reflet avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur examine une gravure bancaire sous une lampe à pétrole avec un effort physique visible sans s'arrêter.
 [CAMERA] Dolly zoom (Hitchcock), objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Une compagnie aérienne internationale de premier plan a récemment perdu un jugement retentissant après que son outil automatisé a inventé une fausse politique commerciale, causant un préjudice financier." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 36 — SALON PRIVÉ D'UN CLUB ÉLITISTE, MARBRE DE CARRARE OPULENT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salon privé d'un club élitiste, marbre de Carrare opulent — deux mille vingt-six — ARTE golden sepia
+SCENE 36 — CHAMBRES D'IMPRIMERIE DE BILLETS DE BANQUE — DEUX MILLE VINGT-SIX
+[LOCATION] chambres d'imprimerie de billets de banque — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan fait tourner rapidement un globe terrestre antique monté sur argent massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan referme un carnet de bord aux ferrures de laiton avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur scelle une boîte de transport en fer forgé avec un effort physique visible sans s'arrêter.
 [CAMERA] Orbital arc around the subject, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les dirigeants ont vainement tenté d'argumenter juridiquement que leur programme informatique était une entité légale indépendante, une excuse lamentable fermement rejetée par les juges expérimentés des hautes cours." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 37 — ATRIUM FINANCIER CLASSIQUE, VOÛTES VERTIGINEUSES EN PIERRE SCULPTÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Atrium financier classique, voûtes vertigineuses en pierre sculptée — deux mille vingt-six — ARTE golden sepia
+SCENE 37 — COURS D'HONNEUR DE FONDATIONS BANCAIRES — DEUX MILLE VINGT-SIX
+[LOCATION] cours d'honneur de fondations bancaires — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan transporte solennellement une pile de documents scellés par un cachet de cire rouge avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan caresse les maillons d'une gourmette en or gris avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur tire les fils de soie d'une reliure notariale avec un effort physique visible sans s'arrêter.
 [CAMERA] Handheld, intimate close, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Cette décision juridique historique crée désormais un précédent extrêmement dangereux pour toutes les autres sociétés qui utilisent imprudemment ces systèmes numériques défectueux pour gérer leurs relations avec les clients." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 38 — CABINET DE STRATÉGIE, LUSTRES EN CRISTAL DE BACCARAT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Cabinet de stratégie, lustres en cristal de Baccarat — deux mille vingt-six — ARTE golden sepia
+SCENE 38 — ARCHIVES NOTARIALES EN PARCHEMIN — DEUX MILLE VINGT-SIX
+[LOCATION] archives notariales en parchemin — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan ouvre et referme brutalement une mallette diplomatique en cuir d'autruche cousu main avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan déplace un poids de balance en acier poli brillant avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur dépoussière des titres de propriété avec un pinceau en poils de martre avec un effort physique visible sans s'arrêter.
 [CAMERA] Oner, continuous tracking, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les énormes amendes potentielles pourraient rapidement anéantir les maigres bénéfices réalisés par l'automatisation, rendant ces nouvelles technologies beaucoup trop risquées pour être déployées à grande échelle dans les entreprises." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 39 — ARCHIVES FINANCIÈRES SOUTERRAINES, ATMOSPHÈRE SOLENNELLE ET DORÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Archives financières souterraines, atmosphère solennelle et dorée — deux mille vingt-six — ARTE golden sepia
+SCENE 39 — AVENUES BORDÉES D'ARBRES CENTENAIRES — DEUX MILLE VINGT-SIX
+[LOCATION] avenues bordées d'arbres centenaires — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan renverse intentionnellement un sablier monumental contenant de la poussière d'or fin avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan examine un télescope portatif recouvert de cuir avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur trie des saphirs sur un tapis de cuir vert avec un effort physique visible sans s'arrêter.
 [CAMERA] Push-out, final reveal, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "La gestion rigoureuse des risques opérationnels exige impérativement une supervision humaine constante et qualifiée, réduisant complètement à néant les prétendues économies promises par ces sociétés technologiques très novatrices." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 40 — SALLE DU CONSEIL HISTORIQUE, BOISERIES EN NOYER MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salle du conseil historique, boiseries en noyer massif — deux mille vingt-six — ARTE golden sepia
+SCENE 40 — SALONS DE NÉGOCIATION DIPLOMATIQUE — DEUX MILLE VINGT-SIX
+[LOCATION] salons de négociation diplomatique — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan tourne vigoureusement les pages de un dossier financier relié en cuir véritable avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan manipule un boulier aux tiges d'argent massif avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur ajuste les poids en cuivre d'une balance à fléau avec un effort physique visible sans s'arrêter.
 [CAMERA] Extreme macro, financial close-up, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
-Narrator: "Une fameuse entreprise émergente s'est effondrée brutalement après la découverte soudaine d'une vaste fraude comptable colossale s'élevant à exactement cent quatre-vingts millions d'euros cette année." (29 ✅)
+Narrator: "Une fameuse entreprise émergente s'est désintégrée brutalement après la découverte soudaine d'irrégularités comptables massives et colossales s'élevant à exactement cent quatre-vingts millions d'euros cette année." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 41 — BUREAU D'INVESTISSEUR PRESTIGIEUX, CUIR PLEINE FLEUR ET ACAJOU — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau d'investisseur prestigieux, cuir pleine fleur et acajou — deux mille vingt-six — ARTE golden sepia
+SCENE 41 — PLACES PAVÉES ENTOURÉES DE MONUMENTS FINANCIERS — DEUX MILLE VINGT-SIX
+[LOCATION] places pavées entourées de monuments financiers — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan manipule lourdement une imposante horloge mécanique en bronze massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan tourne la molette d'un calendrier perpétuel en cuivre avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur range des cachets de cire dans un coffret en acajou avec un effort physique visible sans s'arrêter.
 [CAMERA] Tilt up, monumental final, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les dirigeants ambitieux prétendaient fièrement construire des logiciels de manière automatisée, alors que des centaines d'ingénieurs humains travaillaient secrètement dans l'ombre pour accomplir toutes les tâches technologiques complexes." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 42 — BIBLIOTHÈQUE PRIVÉE MAJESTUEUSE, ÉTAGÈRES EN CHÊNE SÉCULAIRE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bibliothèque privée majestueuse, étagères en chêne séculaire — deux mille vingt-six — ARTE golden sepia
+SCENE 42 — BUREAUX PRIVÉS LAMBRISSÉS D'ÉBÈNE — DEUX MILLE VINGT-SIX
+[LOCATION] bureaux privés lambrissés d'ébène — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan examine méticuleusement une loupe d'expert avec manche en ébène pur avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan ajuste les aiguilles d'une pendulette de voyage en or avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur polit un coupe-papier en argent massif avec un effort physique visible sans s'arrêter.
 [CAMERA] Crane shot, brutal descent, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Cette immense supercherie financière démontre tragiquement que la véritable magie technologique vendue aux investisseurs internationaux n'est souvent qu'un simple artifice soigneusement orchestré pour amasser des capitaux considérables rapidement." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 43 — VAULT BANCAIRE ANTIQUE, MURS EN ACIER INOXYDABLE MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Vault bancaire antique, murs en acier inoxydable massif — deux mille vingt-six — ARTE golden sepia
+SCENE 43 — JARDINS GÉOMÉTRIQUES DE MANOIRS HISTORIQUES — DEUX MILLE VINGT-SIX
+[LOCATION] jardins géométriques de manoirs historiques — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan aligne avec une précision chirurgicale un lourd stylo plume en or rose finement ciselé avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan lisse un document officiel orné d'un ruban de soie avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur assemble des contrats sur parchemin véritable avec un effort physique visible sans s'arrêter.
 [CAMERA] Steadicam push-in, extreme, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
-Narrator: "Vos économies durement gagnées financent-elles actuellement sans le savoir ces dangereuses supercheries technologiques qui s'effondrent brutalement de toutes parts ? Suivez le canal pour la prochaine révélation exclusive." (28 ✅)
+Narrator: "Vos économies durement gagnées financent-elles actuellement sans le savoir ces dangereuses supercheries technologiques qui se disloquent brutalement de toutes parts ? Suivez le canal pour la prochaine révélation exclusive." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 44 — SALON PRIVÉ D'UN CLUB ÉLITISTE, MARBRE DE CARRARE OPULENT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salon privé d'un club élitiste, marbre de Carrare opulent — deux mille vingt-six — ARTE golden sepia
+SCENE 44 — SALLES DE TRI DE PIERRES PRÉCIEUSES — DEUX MILLE VINGT-SIX
+[LOCATION] salles de tri de pierres précieuses — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan fait tourner rapidement un globe terrestre antique monté sur argent massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan fait glisser un sceau en améthyste véritable avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur referme une urne de vote diplomatique en bronze avec un effort physique visible sans s'arrêter.
 [CAMERA] Dutch angle, aggressive, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les investisseurs sophistiqués et expérimentés liquident discrètement mais massivement leurs positions risquées, abandonnant ainsi les actionnaires ordinaires face à une dévaluation boursière imminente et inévitable sur les marchés." (28 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 45 — ATRIUM FINANCIER CLASSIQUE, VOÛTES VERTIGINEUSES EN PIERRE SCULPTÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Atrium financier classique, voûtes vertigineuses en pierre sculptée — deux mille vingt-six — ARTE golden sepia
+SCENE 45 — BALCONS SCULPTÉS DOMINANT LE PORT — DEUX MILLE VINGT-SIX
+[LOCATION] balcons sculptés dominant le port — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan transporte solennellement une pile de documents scellés par un cachet de cire rouge avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan observe les graduations d'un pied à coulisse ancien avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur mesure un lingot d'or avec un pied à coulisse en acier poli avec un effort physique visible sans s'arrêter.
 [CAMERA] Pull back, total reveal, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "La correction financière brutale qui se prépare actuellement dans l'ombre des grandes salles de marchés mondiales anéantira sans pitié toutes les fortunes familiales mal préparées à ces bouleversements." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 46 — CABINET DE STRATÉGIE, LUSTRES EN CRISTAL DE BACCARAT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Cabinet de stratégie, lustres en cristal de Baccarat — deux mille vingt-six — ARTE golden sepia
+SCENE 46 — CAVES VOÛTÉES ABRITANT DES RÉSERVES D'ARGENT — DEUX MILLE VINGT-SIX
+[LOCATION] caves voûtées abritant des réserves d'argent — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan ouvre et referme brutalement une mallette diplomatique en cuir d'autruche cousu main avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan referme le tiroir d'un meuble de tri en acajou massif avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur enveloppe des pierres précieuses dans des feuillets de soie avec un effort physique visible sans s'arrêter.
 [CAMERA] Fast lateral tracking shot, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
-Narrator: "Chaque faillite de ces jeunes entreprises innovantes envoie un message d'avertissement clair aux banquiers concernant l'impossibilité de monétiser rapidement ces colossales infrastructures informatiques lourdement subventionnées par les états." (30 ✅)
+Narrator: "Chaque dissolution de ces jeunes entreprises innovantes envoie un message d'avertissement clair aux banquiers concernant l'impossibilité de monétiser rapidement ces colossales infrastructures informatiques lourdement subventionnées par les états." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 47 — ARCHIVES FINANCIÈRES SOUTERRAINES, ATMOSPHÈRE SOLENNELLE ET DORÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Archives financières souterraines, atmosphère solennelle et dorée — deux mille vingt-six — ARTE golden sepia
+SCENE 47 — PARVIS DE GRANDS HÔTELS DE LA MONNAIE — DEUX MILLE VINGT-SIX
+[LOCATION] parvis de grands hôtels de la monnaie — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan renverse intentionnellement un sablier monumental contenant de la poussière d'or fin avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan déplace un encrier de voyage en cuir bouilli avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur scelle un tube de transport de documents en laiton avec un effort physique visible sans s'arrêter.
 [CAMERA] Low angle, power rise, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Le capitalisme moderne n'a jamais pardonné les immenses investissements dépourvus de rentabilité économique concrète, et cette nouvelle bulle spéculative subira inévitablement exactement le même traitement impitoyable que les précédentes." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 48 — SALLE DU CONSEIL HISTORIQUE, BOISERIES EN NOYER MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salle du conseil historique, boiseries en noyer massif — deux mille vingt-six — ARTE golden sepia
+SCENE 48 — SALONS DE RÉCEPTION TENDUS DE VELOURS — DEUX MILLE VINGT-SIX
+[LOCATION] salons de réception tendus de velours — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan tourne vigoureusement les pages de un dossier financier relié en cuir véritable avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan manipule un chronomètre de marine dans son coffret en bois avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur tourne la manivelle d'un cryptographe mécanique en bois avec un effort physique visible sans s'arrêter.
 [CAMERA] Overhead, plunging, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les fondations mêmes de cette nouvelle économie virtuelle sont extrêmement fragiles, soutenues uniquement par l'enthousiasme aveugle et irrationnel des foules d'investisseurs inexpérimentés cherchant désespérément un profit facile immédiat." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 49 — BUREAU D'INVESTISSEUR PRESTIGIEUX, CUIR PLEINE FLEUR ET ACAJOU — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau d'investisseur prestigieux, cuir pleine fleur et acajou — deux mille vingt-six — ARTE golden sepia
+SCENE 49 — ESPLANADES FACE À D'ANTIQUES BOURSES MARITIMES — DEUX MILLE VINGT-SIX
+[LOCATION] esplanades face à d'antiques bourses maritimes — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan manipule lourdement une imposante horloge mécanique en bronze massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan tourne les pages d'un annuaire d'armateurs du siècle passé avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur ajuste un télescope en cuivre pointé vers le ciel avec un effort physique visible sans s'arrêter.
 [CAMERA] Dolly zoom (Hitchcock), objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les véritables stratèges financiers européens accumulent silencieusement de vastes liquidités tangibles, attendant patiemment le grand éclatement final pour racheter les infrastructures abandonnées à des prix véritablement dérisoires et incroyables." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 50 — BIBLIOTHÈQUE PRIVÉE MAJESTUEUSE, ÉTAGÈRES EN CHÊNE SÉCULAIRE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bibliothèque privée majestueuse, étagères en chêne séculaire — deux mille vingt-six — ARTE golden sepia
+SCENE 50 — CABINETS DE CURIOSITÉS D'INVESTISSEURS — DEUX MILLE VINGT-SIX
+[LOCATION] cabinets de curiosités d'investisseurs — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan examine méticuleusement une loupe d'expert avec manche en ébène pur avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan ajuste la base d'un baromètre en laiton massif avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur classe des plans d'architecture de coffres-forts avec un effort physique visible sans s'arrêter.
 [CAMERA] Orbital arc around the subject, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
-Narrator: "L'effondrement colossal de la confiance envers l'automatisation précipitera inévitablement une panique financière mondiale extrêmement dévastatrice, détruisant définitivement les espoirs d'une croissance boursière infinie et miraculeuse pour tous." (30 ✅)
+Narrator: "Le retournement colossal de la confiance envers l'automatisation précipitera inévitablement une panique financière mondiale extrêmement dévastatrice, détruisant définitivement les espoirs d'une croissance boursière infinie et miraculeuse pour tous." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 51 — VAULT BANCAIRE ANTIQUE, MURS EN ACIER INOXYDABLE MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Vault bancaire antique, murs en acier inoxydable massif — deux mille vingt-six — ARTE golden sepia
+SCENE 51 — TERRASSES EMPIERRÉES D'ANCIENS PALAIS CONSULAIRES — DEUX MILLE VINGT-SIX
+[LOCATION] terrasses empierrées d'anciens palais consulaires — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan aligne avec une précision chirurgicale un lourd stylo plume en or rose finement ciselé avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan caresse le manche en ivoire sculpté d'un sceau avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur pèse de la poudre d'or dans des fioles de verre soufflé avec un effort physique visible sans s'arrêter.
 [CAMERA] Handheld, intimate close, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les directeurs généraux dissimulent nerveusement leurs profonds doutes existentiels sous des discours grandiloquents trompeurs, pendant qu'ils annulent discrètement leurs ambitieux projets dans le plus grand secret de leurs bureaux." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 52 — SALON PRIVÉ D'UN CLUB ÉLITISTE, MARBRE DE CARRARE OPULENT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salon privé d'un club élitiste, marbre de Carrare opulent — deux mille vingt-six — ARTE golden sepia
+SCENE 52 — SALLES DE LECTURE DE CORRESPONDANCES MARCHANDES — DEUX MILLE VINGT-SIX
+[LOCATION] salles de lecture de correspondances marchandes — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan fait tourner rapidement un globe terrestre antique monté sur argent massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan déplace un porte-plume en cristal taillé avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur trie des sceaux royaux dans des loges de velours bleu avec un effort physique visible sans s'arrêter.
 [CAMERA] Oner, continuous tracking, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "La destruction systémique imminente des valorisations technologiques actuelles effacera des décennies entières d'accumulation laborieuse de patrimoine pour les nombreuses familles aveuglées par ces fausses et dangereuses promesses d'innovation." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 53 — ATRIUM FINANCIER CLASSIQUE, VOÛTES VERTIGINEUSES EN PIERRE SCULPTÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Atrium financier classique, voûtes vertigineuses en pierre sculptée — deux mille vingt-six — ARTE golden sepia
+SCENE 53 — ESCALIERS MONUMENTAUX DE MINISTÈRES HISTORIQUES — DEUX MILLE VINGT-SIX
+[LOCATION] escaliers monumentaux de ministères historiques — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan transporte solennellement une pile de documents scellés par un cachet de cire rouge avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan examine la serrure complexe d'une caisse à obligations avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur dépoussière un globe céleste antique en métal précieux avec un effort physique visible sans s'arrêter.
 [CAMERA] Push-out, final reveal, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "La réévaluation drastique des gigantesques budgets informatiques mondiaux provoque actuellement un vaste séisme financier silencieux mais terriblement dévastateur, qui menace de ruiner définitivement tous les investisseurs ignorant ces signaux." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 54 — CABINET DE STRATÉGIE, LUSTRES EN CRISTAL DE BACCARAT — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Cabinet de stratégie, lustres en cristal de Baccarat — deux mille vingt-six — ARTE golden sepia
+SCENE 54 — CHAMBRES DE COMPTAGE AUX LOURDES PORTES — DEUX MILLE VINGT-SIX
+[LOCATION] chambres de comptage aux lourdes portes — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan ouvre et referme brutalement une mallette diplomatique en cuir d'autruche cousu main avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan manipule un compas d'épaisseur en acier bleui avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur ouvre délicatement un écrin à bijoux en marqueterie avec un effort physique visible sans s'arrêter.
 [CAMERA] Extreme macro, financial close-up, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les entreprises les plus solides abandonnent sagement cette dangereuse course irrationnelle pour se reconcentrer exclusivement sur des stratégies commerciales tangibles, réalistes et capables de générer des bénéfices financiers concrets." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 55 — ARCHIVES FINANCIÈRES SOUTERRAINES, ATMOSPHÈRE SOLENNELLE ET DORÉE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Archives financières souterraines, atmosphère solennelle et dorée — deux mille vingt-six — ARTE golden sepia
+SCENE 55 — COURS D'ARCADES DE VIEUX PALAIS MARCHANDS — DEUX MILLE VINGT-SIX
+[LOCATION] cours d'arcades de vieux palais marchands — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan renverse intentionnellement un sablier monumental contenant de la poussière d'or fin avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan tourne délicatement le barillet d'une combinaison de coffre avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur aiguise un stylet en ivoire sur une pierre fine avec un effort physique visible sans s'arrêter.
 [CAMERA] Tilt up, monumental final, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
-Narrator: "Cette sagesse pragmatique retrouvée contraste brutalement avec la folie des petits spéculateurs mal informés, s'accrochant désespérément à leurs illusions virtuelles malgré l'effondrement de cet immense édifice financier." (29 ✅)
+Narrator: "Cette sagesse pragmatique retrouvée contraste brutalement avec la folie des petits spéculateurs mal informés, s'accrochant désespérément à leurs illusions virtuelles malgré la désintégration de cet immense édifice financier." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 56 — SALLE DU CONSEIL HISTORIQUE, BOISERIES EN NOYER MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Salle du conseil historique, boiseries en noyer massif — deux mille vingt-six — ARTE golden sepia
+SCENE 56 — ATELIERS DE RELIURE DE REGISTRES COMPTABLES — DEUX MILLE VINGT-SIX
+[LOCATION] ateliers de reliure de registres comptables — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan tourne vigoureusement les pages de un dossier financier relié en cuir véritable avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan ajuste la focale d'une longue-vue d'officier de marine avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur réorganise des rouleaux de soie d'importation avec un effort physique visible sans s'arrêter.
 [CAMERA] Crane shot, brutal descent, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Le marché mondial finira par sanctionner sans pitié les sociétés arrogantes gaspillant leurs immenses capitaux dans la poursuite obstinée de fantasmes technologiques inaccessibles et extrêmement ruineux d'aujourd'hui." (29 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 57 — BUREAU D'INVESTISSEUR PRESTIGIEUX, CUIR PLEINE FLEUR ET ACAJOU — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau d'investisseur prestigieux, cuir pleine fleur et acajou — deux mille vingt-six — ARTE golden sepia
+SCENE 57 — JARDINS D'HIVER DE DEMEURES BOURGEOISES — DEUX MILLE VINGT-SIX
+[LOCATION] jardins d'hiver de demeures bourgeoises — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan manipule lourdement une imposante horloge mécanique en bronze massif avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan observe les reflets d'une monnaie byzantine ancienne avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur vérifie le filigrane de billets anciens face à la lumière avec un effort physique visible sans s'arrêter.
 [CAMERA] Steadicam push-in, extreme, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "Les fondements inébranlables de l'économie classique exigent systématiquement des rendements réels et palpables, une exigence que cette nouvelle vague spéculative virtuelle est totalement incapable de satisfaire à long terme." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 58 — BIBLIOTHÈQUE PRIVÉE MAJESTUEUSE, ÉTAGÈRES EN CHÊNE SÉCULAIRE — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bibliothèque privée majestueuse, étagères en chêne séculaire — deux mille vingt-six — ARTE golden sepia
+SCENE 58 — GALERIES D'EXPOSITION DE JOYAUX COURONNÉS — DEUX MILLE VINGT-SIX
+[LOCATION] galeries d'exposition de joyaux couronnés — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan examine méticuleusement une loupe d'expert avec manche en ébène pur avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan referme le fermoir d'un lourd cahier de quittances avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur ferme une mallette de transport de fonds blindée avec un effort physique visible sans s'arrêter.
 [CAMERA] Dutch angle, aggressive, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
 Narrator: "La grande correction financière n'est plus une simple théorie lointaine, mais bien une réalité brutale et mathématique qui se déploie actuellement sous vos yeux émerveillés dans toutes les bourses." (30 ✅)
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no modern laptop, no whiteboard, no generic conference room, no logos, no watermarks, no music.
 
-SCENE 59 — VAULT BANCAIRE ANTIQUE, MURS EN ACIER INOXYDABLE MASSIF — DEUX MILLE VINGT-SIX
-OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Vault bancaire antique, murs en acier inoxydable massif — deux mille vingt-six — ARTE golden sepia
+SCENE 59 — FRONTONS SCULPTÉS D'ANCIENNES RÉSIDENCES DE BANQUIERS — DEUX MILLE VINGT-SIX
+[LOCATION] frontons sculptés d'anciennes résidences de banquiers — deux mille vingt-six — ARTE golden sepia
 [SUBJECT] @Narrateur en costume croisé en laine vierge sombre, lèvres synchronisées avec les syllabes exactes de la narration.
 [ACTION] @Narrateur marche de façon dynamique en gesticulant largement avec les deux bras pour souligner chaque argument.
-Le deuxième acteur en arrière-plan aligne avec une précision chirurgicale un lourd stylo plume en or rose finement ciselé avec de larges mouvements constants tout au long de la scène.
-Le troisième acteur traverse vigoureusement la pièce en portant des registres comptables historiques avec un effort physique visible.
+Le deuxième acteur en arrière-plan déplace une statuette symbolisant la bourse en fonte de fer avec des mouvements amples, visibles et constants tout au long de la scène.
+Le troisième acteur nettoie l'objectif d'une lunette d'observation maritime avec un effort physique visible sans s'arrêter.
 [CAMERA] Pull back, total reveal, objectif 35mm anamorphique f/2.8. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY] ARRI Alexa LF. 8K. ARTE golden sepia.
