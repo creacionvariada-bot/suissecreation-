@@ -1,0 +1,16 @@
+[HOOKS POTENCIALES]
+
+1. "[00:01:57] Goldman Sachs ran the numbers on the entire AI data center boom and found that the market had already added $19 trillion to AI exposed company values since 2022."
+2. "[00:01:34] One month later, analysts at TD Cowen found that Microsoft had canceled or walked away from data center projects totaling over 2 gigawatts of capacity."
+3. "[00:05:39] MIT's GenAI Divide report found that 95% of enterprise AI projects deliver zero measurable return on investment."
+4. "[00:08:51] When a hundred and eighty million dollars in accounting fraud surfaced on top of that, the company collapsed and creditors came after them."
+5. "[00:07:35] A Pizza Hut franchisee that operates a hundred and eleven locations filed a hundred million lawsuit against the parent company over a mandated AI dispatch system."
+
+[MOMENTOS MÁS FUERTES/CITABLES]
+
+1. "[00:01:08] They're canceling data centers, rehiring the humans they laid off, getting sued by their own franchisees, and quietly walking back everything they said two years ago."
+2. "[00:02:18] And the money is only part of the story because the companies that went ahead and fired people to replace them with AI are now hiring those people back."
+3. "[00:05:26] Just this week, it came out that an unnamed enterprise client ran up a $500 million bill on AI tools in a single month."
+4. "[00:03:59] He announced Salesforce was hiring a thousand new graduates, apparently forgetting that he had spent the previous two years explaining why those jobs no longer needed to exist."
+5. "[00:07:53] After the AI was installed, about 50% of deliveries took 45 minutes or longer. Same-store sales in New York City swung from double-digit growth to nearly negative 10% year-over-year."
+6. "[00:08:59] From billion-dollar collapses to hundred-million-dollar lawsuits, the cost of over-promising on AI is adding up fast."
