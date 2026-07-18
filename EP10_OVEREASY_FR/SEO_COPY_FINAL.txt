@@ -1,8 +1,8 @@
 FILENAME
-finance-bourse-2026.mp4
+bulle-ia-bourse-2026.mp4
 
 FACEBOOK TITLE A
-Quatre-vingt-quinze pour cent d'échecs : le mythe réévalué.
+Soixante-dix-huit pour cent de perte : la bulle IA commence sa correction.
 
 FACEBOOK TITLE B
 La stratégie des institutions face au réajustement des marchés.
@@ -26,8 +26,8 @@ ALT TEXT
 Des investisseurs examinent des graphiques financiers complexes dans un bureau prestigieux.
 
 THUMBNAIL
-LINE 1: NOUVELLE
-LINE 2: ÉPOQUE
+LINE 1: BULLE
+LINE 2: IA
 
 SUBTITLE KEYWORDS
 FINANCE — BOURSE — PATRIMOINE — STRATÉGIE — HÉRITAGE
@@ -35,9 +35,9 @@ FINANCE — BOURSE — PATRIMOINE — STRATÉGIE — HÉRITAGE
 AFTER EFFECTS
 SERIES TITLE: L'Empire de l'IA
 EPISODE NUMBER: Épisode dix
-EPISODE TITLE: Comment l'Intelligence Artificielle Va Faire Crasher la Bourse
-SHORT TITLE: Le Krach Approche
+EPISODE TITLE: La Bulle de l'IA Va Exploser : Ce Que Personne N'Ose Dire
+SHORT TITLE: La Bulle de l'IA
 LOWER THIRD 1: L'Empire de l'IA
-LOWER THIRD 2: Ep. 10 — Le Krach Approche
+LOWER THIRD 2: Ep. 10 — La Bulle de l'IA
 OPENING CARD: L'Empire de l'IA | Épisode 10
-END CARD: Le Krach Approche
+END CARD: La Bulle de l'IA
