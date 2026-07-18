@@ -1,0 +1,25 @@
+HOOKS
+
+1. [00:02] "Sam Altman, the CEO of OpenAI and unofficial high priest of the AI cult, just randomly admitted that, 'Yeah, this might all be a bubble.'"
+Why it works: Uses a powerful proper noun (Sam Altman/OpenAI) and immediately presents the systemic threat (a bubble) straight from the industry leader's mouth.
+
+2. [01:35] "Just four companies, Amazon, Meta, Google, and Microsoft spent about $344 billion on AI infrastructure in 2024 alone."
+Why it works: Contains a massive, specific financial figure ($344 billion) and names the biggest proper nouns in tech, establishing the sheer scale of the bet.
+
+3. [02:29] "China's state-owned companies have reportedly spent another $500 billion on their own AI buildout..."
+Why it works: Adds a geopolitical angle with a staggering figure ($500 billion), framing the AI race as a massive, high-stakes global power struggle.
+
+4. [04:02] "New Massachusetts Institute of Technology report called the Gen AI Divide found that 95% of companies using generative AI got zero return on investment."
+Why it works: Uses a highly credible institution (MIT) and a shocking metric (95% zero ROI) to explicitly validate the threat of total failure.
+
+5. [06:20] "Coastal VCs are calling this the biggest private tech bubble ever..."
+Why it works: Directly states the ultimate threat (biggest private tech bubble ever) using the perspective of those funding it, making the collapse seem imminent and structural.
+
+CITABLE MOMENTS (Figures/Claims)
+
+1. [00:20] "He even compared it to the.com bubble, that fun time when the NASDAQ lost almost 80% of its value..."
+2. [01:35] "...four companies, Amazon, Meta, Google, and Microsoft spent about $344 billion on AI infrastructure in 2024 alone. That's more than 1% of the entire GDP of the United States..."
+3. [02:08] "...OpenAI... raised $40 billion, then lined up another $6 billion secondary share sale, and Alman casually mentioned he expects to spend trillions on data centers..."
+4. [02:29] "China's state-owned companies have reportedly spent another $500 billion on their own AI buildout..."
+5. [03:06] "The United States grid is especially not ready for this. Most of it was built in the 1960s and '7s, and it's running with just 15% reserve capacity."
+6. [04:02] "New Massachusetts Institute of Technology report called the Gen AI Divide found that 95% of companies using generative AI got zero return on investment."
