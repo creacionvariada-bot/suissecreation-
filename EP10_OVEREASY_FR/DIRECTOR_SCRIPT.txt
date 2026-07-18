@@ -15,7 +15,7 @@ Hard brutal cut between each flash — zero fade — pure cinema
 [AUDIO] @Voice: NarradorFR. Zero music.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8. Motion blur on secondary actors.
-Narrator: "Trois cent quarante quatre milliards investis en infrastructure technologique en une seule année. La Chine et l Amérique s affrontent. Le réseau mondial touche maintenant ses limites physiques absolues." (30 ✅)
+Narrator: "Trois cent quarante quatre milliards investis en infrastructure technologique en une seule année. La Chine et l Amérique s affrontent. Le réseau mondial touche maintenant ses limites physiques absolues." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -75,7 +75,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L aménagement de nouveaux centres informatiques monopolise tous les terrains disponibles rapidement. Les réglementations environnementales compliquent considérablement ces développements urbains. Les projets phares accusent d énormes retards logistiques inattendus." (29 ✅)
+Narrator: "Les permis de construire se raréfient face à l explosion des demandes. Les riverains s opposent massivement à ces infrastructures envahissantes. Le déploiement territorial accuse des retards considérables et coûteux." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -315,7 +315,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Les entreprises publiques orientales dépensent cinq cents milliards pour cette course technologique. La concurrence asiatique menace directement la domination occidentale. Une lutte géopolitique majeure se joue silencieusement aujourd hui même." (30 ✅)
+Narrator: "La Chine injecte cinq cents milliards dans cette course technologique mondiale effrénée. Pékin menace directement la domination occidentale sur les semi conducteurs. Une lutte géopolitique majeure se joue silencieusement aujourd hui même." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -330,7 +330,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L intégration complexe décourage les petites entreprises d investir massivement. Le fossé technologique s accroît face aux multinationales. L adoption reste très marginale dans la véritable économie réelle d aujourd." (30 ✅)
+Narrator: "L intégration complexe décourage les petites entreprises d investir massivement. Le fossé technologique s accroît face aux multinationales. L adoption reste très marginale dans la véritable économie réelle d aujourd hui." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -570,7 +570,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L intégration forcée de ces outils irrite les travailleurs sur le terrain. La perte de productivité paradoxale devient un lourd secret d entreprise. Le profond malaise social grandit de manière." (30 ✅)
+Narrator: "L intégration forcée de ces outils irrite les travailleurs sur le terrain. La perte de productivité paradoxale devient un lourd secret d entreprise. Le profond malaise social grandit de manière alarmante." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -615,7 +615,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le boom technologique percute violemment un mur physique incontournable. Plus aucune prise électrique n est disponible à grande échelle. L insuffisance matérielle bloque tout développement futur de manière définitive." (29 ✅)
+Narrator: "Trois mille milliards de watts manquent pour alimenter cette industrie vorace en énergie. Plus aucune prise électrique n est disponible à grande échelle. L insuffisance matérielle bloque tout développement futur définitivement." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -645,7 +645,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L appétit vorace des processeurs exige des centrales électriques entièrement dédiées. La transition énergétique recule devant ces exigences monumentales inattendues. Le coût de fonctionnement écrase toutes les prévisions de rentabilité." (30 ✅)
+Narrator: "Des sommes astronomiques financent des projets sans véritable modèle de rentabilité clair. Le système s appuie sur des flux continus de capitaux extérieurs pour survivre encore une année de plus." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -660,7 +660,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Vos économies personnelles sont elles exposées à ces mirages énergétiques ? Posez vous la question cruciale avant qu il ne soit tard. Suivez le canal pour découvrir une vérité essentielle dissimulée." (30 ✅)
+Narrator: "Vos économies sont elles exposées à ces mirages énergétiques ? Posez vous la question cruciale avant qu il ne soit tard. Suivez le canal pour découvrir une vérité essentielle dissimulée." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -675,7 +675,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "La valorisation des entreprises s appuie sur des profits futurs inaccessibles. Les premières baisses de revenus provoquent un exode massif des investisseurs prudents. Le cycle vertueux s inverse dangereusement cette." (30 ✅)
+Narrator: "La valorisation des entreprises s appuie sur des profits futurs inaccessibles. Les premières baisses de revenus provoquent un exode massif des investisseurs prudents. Le cycle vertueux s inverse dangereusement cette année." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -720,7 +720,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L endettement massif des startups spécialisées atteint un point de rupture critique. Les taux de refinancement punitifs bloquent leur trésorerie fragile. Les premières liquidations silencieuses nettoient secrètement le marché secondaire." (30 ✅)
+Narrator: "L endettement massif des startups spécialisées atteint un point de rupture critique. Les taux de refinancement punitifs bloquent leur trésorerie fragile. Les premières cessations d activité nettoient secrètement le marché secondaire." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -735,7 +735,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L insatisfaction client freine dramatiquement le renouvellement des abonnements professionnels. Les logiciels complexes coûtent beaucoup trop cher pour leur utilité véritable. Les flux de trésorerie récurrents s assèchent mystérieusement mais." (30 ✅)
+Narrator: "L insatisfaction client freine dramatiquement le renouvellement des abonnements professionnels. Les logiciels complexes coûtent beaucoup trop cher pour leur utilité véritable. Les flux de trésorerie récurrents s assèchent progressivement." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -750,7 +750,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L intervention des autorités anti monopole fige les fusions et acquisitions salvatrices. L absence de porte de sortie effraie considérablement les bailleurs de fonds initiaux. Le piège spéculatif se referme." (30 ✅)
+Narrator: "L intervention des autorités anti monopole fige les fusions et acquisitions salvatrices. L absence de porte de sortie effraie considérablement les bailleurs de fonds initiaux. Le piège spéculatif se referme inexorablement." (31 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -765,7 +765,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Les capitaux de la plus grande bulle privée menacent désormais votre propre patrimoine durement acquis. La correction inévitable engloutira des milliers de portefeuilles non préparés face à ce cataclysme majeur." (30 ✅)
+Narrator: "Wall Street qualifie désormais cette période de bulle privée historique sans précédent absolu. La correction inévitable engloutira des milliers de portefeuilles non préparés. Le temps presse pour protéger votre patrimoine durement acquis." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -780,7 +780,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L euphorie des petits porteurs cède la place à un mouvement de panique latent. Les retraits de fonds s multiplient hors du champ médiatique principal. La liquidité globale se contracte." (30 ✅)
+Narrator: "L euphorie des petits porteurs cède la place à un mouvement de panique latent. Les retraits de fonds s multiplient hors du champ médiatique principal. La liquidité globale se contracte violemment." (31 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -795,7 +795,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L interdépendance des valeurs de croissance provoque un effet domino dévastateur imminent. La chute brutale d un seul maillon fragilise tout le système boursier. L architecture financière révèle son immense." (30 ✅)
+Narrator: "L interdépendance des valeurs de croissance provoque un effet domino dévastateur imminent. La chute brutale d un seul maillon fragilise tout le système boursier. L architecture financière révèle son immense fragilité." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -840,7 +840,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L impact écologique désastreux suscite de lourdes pénalités et de nouvelles régulations contraignantes. Les coûts d exploitation explosent sous le poids des nouvelles taxes vertes incontournables. La profitabilité devient miraculeuse." (30 ✅)
+Narrator: "L impact écologique considérable suscite de lourdes pénalités et de nouvelles régulations contraignantes. Les coûts d exploitation explosent sous le poids des nouvelles taxes vertes incontournables. La profitabilité devient miraculeuse." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
@@ -900,7 +900,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Votre stratégie patrimoniale survivra t elle à cette correction d une ampleur historique absolue ? Suivez le canal pour découvrir la prochaine analyse essentielle et ajustez vos placements dès aujourd hui." (30 ✅)
+Narrator: "Votre stratégie patrimoniale survivra t elle à cette correction d une ampleur historique ? Suivez le canal pour découvrir la prochaine analyse essentielle et ajustez vos placements dès aujourd hui." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
