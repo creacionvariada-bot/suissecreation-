@@ -1,0 +1,319 @@
+[00:00:02.750 - 00:00:02.760] In 2022, chat GPT was released to the
+[00:00:02.760 - 00:00:05.070] market and since then the growth of AI
+[00:00:05.080 - 00:00:06.710] has been impressive. The creation of
+[00:00:06.720 - 00:00:09.310] hyperrealistic images, code generation,
+[00:00:09.320 - 00:00:10.910] and even the delegation of complex
+[00:00:10.920 - 00:00:13.110] tasks. AI seemed capable of doing
+[00:00:13.120 - 00:00:15.110] everything with great ease and after
+[00:00:15.120 - 00:00:16.950] seeing everything it was capable of
+[00:00:16.960 - 00:00:18.430] companies began adopting AI
+[00:00:18.440 - 00:00:20.630] exponentially. They incorporated it into
+[00:00:20.640 - 00:00:22.510] their processes and realized that it was
+[00:00:22.520 - 00:00:25.910] extremely cheap. But precisely because
+[00:00:25.920 - 00:00:29.190] of its low costs AI also began to bring
+[00:00:29.200 - 00:00:30.030] problems.
+[00:00:30.040 - 00:00:32.230] >> AI company called Anthropic is raising
+[00:00:32.240 - 00:00:34.230] alarms tonight about AI's potential
+[00:00:34.240 - 00:00:36.350] impact on employment that could soon be
+[00:00:36.360 - 00:00:36.910] felt.
+[00:00:36.920 - 00:00:38.950] >> Thousands of layoffs, team reductions,
+[00:00:38.960 - 00:00:41.350] and massive displacement. Literally, AI
+[00:00:41.360 - 00:00:43.310] was eliminating jobs across every
+[00:00:43.320 - 00:00:45.590] industry. From roles in tech companies
+[00:00:45.600 - 00:00:47.190] >> Amazon, Chegg, Microsoft, Meta,
+[00:00:47.200 - 00:00:48.590] Salesforce, the list continues. Tech
+[00:00:48.600 - 00:00:49.950] companies just are cutting tens of
+[00:00:49.960 - 00:00:50.910] thousands of jobs
+[00:00:50.920 - 00:00:52.070] >> to fast food chains.
+[00:00:52.080 - 00:00:53.870] >> You could soon be ordering from an AI
+[00:00:53.880 - 00:00:55.790] machine instead of a real person. The
+[00:00:55.800 - 00:00:57.430] fast food company's owner announcing
+[00:00:57.440 - 00:00:59.030] today that artificial intelligence will
+[00:00:59.040 - 00:01:01.110] work the drive-thru at hundreds of
+[00:01:01.120 - 00:01:03.310] locations by the end of this year.
+[00:01:03.320 - 00:01:05.150] >> AI was wiping out almost any type of
+[00:01:05.160 - 00:01:07.390] job. It could perform the work of entire
+[00:01:07.400 - 00:01:09.710] teams in just minutes largely because it
+[00:01:09.720 - 00:01:11.550] was much more efficient but above all
+[00:01:11.560 - 00:01:13.910] because it was cheaper to maintain. But
+[00:01:13.920 - 00:01:15.990] in recent months a problem has started
+[00:01:16.000 - 00:01:17.230] to emerge.
+[00:01:17.240 - 00:01:19.830] AI is becoming very expensive.
+[00:01:19.840 - 00:01:22.150] >> Because AI maybe is becoming too
+[00:01:22.160 - 00:01:23.790] expensive to scale.
+[00:01:23.800 - 00:01:25.830] >> Using open cloud these days is like
+[00:01:25.840 - 00:01:27.230] driving a Ferrari.
+[00:01:27.240 - 00:01:29.710] >> So much so that Microsoft itself banned
+[00:01:29.720 - 00:01:32.310] its own employees from using Claude code
+[00:01:32.320 - 00:01:33.630] due to its high costs.
+[00:01:33.640 - 00:01:36.350] >> So Microsoft starts canceling Claude
+[00:01:36.360 - 00:01:37.990] code licenses.
+[00:01:38.000 - 00:01:39.350] >> But this is not only happening at
+[00:01:39.360 - 00:01:43.150] Microsoft. Uber, Nvidia, Amazon, and
+[00:01:43.160 - 00:01:44.590] hundreds of other companies have
+[00:01:44.600 - 00:01:47.070] reported similar cost problems making it
+[00:01:47.080 - 00:01:48.870] almost impossible even for top
+[00:01:48.880 - 00:01:50.790] executives to justify such a high
+[00:01:50.800 - 00:01:51.510] expense.
+[00:01:51.520 - 00:01:54.190] >> Big tech is scrambling to slow down its
+[00:01:54.200 - 00:01:56.470] use of AI. Major companies have already
+[00:01:56.480 - 00:01:59.230] exhausted their annual budgets and some
+[00:01:59.240 - 00:02:00.710] say it's getting more difficult to
+[00:02:00.720 - 00:02:02.230] justify the costs.
+[00:02:02.240 - 00:02:04.070] >> But if AI promised to be so cheap and
+[00:02:04.080 - 00:02:06.630] efficient, how did it end up costing
+[00:02:06.640 - 00:02:15.750] more than the workers it replaced?
+[00:02:17.110 - 00:02:17.120] Although the birth of artificial
+[00:02:17.120 - 00:02:18.510] intelligence dates back [music] to the
+[00:02:18.520 - 00:02:21.190] beginning of the 1950s, it was not until
+[00:02:21.200 - 00:02:23.510] 2022 that this technology truly
+[00:02:23.520 - 00:02:25.270] experienced a boom. It promised
+[00:02:25.280 - 00:02:27.390] efficiency and solutions to complex
+[00:02:27.400 - 00:02:29.710] problems with just one click. But most
+[00:02:29.720 - 00:02:31.390] importantly, it promised to save
+[00:02:31.400 - 00:02:33.190] companies a lot of money. From
+[00:02:33.200 - 00:02:34.949] technology companies to fast food
+[00:02:34.959 - 00:02:36.670] chains, every business began
+[00:02:36.680 - 00:02:38.590] implementing it at an unprecedented
+[00:02:38.600 - 00:02:40.510] speed. It was such a revolutionary
+[00:02:40.520 - 00:02:42.510] technology that it could do the work of
+[00:02:42.520 - 00:02:45.710] 10 people at 1/10 of the price. Or at
+[00:02:45.720 - 00:02:48.350] least, that was what people were saying.
+[00:02:48.360 - 00:02:50.630] >> AI is a technology for taking away your
+[00:02:50.640 - 00:02:53.230] job and maybe eventually displacing
+[00:02:53.240 - 00:02:56.430] human sovereignty over our own future.
+[00:02:56.440 - 00:02:58.670] >> Starting in 2023, companies began not
+[00:02:58.680 - 00:03:00.710] only encouraging, but also forcing their
+[00:03:00.720 - 00:03:03.110] employees to use AI tools, causing
+[00:03:03.120 - 00:03:04.630] demand for these models to grow
+[00:03:04.640 - 00:03:06.710] uncontrollably. And the way companies
+[00:03:06.720 - 00:03:08.110] measured their AI performance [music]
+[00:03:08.120 - 00:03:10.509] and usage was through tokens. Using a
+[00:03:10.519 - 00:03:12.350] high number of tokens became somewhat of
+[00:03:12.360 - 00:03:14.790] a status symbol among employees, proving
+[00:03:14.800 - 00:03:16.509] that they were going above and beyond to
+[00:03:16.519 - 00:03:18.949] meet key performance indicators. But
+[00:03:18.959 - 00:03:20.830] there was a problem. After realizing
+[00:03:20.840 - 00:03:23.390] this, employees began using these tokens
+[00:03:23.400 - 00:03:25.430] excessively, simply to appear more
+[00:03:25.440 - 00:03:28.190] efficient at the end of the month. This
+[00:03:28.200 - 00:03:30.870] gave rise to what became known as token
+[00:03:30.880 - 00:03:32.212] maxing.
+[00:03:32.222 - 00:03:32.870] >> [music]
+[00:03:32.880 - 00:03:34.830] >> Token max, like that's actually the
+[00:03:34.840 - 00:03:36.390] coolest thing you can do now.
+[00:03:36.400 - 00:03:38.110] >> Token maxing in this new way of
+[00:03:38.120 - 00:03:38.790] building.
+[00:03:38.800 - 00:03:40.910] >> But token maxing is expensive. For
+[00:03:40.920 - 00:03:42.750] text-based inquiries, the math is
+[00:03:42.760 - 00:03:45.949] simple. With 750 words costing 1,000
+[00:03:45.959 - 00:03:48.870] tokens, and generating videos, images,
+[00:03:48.880 - 00:03:51.430] code, and more can cost much more. By
+[00:03:51.440 - 00:03:54.110] the end of 2025, token maxing began
+[00:03:54.120 - 00:03:56.430] becoming popular among tech companies,
+[00:03:56.440 - 00:03:57.910] making it increasingly common [music]
+[00:03:57.920 - 00:04:00.310] for software engineers to use AI even
+[00:04:00.320 - 00:04:02.590] for insignificant tasks. But, much of
+[00:04:02.600 - 00:04:04.670] this popularity was driven by statements
+[00:04:04.680 - 00:04:05.430] like these.
+[00:04:05.440 - 00:04:07.870] >> That $500,000 engineer at the end of the
+[00:04:07.880 - 00:04:09.590] year, I'm going to ask him how many
+[00:04:09.600 - 00:04:11.510] token how much did you spend in tokens?
+[00:04:11.520 - 00:04:14.350] And that person said $5,000, I will go
+[00:04:14.360 - 00:04:15.910] ape something else. Yes.
+[00:04:15.920 - 00:04:16.550] >> Yes.
+[00:04:16.560 - 00:04:19.110] >> If that if that $500,000 engineer did
+[00:04:19.120 - 00:04:22.550] not consume at least $250,000 worth of
+[00:04:22.560 - 00:04:25.990] tokens, I am going to be deeply alarmed.
+[00:04:26.000 - 00:04:28.590] >> Interestingly, Nvidia's CEO, one of the
+[00:04:28.600 - 00:04:30.590] companies benefiting the most from AI
+[00:04:30.600 - 00:04:32.830] adoption, strongly encouraged all
+[00:04:32.840 - 00:04:34.950] developers to use these tokens. The
+[00:04:34.960 - 00:04:37.270] problem is that all this demand did not
+[00:04:37.280 - 00:04:39.790] correspond to real demand, but rather
+[00:04:39.800 - 00:04:41.510] was artificially inflated.
+[00:04:41.520 - 00:04:42.750] >> Believe it or not, Silicon Valley
+[00:04:42.760 - 00:04:44.909] engineers are now being scored on how
+[00:04:44.919 - 00:04:48.150] many AI tokens they use. The problem
+[00:04:48.160 - 00:04:49.990] that may end up inflating overall AI
+[00:04:50.000 - 00:04:50.670] demand.
+[00:04:50.680 - 00:04:52.190] >> At the same time, shortages of
+[00:04:52.200 - 00:04:53.909] electronic components needed for
+[00:04:53.919 - 00:04:55.790] building data centers are causing many
+[00:04:55.800 - 00:04:57.670] of these projects to be delayed.
+[00:04:57.680 - 00:05:00.310] According to Bloomberg, nearly 50% of
+[00:05:00.320 - 00:05:02.230] all data center construction projects
+[00:05:02.240 - 00:05:05.110] planned for 2026 in the US have been
+[00:05:05.120 - 00:05:07.390] canceled or delayed. But, many of these
+[00:05:07.400 - 00:05:09.310] constructions and plans were based on
+[00:05:09.320 - 00:05:11.230] the enormous demand that AI companies
+[00:05:11.240 - 00:05:12.830] were receiving. According to the
+[00:05:12.840 - 00:05:15.270] Economic Times, demand for artificial
+[00:05:15.280 - 00:05:17.430] intelligence infrastructure continues to
+[00:05:17.440 - 00:05:20.110] greatly exceed supply. The thing is that
+[00:05:20.120 - 00:05:21.830] experts are now beginning to question
+[00:05:21.840 - 00:05:23.790] how much of this demand actually comes
+[00:05:23.800 - 00:05:25.990] from real usage and how much comes from
+[00:05:26.000 - 00:05:27.150] inflated figures. [music]
+[00:05:27.160 - 00:05:28.950] >> So, when a hyperscaler like Andy Jassy
+[00:05:28.960 - 00:05:30.430] at Amazon in his annual letter this
+[00:05:30.440 - 00:05:32.030] morning or that deal this morning tells
+[00:05:32.040 - 00:05:33.590] Wall Street that demand is outstripping
+[00:05:33.600 - 00:05:34.698] supply,
+[00:05:34.708 - 00:05:34.710] >> [music]
+[00:05:34.720 - 00:05:36.630] >> you got to ask how much of that is real
+[00:05:36.640 - 00:05:39.110] enterprise adoption and how much is
+[00:05:39.120 - 00:05:41.350] engineers juicing a leaderboard?
+[00:05:41.360 - 00:05:43.630] >> The problem is that due to token maxing,
+[00:05:43.640 - 00:05:45.030] the cancellation of data center
+[00:05:45.040 - 00:05:46.950] construction projects, and the massive
+[00:05:46.960 - 00:05:49.670] adoption of AI worldwide, the cost of
+[00:05:49.680 - 00:05:51.390] those tokens has increased
+[00:05:51.400 - 00:05:52.390] significantly.
+[00:05:52.400 - 00:05:54.390] >> On the concerns over the rising cost of
+[00:05:54.400 - 00:05:56.070] artificial intelligence, it led to a
+[00:05:56.080 - 00:05:58.550] major [music] tech stock sell-off that
+[00:05:58.560 - 00:06:01.230] dragged down the S&P and Nasdaq, which
+[00:06:01.240 - 00:06:02.990] fell more than 500 points.
+[00:06:03.000 - 00:06:04.830] >> According to Bloomberg Finance, the
+[00:06:04.840 - 00:06:06.630] average cost of tokens from large
+[00:06:06.640 - 00:06:09.510] language models, or LLMs, has more than
+[00:06:09.520 - 00:06:12.470] doubled since 2025. In December of that
+[00:06:12.480 - 00:06:15.830] year, the average cost was $1.01
+[00:06:15.840 - 00:06:18.870] per million tokens, and by May 2026,
+[00:06:18.880 - 00:06:21.950] that number had reached $2.12
+[00:06:21.960 - 00:06:24.230] per million tokens. While this increase
+[00:06:24.240 - 00:06:26.390] in price may seem insignificant when
+[00:06:26.400 - 00:06:28.230] taking into account the massive amount
+[00:06:28.240 - 00:06:30.630] of tokens these companies use every day,
+[00:06:30.640 - 00:06:32.670] it translates into tens of millions of
+[00:06:32.680 - 00:06:33.590] dollars per month.
+[00:06:33.600 - 00:06:35.790] >> Employees in a company use about $200
+[00:06:35.800 - 00:06:38.110] worth of tokens every week, 50 weeks a
+[00:06:38.120 - 00:06:41.030] year, that's 10,000 bucks in tokens. Uh,
+[00:06:41.040 - 00:06:42.790] you have 40,000 employees, that's $400
+[00:06:42.800 - 00:06:44.470] million. You have 90,000 employees,
+[00:06:44.480 - 00:06:45.550] that's $900
+[00:06:45.560 - 00:06:48.110] >> AT&T, for example, reported that it was
+[00:06:48.120 - 00:06:50.350] consuming nearly 8 billion tokens every
+[00:06:50.360 - 00:06:52.430] single day. Without a doubt, this has
+[00:06:52.440 - 00:06:54.590] been incredibly profitable for Anthropic
+[00:06:54.600 - 00:06:56.990] and OpenAI, the leading AI companies in
+[00:06:57.000 - 00:06:59.110] the world today. According to Reuters,
+[00:06:59.120 - 00:07:01.230] thanks to the adoption of AI agents at
+[00:07:01.240 - 00:07:03.510] the enterprise level, Anthropic aims to
+[00:07:03.520 - 00:07:05.990] nearly triple its annualized revenue in
+[00:07:06.000 - 00:07:08.190] 2026. To put that number into
+[00:07:08.200 - 00:07:11.110] perspective, in 2025, Anthropic ended
+[00:07:11.120 - 00:07:13.070] the year with revenue of around $3
+[00:07:13.080 - 00:07:14.230] billion,
+[00:07:14.240 - 00:07:17.070] and in 2026, that figure is expected to
+[00:07:17.080 - 00:07:20.390] reach nearly $9.6 billion. But as a
+[00:07:20.400 - 00:07:22.510] result, employers are frequently blowing
+[00:07:22.520 - 00:07:24.470] through their AI budgets, putting them
+[00:07:24.480 - 00:07:26.150] in a situation where it's no longer
+[00:07:26.160 - 00:07:28.590] clear that using AI is cheaper than
+[00:07:28.600 - 00:07:31.150] hiring people, and AI companies are
+[00:07:31.160 - 00:07:32.630] beginning to realize this.
+[00:07:32.640 - 00:07:34.630] >> The AI bill has come due. [music] Annual
+[00:07:34.640 - 00:07:37.070] budgets blown through in weeks, and now
+[00:07:37.080 - 00:07:39.110] companies are facing a choice nobody has
+[00:07:39.120 - 00:07:41.350] ever had to make [music] before. Tokens
+[00:07:41.360 - 00:07:42.190] or humans?
+[00:07:42.200 - 00:07:43.950] >> An internal memo from a Microsoft
+[00:07:43.960 - 00:07:45.990] executive vice president instructed
+[00:07:46.000 - 00:07:48.320] engineers to stop using Anthropic's AI
+[00:07:48.330 - 00:07:50.510] [music] coding tools. At first,
+[00:07:50.520 - 00:07:52.230] executives said it was to encourage the
+[00:07:52.240 - 00:07:54.150] use of AI tools within the same
+[00:07:54.160 - 00:07:56.910] ecosystem, such as GitHub Copilot. But
+[00:07:56.920 - 00:07:58.550] later it was discovered that the main
+[00:07:58.560 - 00:08:00.870] reason was the enormous cost generated
+[00:08:00.880 - 00:08:03.590] by the use of Claude code. And Microsoft
+[00:08:03.600 - 00:08:05.870] is not alone in this, as Fortune reports
+[00:08:05.880 - 00:08:07.670] that other companies are also pulling
+[00:08:07.680 - 00:08:10.510] back on AI usage. For example, Reuters
+[00:08:10.520 - 00:08:12.750] reported that Meta consumed nearly 60
+[00:08:12.760 - 00:08:14.990] trillion tokens in a single month.
+[00:08:15.000 - 00:08:17.390] That's roughly $900 million worth of
+[00:08:17.400 - 00:08:19.630] Anthropic's tokens, based on the firm's
+[00:08:19.640 - 00:08:20.630] blended prices.
+[00:08:20.640 - 00:08:22.710] >> If tech now costs what humans cost,
+[00:08:22.720 - 00:08:24.350] every company in America is about to
+[00:08:24.360 - 00:08:26.190] start asking [music] which one to keep.
+[00:08:26.200 - 00:08:27.670] >> But these extra costs are becoming a
+[00:08:27.680 - 00:08:29.390] real headache for corporate finance
+[00:08:29.400 - 00:08:32.110] departments. In fact, a Gartner survey
+[00:08:32.120 - 00:08:33.830] found that three-quarters of the
+[00:08:33.840 - 00:08:36.149] executives it pulled expect technology
+[00:08:36.159 - 00:08:37.909] budgets to increase this year, and
+[00:08:37.919 - 00:08:39.790] nearly half estimate double-digit
+[00:08:39.800 - 00:08:42.310] percentage increases. A sizable chunk of
+[00:08:42.320 - 00:08:44.430] that spending will go toward AI, which
+[00:08:44.440 - 00:08:46.870] is expected to account for more than 1/5
+[00:08:46.880 - 00:08:49.110] of total enterprise technology spending
+[00:08:49.120 - 00:08:51.910] by 2035. And the numbers prove it.
+[00:08:51.920 - 00:08:54.310] Global spending on AI agents and models
+[00:08:54.320 - 00:08:57.510] is rising at concerning rates. By 2027,
+[00:08:57.520 - 00:08:59.710] spending on this technology is estimated
+[00:08:59.720 - 00:09:02.590] to reach $680 billion,
+[00:09:02.600 - 00:09:04.470] more than double what companies spent in
+[00:09:04.480 - 00:09:06.870] 2025. But these estimates were made
+[00:09:06.880 - 00:09:08.750] using the current average costs of these
+[00:09:08.760 - 00:09:10.590] tools. And considering that both
+[00:09:10.600 - 00:09:12.870] Anthropic and OpenAI are still not
+[00:09:12.880 - 00:09:14.950] profitable, they are operating at a
+[00:09:14.960 - 00:09:17.030] loss. But that is about to change,
+[00:09:17.040 - 00:09:18.590] because in the coming months, both
+[00:09:18.600 - 00:09:20.590] companies are expected to go public and
+[00:09:20.600 - 00:09:22.670] will have to answer to shareholders.
+[00:09:22.680 - 00:09:24.990] Therefore, they will inevitably increase
+[00:09:25.000 - 00:09:27.230] the prices of using tokens from their AI
+[00:09:27.240 - 00:09:29.350] tools and agents in order to generate
+[00:09:29.360 - 00:09:31.829] profits. In other words, the amount of
+[00:09:31.839 - 00:09:33.710] money companies are currently paying for
+[00:09:33.720 - 00:09:36.910] tokens will multiply exponentially. So,
+[00:09:36.920 - 00:09:38.630] if the cost of using these tools
+[00:09:38.640 - 00:09:40.670] continues to rise, there will come a
+[00:09:40.680 - 00:09:42.550] point where hiring people becomes
+[00:09:42.560 - 00:09:44.990] cheaper than paying the price of tokens.
+[00:09:45.000 - 00:09:47.550] The thing is, this is not a prediction.
+[00:09:47.560 - 00:09:49.790] In fact, this is already happening.
+[00:09:49.800 - 00:09:52.190] >> Maybe human labor will be more
+[00:09:52.200 - 00:09:54.630] cost-efficient after all. Uber and
+[00:09:54.640 - 00:09:56.910] Microsoft are starting to second-guess
+[00:09:56.920 - 00:09:59.390] aggressive AI adoption. That's partly
+[00:09:59.400 - 00:10:02.310] because the cost of using AI can exceed
+[00:10:02.320 - 00:10:04.190] the cost of human employees.
+[00:10:04.200 - 00:10:06.190] >> According to Reuters, the current cost
+[00:10:06.200 - 00:10:07.950] of running AI agents is already
+[00:10:07.960 - 00:10:10.270] comparable to the cost of human labor,
+[00:10:10.280 - 00:10:12.550] and in some cases, it is already more
+[00:10:12.560 - 00:10:14.750] expensive. While in coding tasks, the
+[00:10:14.760 - 00:10:17.510] use of AI is undeniably cheaper. In data
+[00:10:17.520 - 00:10:19.710] entry tasks, the difference is minimal.
+[00:10:19.720 - 00:10:22.110] But in others, such as call centers, the
+[00:10:22.120 - 00:10:24.710] cost of human labor is actually cheaper.
+[00:10:24.720 - 00:10:26.630] Although AI companies have so far been
+[00:10:26.640 - 00:10:28.710] able to subsidize the real cost of
+[00:10:28.720 - 00:10:30.750] tokens due to generous and abundant
+[00:10:30.760 - 00:10:32.870] funding. That appears to be coming to an
+[00:10:32.880 - 00:10:33.382] end.
+[00:10:33.392 - 00:10:33.590] >> [music]
+[00:10:33.600 - 00:10:35.350] >> According to the Wall Street Journal,
+[00:10:35.360 - 00:10:37.230] enterprise customers are beginning to
+[00:10:37.240 - 00:10:38.830] question the true return on these
+[00:10:38.840 - 00:10:41.110] investments. And the reality is that
+[00:10:41.120 - 00:10:42.910] with the public listings of Anthropic
+[00:10:42.920 - 00:10:45.350] and OpenAI, combined with investor
+[00:10:45.360 - 00:10:46.990] pressure to see returns [music] and
+[00:10:47.000 - 00:10:49.230] electronic component shortages, this
+[00:10:49.240 - 00:10:51.270] creates the perfect formula for token
+[00:10:51.280 - 00:10:53.750] costs to continue increasing. And if
+[00:10:53.760 - 00:10:55.630] maintaining these models is already
+[00:10:55.640 - 00:10:57.617] expensive today, there will come a point
+[00:10:57.627 - 00:10:59.270] [music] when companies start asking
+[00:10:59.280 - 00:11:01.190] themselves whether it makes sense to pay
+[00:11:01.200 - 00:11:03.350] more for a simple tool than what they
+[00:11:03.360 - 00:11:05.350] used to pay many of the workers they
+[00:11:05.360 - 00:11:10.717] laid [music] off.
