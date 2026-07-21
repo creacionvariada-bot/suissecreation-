@@ -1,8 +1,8 @@
 SCÈNE 0 — SCROLL STOPPER — 10 SECONDES
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco — deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice face caméra, visage humain pleinement visible dès les deux premières secondes, lèvres en mouvement.
+[LOCATION] Bureau directionnel panoramique ultra-luxueux sommet tour San Francisco nuit — deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) costume tailleur Tom Ford noir jais col structuré face caméra, visage humain pleinement visible dès les deux premières secondes, lèvres en mouvement.
 [ACTION] COLLAGE ULTRARAPIDE — 5 FLASH CUTS EN 10 SECONDES:
 0.0-2.0s: STEADICAM PUSH-IN EXTRÊME sur le visage de @Narratrice, lèvres déjà en mouvement, regard se levant vers l'objectif.
 2.0-4.0s: FLASH CUT — détail physique iconique — mains / contrat / argent — gros plan brutal — arc orbital court autour du détail
@@ -18,11 +18,11 @@ Narrator: "Six mois. C'est le temps qu'il reste au dirigeant américain avant d'
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 1 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 1 — LOBBY BRUTALISTE BÉTON MARBRE NOIR SIÈGE SOCIAL SAN FRANCISCO — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Lobby brutaliste béton marbre noir siège social San Francisco deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe fourreau Balenciaga rouge sang coupe asymétrique
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -35,11 +35,11 @@ Narrator: "À San Francisco, il humilia son entreprise avec des déclarations im
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 2 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 2 — SALLE DE CONFÉRENCE OVALE NOYER MASSIF SOMMET TOUR CALIFORNIE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Salle de conférence ovale noyer massif sommet tour Californie deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) veste smoking Yves Saint Laurent blanc ivoire épaulettes marquées
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -52,11 +52,11 @@ Narrator: "Un innovateur, jamais un opérateur. Voilà pourquoi le conseil d'adm
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 3 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 3 — COULOIR VITRÉ IMMENSE AVEC VUE VERTIGINEUSE SUR BAIE DE SAN FRANCISCO — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Couloir vitré immense avec vue vertigineuse sur baie de San Francisco deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) ensemble soie Prada vert émeraude élégance froide
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -69,11 +69,11 @@ Narrator: "Face caméra, un banquier new-yorkais expliquait que chaque fuite de 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 4 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 4 — ASCENSEUR PRIVÉ VERRE FUMÉ ÉCLAIRAGE MINIMALISTE NÉON — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Ascenseur privé verre fumé éclairage minimaliste néon deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) costume Armani bleu marine profond à rayures discrètes
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -86,11 +86,11 @@ Narrator: "Les employés de l'empire technologique américain demandèrent massi
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 5 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 5 — ATRIUM MONUMENTAL AVEC SCULPTURES D'ART CONTEMPORAIN ABSTRAIT — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant. Accent rouge collapse profond remplaçant la lumière — scène cinq uniquement.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Atrium monumental avec sculptures d'art contemporain abstrait deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026. Accent rouge collapse profond — scène cinq uniquement.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) blazer croisé Chanel velours noir finitions satin
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -103,11 +103,11 @@ Narrator: "Cette panique silencieuse obligea San Francisco à masquer d'immenses
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 6 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 6 — TOIT-TERRASSE PRIVÉ LUXUEUX AVEC VUE DOMINANTE URBAINE NOCTURNE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Toit-terrasse privé luxueux avec vue dominante urbaine nocturne deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe asymétrique Alexander McQueen gris acier métallique
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -120,11 +120,11 @@ Narrator: "Dans l'ombre de la Silicon Valley, les banques d'investissement comme
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 7 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 7 — BUNKER DE DONNÉES TECHNOLOGIQUE ULTRA-SÉCURISÉ ÉCLAIRAGE BLEU — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Bunker de données technologique ultra-sécurisé éclairage bleu deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) ensemble Dior haute couture tweed bordeaux profond
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -137,11 +137,11 @@ Narrator: "Les serveurs informatiques de cet empire technologique nécessitèren
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 8 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 8 — SALON D'ATTENTE EXÉCUTIF CUIR ROUGE ET BOISERIES LAQUÉES — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Salon d'attente exécutif cuir rouge et boiseries laquées deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) manteau long cachemire camel Max Mara col relevé
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -154,11 +154,11 @@ Narrator: "Cet écart colossal de quatre-vingt-dix pour cent effraya soudainemen
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 9 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 9 — BIBLIOTHÈQUE DE DIRECTION PRIVÉE AVEC LIVRES RARES ET ÉCLAIRAGE TAMISÉ — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Bibliothèque de direction privée avec livres rares et éclairage tamisé deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe structurée Gucci noir et blanc contrasté extrême
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -171,11 +171,11 @@ Narrator: "Pour maintenir l'illusion financière parfaite, le dirigeant américa
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 10 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 10 — HÉLIPORT PRIVÉ SOMMET GRATTE-CIEL SAN FRANCISCO BROUILLARD — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Héliport privé sommet gratte-ciel San Francisco brouillard deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) tailleur pantalon Givenchy gris anthracite coupe masculine ajustée
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -188,11 +188,11 @@ Narrator: "En une seule année, l'empire de l'intelligence artificielle chuta de
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 11 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 11 — LABORATOIRE DE RECHERCHE IA ULTRA-MODERNE PAROIS DE VERRE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Laboratoire de recherche IA ultra-moderne parois de verre deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) blouse en soie lavallière Celine blanc pur
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -205,11 +205,11 @@ Narrator: "À San Francisco, un rival discret multiplia sa part de marché par p
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 12 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 12 — VASTE BUREAU D'ANGLE MINIMALISTE AVEC BUREAU EN MARBRE DE CARRARE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Vaste bureau d'angle minimaliste avec bureau en marbre de Carrare deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe mi-longue cuir noir Hermès fermetures argentées
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -222,11 +222,11 @@ Narrator: "À Mountain View, l'empire technologique fit exploser sa part de marc
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 13 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 13 — SUITE EXÉCUTIVE SECRÈTE ÉCLAIRAGE INDIRECT ET MOBILIER DESIGN ITALIEN — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Suite exécutive secrète éclairage indirect et mobilier design italien deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) ensemble Jil Sander cachemire gris clair minimaliste
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -239,11 +239,11 @@ Narrator: "Pendant que Mountain View raflait près d'un tiers du marché, San Fr
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 14 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 14 — SALLE DE CRISE SOUTERRAINE AVEC MURS RECOUVERTS D'ÉCRANS DE CONTRÔLE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Salle de crise souterraine avec murs recouverts d'écrans de contrôle deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) veste cape Valentino noire lignes architecturales
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -256,11 +256,11 @@ Narrator: "Cette erreur stratégique majeure coûta plusieurs milliards de dolla
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 15 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 15 — PASSERELLE SUSPENDUE EN VERRE ENTRE DEUX TOURS DE VERRE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Passerelle suspendue en verre entre deux tours de verre deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) costume tailleur Tom Ford noir jais col structuré
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -273,11 +273,11 @@ Narrator: "Chaque semaine, des dizaines d'ingénieurs talentueux quittèrent l'e
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 16 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 16 — GALERIE D'ART PRIVÉE D'ENTREPRISE AVEC OEUVRES MONUMENTALES — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Galerie d'art privée d'entreprise avec oeuvres monumentales deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe fourreau Balenciaga rouge sang coupe asymétrique
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -290,11 +290,11 @@ Narrator: "En Californie, une entreprise partenaire proposa d'évaluer l'empire 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 17 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 17 — JARDIN INTÉRIEUR SUSPENDU LUXUEUX ÉCLAIRAGE ARCHITECTURAL DE NUIT — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Jardin intérieur suspendu luxueux éclairage architectural de nuit deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) veste smoking Yves Saint Laurent blanc ivoire épaulettes marquées
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -307,11 +307,11 @@ Narrator: "Cette offre désespérée révéla au grand jour la fragilité extrê
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 18 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 18 — BUREAU PANORAMIQUE VERRE ET ACIER GRATTE-CIEL SAN FRANCISCO NUIT — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Bureau panoramique verre et acier gratte-ciel San Francisco nuit deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) ensemble soie Prada vert émeraude élégance froide
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -324,11 +324,11 @@ Narrator: "À Wall Street, les analystes comprirent que cette course effrénée 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 19 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 19 — LOBBY BRUTALISTE BÉTON MARBRE NOIR SIÈGE SOCIAL SAN FRANCISCO — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Lobby brutaliste béton marbre noir siège social San Francisco deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) costume Armani bleu marine profond à rayures discrètes
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -341,11 +341,11 @@ Narrator: "Plutôt que d'écouter ces innombrables avertissements, le dirigeant 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 20 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 20 — SALLE DE CONFÉRENCE OVALE NOYER MASSIF SOMMET TOUR CALIFORNIE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Salle de conférence ovale noyer massif sommet tour Californie deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) blazer croisé Chanel velours noir finitions satin
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -358,11 +358,11 @@ Narrator: "À Pékin, un empire technologique chinois cassa les prix de l'intell
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 21 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 21 — COULOIR VITRÉ IMMENSE AVEC VUE VERTIGINEUSE SUR BAIE DE SAN FRANCISCO — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Couloir vitré immense avec vue vertigineuse sur baie de San Francisco deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe asymétrique Alexander McQueen gris acier métallique
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -375,11 +375,11 @@ Narrator: "À San Francisco, un million de jetons coûta quarante-cinq dollars p
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 22 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 22 — ASCENSEUR PRIVÉ VERRE FUMÉ ÉCLAIRAGE MINIMALISTE NÉON — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Ascenseur privé verre fumé éclairage minimaliste néon deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) ensemble Dior haute couture tweed bordeaux profond
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -392,11 +392,11 @@ Narrator: "À San Francisco, le second empire de l'intelligence artificielle fac
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 23 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 23 — ATRIUM MONUMENTAL AVEC SCULPTURES D'ART CONTEMPORAIN ABSTRAIT — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Atrium monumental avec sculptures d'art contemporain abstrait deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) manteau long cachemire camel Max Mara col relevé
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -409,11 +409,11 @@ Narrator: "Votre patrimoine personnel est-il secrètement exposé à l'effondrem
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 24 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 24 — TOIT-TERRASSE PRIVÉ LUXUEUX AVEC VUE DOMINANTE URBAINE NOCTURNE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Toit-terrasse privé luxueux avec vue dominante urbaine nocturne deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe structurée Gucci noir et blanc contrasté extrême
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -426,11 +426,11 @@ Narrator: "Face à la concurrence féroce de Pékin, les entreprises mondiales c
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 25 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 25 — BUNKER DE DONNÉES TECHNOLOGIQUE ULTRA-SÉCURISÉ ÉCLAIRAGE BLEU — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Bunker de données technologique ultra-sécurisé éclairage bleu deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) tailleur pantalon Givenchy gris anthracite coupe masculine ajustée
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -443,11 +443,11 @@ Narrator: "Ce rejet global obligea soudainement San Francisco à brader totaleme
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 26 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 26 — SALON D'ATTENTE EXÉCUTIF CUIR ROUGE ET BOISERIES LAQUÉES — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Salon d'attente exécutif cuir rouge et boiseries laquées deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) blouse en soie lavallière Celine blanc pur
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -460,11 +460,11 @@ Narrator: "Sans ces énormes marges bénéficiaires pour combler les dépenses, 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 27 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 27 — BIBLIOTHÈQUE DE DIRECTION PRIVÉE AVEC LIVRES RARES ET ÉCLAIRAGE TAMISÉ — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Bibliothèque de direction privée avec livres rares et éclairage tamisé deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe mi-longue cuir noir Hermès fermetures argentées
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -477,11 +477,11 @@ Narrator: "Un banquier new-yorkais estima que cette guerre des prix asymétrique
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 28 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 28 — HÉLIPORT PRIVÉ SOMMET GRATTE-CIEL SAN FRANCISCO BROUILLARD — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Héliport privé sommet gratte-ciel San Francisco brouillard deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) ensemble Jil Sander cachemire gris clair minimaliste
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -494,11 +494,11 @@ Narrator: "Les investisseurs institutionnels américains commencèrent sérieuse
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 29 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 29 — LABORATOIRE DE RECHERCHE IA ULTRA-MODERNE PAROIS DE VERRE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Laboratoire de recherche IA ultra-moderne parois de verre deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) veste cape Valentino noire lignes architecturales
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -511,11 +511,11 @@ Narrator: "Cette panique silencieuse se propagea rapidement dans tous les consei
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 30 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 30 — VASTE BUREAU D'ANGLE MINIMALISTE AVEC BUREAU EN MARBRE DE CARRARE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Vaste bureau d'angle minimaliste avec bureau en marbre de Carrare deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) costume tailleur Tom Ford noir jais col structuré
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -528,11 +528,11 @@ Narrator: "À Wall Street, les investisseurs ancrèrent chacun des deux empires 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 31 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 31 — SUITE EXÉCUTIVE SECRÈTE ÉCLAIRAGE INDIRECT ET MOBILIER DESIGN ITALIEN — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Suite exécutive secrète éclairage indirect et mobilier design italien deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe fourreau Balenciaga rouge sang coupe asymétrique
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -545,11 +545,11 @@ Narrator: "Si la bulle éclate à Wall Street, quatre-vingts pour cent de cette 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 32 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 32 — SALLE DE CRISE SOUTERRAINE AVEC MURS RECOUVERTS D'ÉCRANS DE CONTRÔLE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Salle de crise souterraine avec murs recouverts d'écrans de contrôle deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) veste smoking Yves Saint Laurent blanc ivoire épaulettes marquées
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -562,11 +562,11 @@ Narrator: "À Wall Street, cette chute réduirait les deux empires de l'intellig
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 33 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 33 — PASSERELLE SUSPENDUE EN VERRE ENTRE DEUX TOURS DE VERRE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Passerelle suspendue en verre entre deux tours de verre deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) ensemble soie Prada vert émeraude élégance froide
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -579,11 +579,11 @@ Narrator: "À San Francisco, l'empire technologique prétendit encore valoir plu
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 34 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 34 — GALERIE D'ART PRIVÉE D'ENTREPRISE AVEC OEUVRES MONUMENTALES — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Galerie d'art privée d'entreprise avec oeuvres monumentales deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) costume Armani bleu marine profond à rayures discrètes
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -596,11 +596,11 @@ Narrator: "Ce refus massif d'investir déclencha une violente crise de liquidit�
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 35 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 35 — JARDIN INTÉRIEUR SUSPENDU LUXUEUX ÉCLAIRAGE ARCHITECTURAL DE NUIT — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Jardin intérieur suspendu luxueux éclairage architectural de nuit deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) blazer croisé Chanel velours noir finitions satin
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -613,11 +613,11 @@ Narrator: "Si l'empire ne trouve pas de nouveaux investisseurs institutionnels a
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 36 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 36 — BUREAU PANORAMIQUE VERRE ET ACIER GRATTE-CIEL SAN FRANCISCO NUIT — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Bureau panoramique verre et acier gratte-ciel San Francisco nuit deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe asymétrique Alexander McQueen gris acier métallique
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -630,11 +630,11 @@ Narrator: "Une chaîne de cafés parvient au moins à générer de véritables f
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 37 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 37 — LOBBY BRUTALISTE BÉTON MARBRE NOIR SIÈGE SOCIAL SAN FRANCISCO — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Lobby brutaliste béton marbre noir siège social San Francisco deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) ensemble Dior haute couture tweed bordeaux profond
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -647,11 +647,11 @@ Narrator: "Cette comparaison humiliante avec l'empire du divertissement montra c
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 38 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 38 — SALLE DE CONFÉRENCE OVALE NOYER MASSIF SOMMET TOUR CALIFORNIE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Salle de conférence ovale noyer massif sommet tour Californie deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) manteau long cachemire camel Max Mara col relevé
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -664,11 +664,11 @@ Narrator: "Les anciens investisseurs privés qui avaient acheté leurs actions �
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 39 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 39 — COULOIR VITRÉ IMMENSE AVEC VUE VERTIGINEUSE SUR BAIE DE SAN FRANCISCO — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Couloir vitré immense avec vue vertigineuse sur baie de San Francisco deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe structurée Gucci noir et blanc contrasté extrême
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -681,11 +681,11 @@ Narrator: "Ce blocage financier complet plaça le dirigeant technologique dans u
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 40 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 40 — ASCENSEUR PRIVÉ VERRE FUMÉ ÉCLAIRAGE MINIMALISTE NÉON — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Ascenseur privé verre fumé éclairage minimaliste néon deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) tailleur pantalon Givenchy gris anthracite coupe masculine ajustée
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -698,11 +698,11 @@ Narrator: "À San Francisco, les calculs révélèrent que l'empire de l'intelli
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 41 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 41 — ATRIUM MONUMENTAL AVEC SCULPTURES D'ART CONTEMPORAIN ABSTRAIT — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Atrium monumental avec sculptures d'art contemporain abstrait deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) blouse en soie lavallière Celine blanc pur
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -715,11 +715,11 @@ Narrator: "Le dirigeant américain promit une rentabilité totale d'ici deux mil
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 42 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 42 — TOIT-TERRASSE PRIVÉ LUXUEUX AVEC VUE DOMINANTE URBAINE NOCTURNE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Toit-terrasse privé luxueux avec vue dominante urbaine nocturne deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe mi-longue cuir noir Hermès fermetures argentées
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -732,11 +732,11 @@ Narrator: "Si ces prévisions se confirmaient, l'empire de l'intelligence artifi
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 43 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 43 — BUNKER DE DONNÉES TECHNOLOGIQUE ULTRA-SÉCURISÉ ÉCLAIRAGE BLEU — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Bunker de données technologique ultra-sécurisé éclairage bleu deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) ensemble Jil Sander cachemire gris clair minimaliste
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -749,11 +749,11 @@ Narrator: "Votre stratégie financière personnelle résistera-t-elle à la chut
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 44 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 44 — SALON D'ATTENTE EXÉCUTIF CUIR ROUGE ET BOISERIES LAQUÉES — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Salon d'attente exécutif cuir rouge et boiseries laquées deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) veste cape Valentino noire lignes architecturales
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -766,11 +766,11 @@ Narrator: "Face aux cent soixante-cinq milliards de pertes potentielles, le diri
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 45 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 45 — BIBLIOTHÈQUE DE DIRECTION PRIVÉE AVEC LIVRES RARES ET ÉCLAIRAGE TAMISÉ — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Bibliothèque de direction privée avec livres rares et éclairage tamisé deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) costume tailleur Tom Ford noir jais col structuré
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -783,11 +783,11 @@ Narrator: "Mais ces belles promesses technologiques lointaines ne suffirent plus
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 46 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 46 — HÉLIPORT PRIVÉ SOMMET GRATTE-CIEL SAN FRANCISCO BROUILLARD — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Héliport privé sommet gratte-ciel San Francisco brouillard deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe fourreau Balenciaga rouge sang coupe asymétrique
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -800,11 +800,11 @@ Narrator: "Dans l'urgence, l'entreprise californienne annula brutalement plusieu
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 47 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 47 — LABORATOIRE DE RECHERCHE IA ULTRA-MODERNE PAROIS DE VERRE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Laboratoire de recherche IA ultra-moderne parois de verre deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) veste smoking Yves Saint Laurent blanc ivoire épaulettes marquées
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -817,11 +817,11 @@ Narrator: "Ce soudain revirement stratégique provoqua d'énormes vagues d'inqui
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 48 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 48 — VASTE BUREAU D'ANGLE MINIMALISTE AVEC BUREAU EN MARBRE DE CARRARE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Vaste bureau d'angle minimaliste avec bureau en marbre de Carrare deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) ensemble soie Prada vert émeraude élégance froide
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -834,11 +834,11 @@ Narrator: "Les régulateurs financiers internationaux commencèrent discrètemen
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 49 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 49 — SUITE EXÉCUTIVE SECRÈTE ÉCLAIRAGE INDIRECT ET MOBILIER DESIGN ITALIEN — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Suite exécutive secrète éclairage indirect et mobilier design italien deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) costume Armani bleu marine profond à rayures discrètes
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -851,11 +851,11 @@ Narrator: "Chaque nouvelle révélation comptable rapprochait dangereusement l'e
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 50 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 50 — SALLE DE CRISE SOUTERRAINE AVEC MURS RECOUVERTS D'ÉCRANS DE CONTRÔLE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Salle de crise souterraine avec murs recouverts d'écrans de contrôle deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) blazer croisé Chanel velours noir finitions satin
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -868,11 +868,11 @@ Narrator: "Dans les tribunaux du Delaware, la justice américaine contraignit un
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 51 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 51 — PASSERELLE SUSPENDUE EN VERRE ENTRE DEUX TOURS DE VERRE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Passerelle suspendue en verre entre deux tours de verre deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe asymétrique Alexander McQueen gris acier métallique
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -885,11 +885,11 @@ Narrator: "Aujourd'hui, ce réseau social acheté quarante-quatre milliards de d
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 52 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 52 — GALERIE D'ART PRIVÉE D'ENTREPRISE AVEC OEUVRES MONUMENTALES — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Galerie d'art privée d'entreprise avec oeuvres monumentales deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) ensemble Dior haute couture tweed bordeaux profond
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -902,11 +902,11 @@ Narrator: "Quarante et un milliards de dollars envolés en un seul rachat forcé
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 53 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 53 — JARDIN INTÉRIEUR SUSPENDU LUXUEUX ÉCLAIRAGE ARCHITECTURAL DE NUIT — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Jardin intérieur suspendu luxueux éclairage architectural de nuit deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) manteau long cachemire camel Max Mara col relevé
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -919,11 +919,11 @@ Narrator: "En coulisses, le puissant milliardaire américain trahi lança secrè
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 54 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 54 — BUREAU PANORAMIQUE VERRE ET ACIER GRATTE-CIEL SAN FRANCISCO NUIT — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Bureau panoramique verre et acier gratte-ciel San Francisco nuit deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe structurée Gucci noir et blanc contrasté extrême
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -936,11 +936,11 @@ Narrator: "Cette implacable guerre d'ego détruisit des dizaines de milliards de
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 55 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 55 — LOBBY BRUTALISTE BÉTON MARBRE NOIR SIÈGE SOCIAL SAN FRANCISCO — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Lobby brutaliste béton marbre noir siège social San Francisco deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) tailleur pantalon Givenchy gris anthracite coupe masculine ajustée
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -949,15 +949,15 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [COLORIMÉTRIE DU CANAL]
 ARRI Alexa LF. 8K.
-Narrator: "L'intelligence artificielle n'était qu'un simple prétexte technologique pour une guerre financière impitoyable, où les empires de San Francisco menaçaient de s'effondrer comme des châteaux de cartes." (30 ✅)
+Narrator: "L'intelligence artificielle n'était qu'un simple prétexte technologique pour une guerre financière impitoyable, où les empires de San Francisco menaçaient subitement de s'effondrer comme des châteaux de cartes." (31 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 56 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 56 — SALLE DE CONFÉRENCE OVALE NOYER MASSIF SOMMET TOUR CALIFORNIE — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Salle de conférence ovale noyer massif sommet tour Californie deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) blouse en soie lavallière Celine blanc pur
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -970,11 +970,11 @@ Narrator: "Face à cette destruction mutuelle assurée, les investisseurs histor
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 57 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 57 — COULOIR VITRÉ IMMENSE AVEC VUE VERTIGINEUSE SUR BAIE DE SAN FRANCISCO — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Couloir vitré immense avec vue vertigineuse sur baie de San Francisco deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) robe mi-longue cuir noir Hermès fermetures argentées
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -987,11 +987,11 @@ Narrator: "Six mois avant l'échéance fatale, le nom du futur remplaçant circu
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 58 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 58 — ASCENSEUR PRIVÉ VERRE FUMÉ ÉCLAIRAGE MINIMALISTE NÉON — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Ascenseur privé verre fumé éclairage minimaliste néon deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) ensemble Jil Sander cachemire gris clair minimaliste
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
@@ -1004,11 +1004,11 @@ Narrator: "Ce remplacement soudain marquera officiellement la fin de la grande b
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCÈNE 59 — BUREAU DIRECTIONNEL PANORAMIQUE SAN FRANCISCO — DEUX MILLE VINGT-SIX
+SCÈNE 59 — ATRIUM MONUMENTAL AVEC SCULPTURES D'ART CONTEMPORAIN ABSTRAIT — DEUX MILLE VINGT-SIX
 
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Bureau directionnel panoramique de San Francisco deux mille vingt-six — Ombres noir profond cinématique. Lumière contemporaine sophistiquée. Reflets ivoire doux. Grade cinématographique élégant.
-[SUBJECT] @Narratrice costume haute couture contemporain soie beige
+[LOCATION] Atrium monumental avec sculptures d'art contemporain abstrait deux mille vingt-six — High-end 35mm cinema lens f/2.8. High contrast, deep blacks, cool cyan highlights. Hyper-realistic skin texture. Neo-noir corporate thriller aesthetic. 2026.
+[SUBJECT] @Narratrice (breathtakingly elegant blonde female executive, gorgeous piercing eyes, flawless glamorous makeup) veste cape Valentino noire lignes architecturales
 [ACTION] @Narratrice lips moving clearly, gesturing continuously over dossier confidentiel en cuir fin the full ten seconds.
 Second actor (femme élégante) in continuous physical motion — turning pages of an open leather dossier rapport d'analyse financière — hands moving throughout the ten seconds.
 Third actor (femme élégante) in continuous physical motion — handling stylo plume en or — adjusting, pouring or manipulating throughout the ten seconds.
