@@ -1,36 +1,36 @@
 FILENAME
-couts-intelligence-artificielle-2026.mp4
+automatisation-finance-2026.mp4
 
 FACEBOOK TITLE A
-Neuf milliards réajustés par Anthropic, la bulle technologique redéfinit votre patrimoine.
+Neuf milliards réajustés, l'automatisation technologique redéfinit votre patrimoine.
 
 FACEBOOK TITLE B
-Quatre cents millions corrigés, l'intelligence artificielle accélère la stratégie de redistribution.
+Quatre cents millions corrigés par Microsoft, la finance accélère la stratégie de redistribution.
 
 INSTAGRAM TITLE
-Quatre cents millions réajustés, l'héritage technologique face aux capitaux.
+Quatre cents millions réajustés, l'héritage face à l'automatisation.
 
 FACEBOOK CAPTION
-Microsoft et Anthropic imposent une correction majeure. Votre stratégie doit s'adapter à ce réajustement inévitable de la finance. La bulle actuelle redéfinit l'accumulation de valeur et votre héritage futur. Votre patrimoine exige une gestion active face à cette redistribution des capitaux mondiaux, car l'attentisme coûte cher. Suivez le canal pour la prochaine révélation.
-COUNT: 376 characters ✅
+Microsoft et Anthropic imposent une correction majeure de l'automatisation. Votre stratégie doit s'adapter à ce réajustement inévitable de la finance. La bulle actuelle redéfinit l'accumulation de valeur et votre héritage futur. Votre patrimoine exige une gestion active face à cette redistribution des capitaux, car l'attentisme coûte cher. Suivez le canal pour la prochaine révélation.
+COUNT: 387 characters ✅
 
 FACEBOOK HASHTAGS
-#HistoireEtFinance #IntelligenceArtificielle #Patrimoine #Strategie #Automatisation
+#HistoireEtFinance #IntelligenceArtificielle #Patrimoine #Finance #Automatisation
 
 INSTAGRAM CAPTION
-La correction liée à Microsoft redéfinit la stratégie de votre patrimoine et exige une action immédiate face à ce réajustement.
+La correction liée à Microsoft redéfinit la stratégie de votre patrimoine et exige une action immédiate face à ce réajustement de la finance.
 Suivez le canal pour anticiper.
-COUNT: 159 characters ✅
+COUNT: 173 characters ✅
 
 INSTAGRAM HASHTAGS
-#HistoireEtFinance #IntelligenceArtificielle #Patrimoine
+#HistoireEtFinance #Finance #Patrimoine
 
 ALT TEXT
-Un analyste observe des données financières complexes illustrant le réajustement des marchés face aux coûts de l'intelligence artificielle.
+Un analyste observe des données financières complexes illustrant le réajustement des marchés face aux coûts de l'automatisation.
 
 THUMBNAIL
 LINE 1: BULLE ÉCLATE
-LINE 2: COÛTS RÉAJUSTÉS
+LINE 2: FINANCE RÉAJUSTÉE
 
 SUBTITLE KEYWORDS
 PATRIMOINE — STRATÉGIE — ACCUMULATION — RÉAJUSTEMENT — HÉRITAGE
@@ -38,7 +38,7 @@ PATRIMOINE — STRATÉGIE — ACCUMULATION — RÉAJUSTEMENT — HÉRITAGE
 AFTER EFFECTS
 SERIES TITLE: Histoire et Finance
 EPISODE NUMBER: Épisode douze
-EPISODE TITLE: Neuf milliards réajustés par Anthropic, la bulle technologique redéfinit votre patrimoine.
+EPISODE TITLE: Neuf milliards réajustés, l'automatisation technologique redéfinit votre patrimoine.
 SHORT TITLE: Bulle Technologique
 LOWER THIRD 1: Histoire et Finance
 LOWER THIRD 2: Ep. 12 — Bulle Technologique
