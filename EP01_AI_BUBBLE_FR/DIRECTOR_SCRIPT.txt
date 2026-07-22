@@ -1,6 +1,6 @@
 OMNI FLASH — Text-to-video 10s — 9:16
 SCENE 0 — SCROLL STOPPER — 10 SECONDS
-[LOCATION] Bureau en noyer 0 - deux mille vingt — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+[LOCATION] Bureau en noyer — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur facing camera, human face fully visible from the first two seconds, lips moving.
 [ACTION] ULTRA-FAST COLLAGE — 5 FLASH CUTS IN 10 SECONDS:
 0.0-2.0s: EXTREME STEADICAM PUSH-IN on @Narrateur's face, lips already moving, gaze rising toward the lens.
@@ -10,21 +10,21 @@ SCENE 0 — SCROLL STOPPER — 10 SECONDS
 8.0-10.0s: total ORBITAL PULL BACK — reveals the full extent — final frame total black
 Hard brutal cut between each flash — zero fade — pure cinema
 [CAMERA] steadicam push-in / short orbital arc / dutch angle / low angle / total orbital pull back
-[AUDIO] @Voice: NarradorFR. Zero music.
+[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
-ARRI Alexa LF. 8K. 35mm anamorphique f/2.8. Motion blur on secondary actors.
+ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "En juin deux mille vingt-six, pour la première fois de son histoire, un empire technologique américain augmentait ses prix en plein milieu de l'année, sans présenter aucun nouveau produit." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 1 — Salon privé 1 - deux mille vingt-et-un
-[LOCATION] Salon privé 1 - deux mille vingt-et-un — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 1 — Salon privé
+[LOCATION] Salon privé — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — examine minutieusement un stylo en or 1 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — verse un télescope ancien 1 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table en chêne the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un verre en cristal — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une lampe en laiton — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
+[CAMERA] Short orbital arc. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -32,14 +32,14 @@ Narrator: "L'ordinateur portable bondissait de dix-huit pour cent, la tablette h
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 2 — Suite présidentielle 2 - deux mille vingt-deux
-[LOCATION] Suite présidentielle 2 - deux mille vingt-deux — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 2 — Suite présidentielle
+[LOCATION] Suite présidentielle — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — déplace lentement un verre en cristal 2 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — manipule une lampe en laiton 2 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un pupitre ancien the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une montre à gousset — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un livre de comptes — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
+[CAMERA] Dutch angle. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -47,119 +47,119 @@ Narrator: "La raison officielle était une guerre invisible menée à des millie
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 3 — Salle des archives 3 - deux mille vingt-trois
-[LOCATION] Salle des archives 3 - deux mille vingt-trois — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 3 — Salle des archives
+[LOCATION] Salle des archives — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — observe silencieusement un horloge ancienne 3 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — règle un boulier en bois 3 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble d'époque the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un cigare cubain — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un dossier confidentiel — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Dutch angle, aggressive. 10 seconds continuous.
+[CAMERA] Low angle. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro trois révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "La course frénétique vers une domination algorithmique poussait les fonds souverains à injecter des sommes astronomiques dans des infrastructures dont la rentabilité restait une chimère pour les analystes financiers." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 4 — Bibliothèque historique 4 - deux mille vingt-quatre
-[LOCATION] Bibliothèque historique 4 - deux mille vingt-quatre — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 4 — Bibliothèque centenaire
+[LOCATION] Bibliothèque centenaire — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — ferme doucement un sculpture en bronze 4 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — positionne un plateau en argent 4 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir en granit the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un livre ancien — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une carte géographique — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Pull back, total reveal. 10 seconds continuous.
+[CAMERA] Total orbital pull back. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro quatre révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Chaque nouveau trimestre apportait son lot de promesses spectaculaires, mais les rapports audités démontraient invariablement une consommation de liquidités totalement insoutenable pour l'écosystème numérique mondial en pleine expansion." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 5 — Jardin d'hiver 5 - deux mille vingt-cinq
-[LOCATION] Jardin d'hiver 5 - deux mille vingt-cinq — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade. Deep red collapse accent replacing the gold
+SCENE 5 — Galerie d'art
+[LOCATION] Galerie d'art — Deep, brutal crimson shadows. Piercing siren red highlights. High-contrast aggressive grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — ouvre précautionneusement un livre rare 5 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — prépare une montre à gousset 5 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de billard the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une loupe en laiton — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un plan d'architecture — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Fast lateral tracking shot. 10 seconds continuous.
+[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro cinq révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Les investisseurs continuaient d'acheter aveuglément ces actions technologiques surévaluées, ignorant que les fondateurs et dirigeants vendaient discrètement leurs propres participations massives depuis plusieurs semaines consécutives sans le moindre répit." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 6 — Fumoir privé 6 - deux mille vingt
-[LOCATION] Fumoir privé 6 - deux mille vingt — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 6 — Jardin d'hiver
+[LOCATION] Jardin d'hiver — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — lit attentivement un carte géographique 6 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — essuie un encrier 6 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de directeur the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un globe terrestre — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un croquis au fusain — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Low angle, power rise. 10 seconds continuous.
+[CAMERA] Extreme steadicam push-in. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro six révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "L'infrastructure énergétique nécessaire pour alimenter ces gigantesques fermes de serveurs engloutissait la production de plusieurs centrales, provoquant des tensions inédites sur les réseaux électriques des grandes métropoles mondiales." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 7 — Galerie des glaces 7 - deux mille vingt-et-un
-[LOCATION] Galerie des glaces 7 - deux mille vingt-et-un — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 7 — Cabinet de curiosités
+[LOCATION] Cabinet de curiosités — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — analyse un globe terrestre 7 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — nettoie un sceau en cire 7 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bar en acajou the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un jeu de cartes — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une partition de musique — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Overhead, plunging. 10 seconds continuous.
+[CAMERA] Slow horizontal pan. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro sept révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Une étude indépendante révélait que la majorité des tâches déléguées aux algorithmes avancés n'apportait aucune valeur mesurable, se contentant de reproduire des schémas d'optimisation déjà parfaitement maîtrisés auparavant." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 8 — Cave à vin 8 - deux mille vingt-deux
-[LOCATION] Cave à vin 8 - deux mille vingt-deux — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 8 — Fumoir clandestin
+[LOCATION] Fumoir clandestin — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — inspecte un boussole antique 8 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — calibre une bague en or 8 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un lutrin sculpté the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une pièce de monnaie — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un tableau de maître — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
+[CAMERA] Rapid whip pan. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro huit révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Les promesses de révolutionner la productivité mondiale se heurtaient violemment à la réalité technique, chaque avancée marginale exigeant désormais de multiplier par dix la puissance de calcul mathématique brute." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 9 — Salle des coffres 9 - deux mille vingt-trois
-[LOCATION] Salle des coffres 9 - deux mille vingt-trois — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 9 — Cave à vin
+[LOCATION] Cave à vin — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — range un loupe dorée 9 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — vérifie une maquette 9 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une console en verre the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une boussole — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une sculpture en marbre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Orbital arc around the subject. 10 seconds continuous.
+[CAMERA] Vertigo effect zoom. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro neuf révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Certains experts renommés comparaient publiquement cet emballement collectif à la célèbre crise des tulipes, prévenant qu'aucune technologie ne pourrait justifier une déconnexion aussi flagrante avec l'économie réelle sous-jacente." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 10 — Bureau en noyer 10 - deux mille vingt-quatre
-[LOCATION] Bureau en noyer 10 - deux mille vingt-quatre — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 10 — Salle de conférence en marbre
+[LOCATION] Salle de conférence en marbre — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — tourne les pages d'un dossier en cuir 10 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — ajuste une carafe en cristal 10 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une étagère dorée the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un sablier — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un vase en porcelaine — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Handheld, intimate close. 10 seconds continuous.
+[CAMERA] Drone sweeping overhead. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -167,14 +167,14 @@ Narrator: "Sur cent dollars gagnés par les quatre plus grandes entreprises tech
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 11 — Salon privé 11 - deux mille vingt-cinq
-[LOCATION] Salon privé 11 - deux mille vingt-cinq — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 11 — Atelier d'horlogerie
+[LOCATION] Atelier d'horlogerie — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — examine minutieusement un stylo en or 11 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — verse un télescope ancien 11 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un guéridon en fer forgé the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une clé ancienne — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une tapisserie murale — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
+[CAMERA] Circular tracking shot. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -182,134 +182,134 @@ Narrator: "Il ne restait plus que six dollars sur cent pour les dividendes, les 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 12 — Suite présidentielle 12 - deux mille vingt
-[LOCATION] Suite présidentielle 12 - deux mille vingt — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 12 — Banque abandonnée
+[LOCATION] Banque abandonnée — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — déplace lentement un verre en cristal 12 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — manipule une lampe en laiton 12 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un coffre antique the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un sceau en cire — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un tapis persan — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
+[CAMERA] Ground-level tilt up. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "En deux mille vingt-trois, ce ratio n'était encore que de quarante pour cent, signifiant qu'il avait complètement doublé en l'espace de seulement trois petites années à peine." (30 ✅)
+Narrator: "En deux mille vingt-trois, ce même ratio n'était que de quarante pour cent, ce qui signifie qu'il avait plus que doublé en l'espace de trois petites années." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 13 — Salle des archives 13 - deux mille vingt-et-un
-[LOCATION] Salle des archives 13 - deux mille vingt-et-un — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 13 — Manoir gothique
+[LOCATION] Manoir gothique — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — observe silencieusement un horloge ancienne 13 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — règle un boulier en bois 13 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une cheminée monumentale the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un parchemin — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un chandelier en argent — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Dutch angle, aggressive. 10 seconds continuous.
+[CAMERA] Over-the-shoulder tracking. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro treize révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Les régulateurs internationaux observaient prudemment cette concentration de capitaux, craignant qu'une correction brutale ne finisse par déstabiliser l'ensemble du système bancaire et financier mondial fortement interconnecté." (28 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 14 — Bibliothèque historique 14 - deux mille vingt-deux
-[LOCATION] Bibliothèque historique 14 - deux mille vingt-deux — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 14 — Observatoire astronomique
+[LOCATION] Observatoire astronomique — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — ferme doucement un sculpture en bronze 14 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — positionne un plateau en argent 14 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un secrétaire à abattant the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un carnet en cuir — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un miroir ancien — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Pull back, total reveal. 10 seconds continuous.
+[CAMERA] Steadicam push-in. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro quatorze révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Dans la Silicon Valley, les ingénieurs exigeaient des rémunérations démentielles pour concevoir des systèmes dont la date d'obsolescence programmée ne dépassait plus désormais que quelques petits mois à peine." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 15 — Jardin d'hiver 15 - deux mille vingt-trois
-[LOCATION] Jardin d'hiver 15 - deux mille vingt-trois — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 15 — Laboratoire clandestin
+[LOCATION] Laboratoire clandestin — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — ouvre précautionneusement un livre rare 15 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — prépare une montre à gousset 15 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de campagne the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un échiquier — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une pendule de cheminée — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Fast lateral tracking shot. 10 seconds continuous.
+[CAMERA] Short orbital arc. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro quinze révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "La fabrication de composants spécialisés nécessitait d'immenses quantités de métaux rares, déclenchant une véritable guerre économique souterraine entre les puissances industrielles cherchant à sécuriser leurs propres chaînes d'approvisionnement." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 16 — Fumoir privé 16 - deux mille vingt-quatre
-[LOCATION] Fumoir privé 16 - deux mille vingt-quatre — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 16 — Bourse de valeurs
+[LOCATION] Bourse de valeurs — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — lit attentivement un carte géographique 16 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — essuie un encrier 16 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table d'architecte the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une statuette de bronze — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un baromètre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Low angle, power rise. 10 seconds continuous.
+[CAMERA] Dutch angle. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro seize révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Les compagnies d'assurance commençaient silencieusement à refuser de couvrir ces infrastructures informatiques démesurées, estimant que la probabilité d'un effondrement matériel simultané devenait statistiquement beaucoup trop élevée cette année." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 17 — Galerie des glaces 17 - deux mille vingt-cinq
-[LOCATION] Galerie des glaces 17 - deux mille vingt-cinq — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 17 — Hôtel de luxe
+[LOCATION] Hôtel de luxe — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — analyse un globe terrestre 17 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — nettoie un sceau en cire 17 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un établi en bois massif the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un télescope — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un thermomètre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Overhead, plunging. 10 seconds continuous.
+[CAMERA] Low angle. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro dix-sept révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "L'illusion d'une croissance perpétuelle masquait mal le fait que la demande pour ces services plafonnait, les entreprises refusant de payer des licences exorbitantes pour des gains opérationnels marginaux." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 18 — Cave à vin 18 - deux mille vingt
-[LOCATION] Cave à vin 18 - deux mille vingt — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 18 — Villa sur la falaise
+[LOCATION] Villa sur la falaise — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — inspecte un boussole antique 18 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — calibre une bague en or 18 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de réunion the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un microscope — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un hygromètre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
+[CAMERA] Total orbital pull back. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro dix-huit révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Derrière les discours visionnaires se cachait une réalité mathématique implacable : le coût de chaque nouvelle requête automatisée restait désespérément supérieur au revenu publicitaire qu'elle pouvait réellement générer." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 19 — Salle des coffres 19 - deux mille vingt-et-un
-[LOCATION] Salle des coffres 19 - deux mille vingt-et-un — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 19 — Yacht privé
+[LOCATION] Yacht privé — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — range un loupe dorée 19 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — vérifie une maquette 19 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une desserte the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un appareil photo rétro — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un calendrier perpétuel — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Orbital arc around the subject. 10 seconds continuous.
+[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro dix-neuf révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Les marchés boursiers mondiaux oscillaient dangereusement, chaque annonce de ralentissement technologique provoquant immédiatement des vagues de ventes que seuls les algorithmes de trading à haute fréquence tentaient encore d'amortir." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 20 — Bureau en noyer 20 - deux mille vingt-deux
-[LOCATION] Bureau en noyer 20 - deux mille vingt-deux — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 20 — Penthouse panoramique
+[LOCATION] Penthouse panoramique — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — tourne les pages d'un dossier en cuir 20 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — ajuste une carafe en cristal 20 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble de classement the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un gramophone — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un pèse-lettre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Handheld, intimate close. 10 seconds continuous.
+[CAMERA] Extreme steadicam push-in. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -317,164 +317,164 @@ Narrator: "Pour justifier chaque dollar investi dans l'intelligence artificielle
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 21 — Salon privé 21 - deux mille vingt-trois
-[LOCATION] Salon privé 21 - deux mille vingt-trois — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 21 — Musée d'antiquités
+[LOCATION] Musée d'antiquités — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — examine minutieusement un stylo en or 21 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — verse un télescope ancien 21 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'officier the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un téléphone à cadran — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une balance de précision — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
+[CAMERA] Slow horizontal pan. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le manque à gagner atteignait cinq cent soixante-quinze milliards de dollars, un gouffre abyssal que personne, dans les salles de marché de San Francisco, n'arrivait à combler." (28 ✅)
+Narrator: "Le manque à gagner atteignait cinq cent soixante-quinze milliards de dollars, un gouffre que personne, dans les salles de marché de San Francisco à New York, n'arrivait à combler." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 22 — Suite présidentielle 22 - deux mille vingt-quatre
-[LOCATION] Suite présidentielle 22 - deux mille vingt-quatre — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 22 — Salle des coffres
+[LOCATION] Salle des coffres — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — déplace lentement un verre en cristal 22 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — manipule une lampe en laiton 22 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de jeu the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une machine à écrire — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un coffre-fort — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
+[CAMERA] Rapid whip pan. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Pour chaque dollar que l'industrie de l'intelligence artificielle générait, les quatre grands empires technologiques en dépensaient presque dix, sans la moindre garantie de retour sur leur investissement." (29 ✅)
+Narrator: "Pour chaque dollar que l'industrie de l'intelligence artificielle générait, les quatre grands empires technologiques en dépensaient entre neuf et dix, sans aucune garantie de retour sur investissement." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 23 — Salle des archives 23 - deux mille vingt-cinq
-[LOCATION] Salle des archives 23 - deux mille vingt-cinq — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 23 — Opéra désert
+[LOCATION] Opéra désert — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — observe silencieusement un horloge ancienne 23 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — règle un boulier en bois 23 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de salle à manger the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un coffret en bois — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une mallette en cuir — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Dutch angle, aggressive. 10 seconds continuous.
+[CAMERA] Vertigo effect zoom. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Comment allez-vous protéger la totalité de votre patrimoine personnel face à cette gigantesque destruction de valeur qui menace silencieusement chaque investissement ? Suivez le canal pour la prochaine révélation." (29 ✅)
+Narrator: "Face à cette destruction massive de valeur sur les marchés mondiaux, avez-vous déjà audité la véritable exposition de votre propre patrimoine financier face à cette nouvelle bulle technologique imminente ?" (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 24 — Bibliothèque historique 24 - deux mille vingt
-[LOCATION] Bibliothèque historique 24 - deux mille vingt — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 24 — Théâtre classique
+[LOCATION] Théâtre classique — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — ferme doucement un sculpture en bronze 24 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — positionne un plateau en argent 24 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de poste the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un éventail — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un sac de voyage — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Pull back, total reveal. 10 seconds continuous.
+[CAMERA] Drone sweeping overhead. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro vingt-quatre révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Une poignée de fonds spéculatifs spécialisés commençait à parier sur l'éclatement imminent de cette bulle, accumulant des positions courtes pour profiter du plongeon inévitable des valorisations technologiques historiquement aberrantes." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 25 — Jardin d'hiver 25 - deux mille vingt-et-un
-[LOCATION] Jardin d'hiver 25 - deux mille vingt-et-un — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 25 — Palais de justice
+[LOCATION] Palais de justice — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — ouvre précautionneusement un livre rare 25 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — prépare une montre à gousset 25 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de préparation the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une pipe en bruyère — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une malle ancienne — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Fast lateral tracking shot. 10 seconds continuous.
+[CAMERA] Circular tracking shot. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro vingt-cinq révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Les petites entreprises innovantes se retrouvaient complètement asphyxiées, incapables de rivaliser avec les budgets colossaux que les monopoles numériques consacraient quotidiennement à la simple acquisition de leurs cartes graphiques." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 26 — Fumoir privé 26 - deux mille vingt-deux
-[LOCATION] Fumoir privé 26 - deux mille vingt-deux — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 26 — Ambassade majestueuse
+[LOCATION] Ambassade majestueuse — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — lit attentivement un carte géographique 26 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — essuie un encrier 26 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de professeur the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un briquet en argent — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un écrin à bijoux — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Low angle, power rise. 10 seconds continuous.
+[CAMERA] Ground-level tilt up. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro vingt-six révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Le marché de l'emploi technologique montrait de premiers signes de fatigue inquiétants, avec des gels de recrutement massifs annoncés par les mêmes entreprises qui promettaient hier une révolution imminente." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 27 — Galerie des glaces 27 - deux mille vingt-trois
-[LOCATION] Galerie des glaces 27 - deux mille vingt-trois — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 27 — Château médiéval
+[LOCATION] Château médiéval — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — analyse un globe terrestre 27 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — nettoie un sceau en cire 27 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table basse de designer the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un cendrier en marbre — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une boîte à musique — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Overhead, plunging. 10 seconds continuous.
+[CAMERA] Over-the-shoulder tracking. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro vingt-sept révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Les gouvernements tentaient de légiférer pour reprendre le contrôle de cette course technologique mondiale, mais leurs initiatives semblaient toujours avoir plusieurs années de retard sur l'ingénierie financière déployée." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 28 — Cave à vin 28 - deux mille vingt-quatre
-[LOCATION] Cave à vin 28 - deux mille vingt-quatre — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 28 — Bureau de poste ancien
+[LOCATION] Bureau de poste ancien — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — inspecte un boussole antique 28 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — calibre une bague en or 28 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de réception the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un porte-cigarette — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un métronome — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
+[CAMERA] Steadicam push-in. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro vingt-huit révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "L'empreinte carbone désastreuse de ces centres de données titanesques suscitait la colère d'une nouvelle génération de militants, prêts à bloquer physiquement les chantiers de ces énormes monstres énergétiques." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 29 — Salle des coffres 29 - deux mille vingt-cinq
-[LOCATION] Salle des coffres 29 - deux mille vingt-cinq — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 29 — Gare désaffectée
+[LOCATION] Gare désaffectée — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — range un loupe dorée 29 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — vérifie une maquette 29 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'avocat the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un monocle — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un diapason — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Orbital arc around the subject. 10 seconds continuous.
+[CAMERA] Short orbital arc. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro vingt-neuf révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Les banques centrales, déjà aux prises avec une inflation persistante, observaient comment cette allocation irrationnelle de capital privait l'économie traditionnelle des investissements productifs nécessaires à une véritable croissance durable." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 30 — Bureau en noyer 30 - deux mille vingt
-[LOCATION] Bureau en noyer 30 - deux mille vingt — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 30 — Restaurant étoilé
+[LOCATION] Restaurant étoilé — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — tourne les pages d'un dossier en cuir 30 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — ajuste une carafe en cristal 30 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table d'appoint the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un couteau à papier — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un phonographe — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Handheld, intimate close. 10 seconds continuous.
+[CAMERA] Dutch angle. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le PDG d'un groupe américain travaillant pour les services secrets et les plus grandes banques mondiales a déclaré : ces modèles ont été vendus de façon totalement irresponsable." (29 ✅)
+Narrator: "Le PDG d'un groupe américain travaillant pour les services secrets et les plus grandes banques du monde a déclaré : ces modèles ont été vendus de façon totalement irresponsable." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 31 — Salon privé 31 - deux mille vingt-et-un
-[LOCATION] Salon privé 31 - deux mille vingt-et-un — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 31 — Boutique de tailleur
+[LOCATION] Boutique de tailleur — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — examine minutieusement un stylo en or 31 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — verse un télescope ancien 31 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau victorien the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un presse-papier — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un rouleau de cire — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
+[CAMERA] Low angle. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -482,14 +482,14 @@ Narrator: "Un grand cabinet de conseil mondial avait pourtant chiffré la réali
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 32 — Suite présidentielle 32 - deux mille vingt-deux
-[LOCATION] Suite présidentielle 32 - deux mille vingt-deux — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 32 — Salle de bal
+[LOCATION] Salle de bal — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — déplace lentement un verre en cristal 32 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — manipule une lampe en laiton 32 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une coiffeuse the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un tampon encreur — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un disque vinyle — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
+[CAMERA] Total orbital pull back. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -497,134 +497,134 @@ Narrator: "Une startup de vingt-cinq employés à San Francisco avait basculé v
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 33 — Salle des archives 33 - deux mille vingt-trois
-[LOCATION] Salle des archives 33 - deux mille vingt-trois — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 33 — Chapelle abandonnée
+[LOCATION] Chapelle abandonnée — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — observe silencieusement un horloge ancienne 33 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — règle un boulier en bois 33 — adjusting, pouring or manipulating throughout the ten seconds.
-All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Dutch angle, aggressive. 10 seconds continuous.
-[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
-[CHANNEL COLORIMETRY]
-ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro trente-trois révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
-Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
-
-SCENE 34 — Bibliothèque historique 34 - deux mille vingt-quatre
-[LOCATION] Bibliothèque historique 34 - deux mille vingt-quatre — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — ferme doucement un sculpture en bronze 34 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — positionne un plateau en argent 34 — adjusting, pouring or manipulating throughout the ten seconds.
-All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Pull back, total reveal. 10 seconds continuous.
-[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
-[CHANNEL COLORIMETRY]
-ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro trente-quatre révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
-Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
-
-SCENE 35 — Jardin d'hiver 35 - deux mille vingt-cinq
-[LOCATION] Jardin d'hiver 35 - deux mille vingt-cinq — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — ouvre précautionneusement un livre rare 35 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — prépare une montre à gousset 35 — adjusting, pouring or manipulating throughout the ten seconds.
-All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Fast lateral tracking shot. 10 seconds continuous.
-[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
-[CHANNEL COLORIMETRY]
-ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro trente-cinq révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
-Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
-
-SCENE 36 — Fumoir privé 36 - deux mille vingt
-[LOCATION] Fumoir privé 36 - deux mille vingt — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — lit attentivement un carte géographique 36 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — essuie un encrier 36 — adjusting, pouring or manipulating throughout the ten seconds.
-All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Low angle, power rise. 10 seconds continuous.
-[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
-[CHANNEL COLORIMETRY]
-ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro trente-six révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
-Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
-
-SCENE 37 — Galerie des glaces 37 - deux mille vingt-et-un
-[LOCATION] Galerie des glaces 37 - deux mille vingt-et-un — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — analyse un globe terrestre 37 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — nettoie un sceau en cire 37 — adjusting, pouring or manipulating throughout the ten seconds.
-All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Overhead, plunging. 10 seconds continuous.
-[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
-[CHANNEL COLORIMETRY]
-ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro trente-sept révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
-Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
-
-SCENE 38 — Cave à vin 38 - deux mille vingt-deux
-[LOCATION] Cave à vin 38 - deux mille vingt-deux — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — inspecte un boussole antique 38 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — calibre une bague en or 38 — adjusting, pouring or manipulating throughout the ten seconds.
-All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
-[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
-[CHANNEL COLORIMETRY]
-ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro trente-huit révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
-Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
-
-SCENE 39 — Salle des coffres 39 - deux mille vingt-trois
-[LOCATION] Salle des coffres 39 - deux mille vingt-trois — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — range un loupe dorée 39 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — vérifie une maquette 39 — adjusting, pouring or manipulating throughout the ten seconds.
-All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Orbital arc around the subject. 10 seconds continuous.
-[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
-[CHANNEL COLORIMETRY]
-ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro trente-neuf révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
-Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
-
-SCENE 40 — Bureau en noyer 40 - deux mille vingt-quatre
-[LOCATION] Bureau en noyer 40 - deux mille vingt-quatre — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — tourne les pages d'un dossier en cuir 40 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — ajuste une carafe en cristal 40 — adjusting, pouring or manipulating throughout the ten seconds.
-All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Handheld, intimate close. 10 seconds continuous.
-[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
-[CHANNEL COLORIMETRY]
-ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "En l'an deux mille, des entreprises américaines avaient englouti cinq cents milliards de dollars dans des câbles à fibre optique enterrés sous les nombreuses routes de tout le pays." (30 ✅)
-Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
-
-SCENE 41 — Salon privé 41 - deux mille vingt-cinq
-[LOCATION] Salon privé 41 - deux mille vingt-cinq — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — examine minutieusement un stylo en or 41 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — verse un télescope ancien 41 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une console d'entrée the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un encrier — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une bande magnétique — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Crane shot, brutal descent. 10 seconds continuous.
+[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
+[CHANNEL COLORIMETRY]
+ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
+Narrator: "Chaque panne technique dans ces énormes infrastructures centralisées provoquait désormais des ondes de choc catastrophiques, paralysant instantanément des pans entiers de l'économie numérique sur plusieurs continents de manière simultanée." (30 ✅)
+Zero text. Zero music. Zero watermarks.
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+
+SCENE 34 — Bunker luxueux
+[LOCATION] Bunker luxueux — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de bibliothécaire the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un plumier — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un projecteur de film — adjusting, pouring or manipulating throughout the ten seconds.
+All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
+[CAMERA] Extreme steadicam push-in. 10 seconds continuous.
+[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
+[CHANNEL COLORIMETRY]
+ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
+Narrator: "Les campagnes de relations publiques orchestrées par les lobbys technologiques peinaient de plus en plus à masquer le mécontentement des développeurs indépendants, piégés dans cet écosystème fermé et monopolistique." (29 ✅)
+Zero text. Zero music. Zero watermarks.
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+
+SCENE 35 — Studio de design
+[LOCATION] Studio de design — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table d'harmonie the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une bague chevalière — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une bobine de film — adjusting, pouring or manipulating throughout the ten seconds.
+All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
+[CAMERA] Slow horizontal pan. 10 seconds continuous.
+[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
+[CHANNEL COLORIMETRY]
+ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
+Narrator: "Les prévisions de revenus s'appuyaient sur des modèles mathématiques déconnectés de toute réalité commerciale, supposant que chaque citoyen paierait indéfiniment des abonnements toujours plus chers pour des services inutiles." (30 ✅)
+Zero text. Zero music. Zero watermarks.
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+
+SCENE 36 — Atelier d'architecte
+[LOCATION] Atelier d'architecte — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble vitrine the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un collier de perles — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un appareil photo à soufflet — adjusting, pouring or manipulating throughout the ten seconds.
+All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
+[CAMERA] Rapid whip pan. 10 seconds continuous.
+[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
+[CHANNEL COLORIMETRY]
+ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
+Narrator: "Le mirage de l'automatisation totale commençait à se dissiper, révélant que derrière chaque interface soi-disant intelligente se cachaient en réalité de nombreux travailleurs précaires exploitant des données brutes manuellement." (30 ✅)
+Zero text. Zero music. Zero watermarks.
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+
+SCENE 37 — Galerie des glaces
+[LOCATION] Galerie des glaces — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de joaillier the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une broche — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une plaque photographique — adjusting, pouring or manipulating throughout the ten seconds.
+All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
+[CAMERA] Vertigo effect zoom. 10 seconds continuous.
+[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
+[CHANNEL COLORIMETRY]
+ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
+Narrator: "Les auditeurs financiers tiraient l'alarme, refusant de valider les méthodes de comptabilité créative utilisées pour transformer d'énormes dépenses d'exploitation en investissements amortissables sur des durées irréalistes." (29 ✅)
+Zero text. Zero music. Zero watermarks.
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+
+SCENE 38 — Salon de thé
+[LOCATION] Salon de thé — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de géomètre the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un miroir à main — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un agrandisseur — adjusting, pouring or manipulating throughout the ten seconds.
+All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
+[CAMERA] Drone sweeping overhead. 10 seconds continuous.
+[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
+[CHANNEL COLORIMETRY]
+ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
+Narrator: "L'obsession pour la création de modèles virtuels de plus en plus lourds détournait les chercheurs des vrais enjeux, monopolisant l'essentiel des financements académiques au profit d'intérêts corporatistes." (30 ✅)
+Zero text. Zero music. Zero watermarks.
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+
+SCENE 39 — Club privé
+[LOCATION] Club privé — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau moderniste the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un peigne en écaille — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un stéréoscope — adjusting, pouring or manipulating throughout the ten seconds.
+All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
+[CAMERA] Circular tracking shot. 10 seconds continuous.
+[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
+[CHANNEL COLORIMETRY]
+ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
+Narrator: "Les procès pour violation massive de droits d'auteur se multipliaient, menaçant la viabilité juridique de ces immenses bases de données construites hâtivement en aspirant illégalement le travail d'autrui." (30 ✅)
+Zero text. Zero music. Zero watermarks.
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+
+SCENE 40 — Salle de billard
+[LOCATION] Salle de billard — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de monastère the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une flasque en argent — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une lanterne magique — adjusting, pouring or manipulating throughout the ten seconds.
+All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
+[CAMERA] Ground-level tilt up. 10 seconds continuous.
+[AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
+[CHANNEL COLORIMETRY]
+ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
+Narrator: "En l'an deux mille, des entreprises de télécommunications américaines avaient englouti cinq cents milliards de dollars dans des câbles à fibre optique enterrés sous les routes du pays." (29 ✅)
+Zero text. Zero music. Zero watermarks.
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+
+SCENE 41 — Piscine intérieure
+[LOCATION] Piscine intérieure — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+[SUBJECT] @Narrateur costume sur mesure en laine de vigogne
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'antiquaire the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un shaker à cocktail — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un kaléidoscope — adjusting, pouring or manipulating throughout the ten seconds.
+All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
+[CAMERA] Over-the-shoulder tracking. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -632,14 +632,14 @@ Narrator: "Il s'avéra que moins de trois pour cent de cette immense infrastruct
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 42 — Suite présidentielle 42 - deux mille vingt
-[LOCATION] Suite présidentielle 42 - deux mille vingt — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 42 — Serre tropicale
+[LOCATION] Serre tropicale — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — déplace lentement un verre en cristal 42 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — manipule une lampe en laiton 42 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table à cartes the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un tire-bouchon — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un zootrope — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
+[CAMERA] Steadicam push-in. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -647,119 +647,119 @@ Narrator: "Les actions de ces géants des télécommunications s'effondrèrent d
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 43 — Salle des archives 43 - deux mille vingt-et-un
-[LOCATION] Salle des archives 43 - deux mille vingt-et-un — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 43 — Héliport privé
+[LOCATION] Héliport privé — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — observe silencieusement un horloge ancienne 43 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — règle un boulier en bois 43 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de ministre the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un verre de cognac — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un praxinoscope — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Dutch angle, aggressive. 10 seconds continuous.
+[CAMERA] Short orbital arc. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Pourquoi laisser vos précieuses économies stagner dans ce vaste système financier qui sacrifie votre avenir pour financer ces grandes illusions technologiques ? Suivez le canal pour la prochaine révélation." (29 ✅)
+Narrator: "Pendant que les géants brûlent des centaines de milliards sans retour sur investissement, comment comptez-vous protéger vos économies face à la correction brutale qui s'annonce sur les marchés ?" (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 44 — Bibliothèque historique 44 - deux mille vingt-deux
-[LOCATION] Bibliothèque historique 44 - deux mille vingt-deux — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 44 — Garage de collection
+[LOCATION] Garage de collection — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — ferme doucement un sculpture en bronze 44 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — positionne un plateau en argent 44 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table ronde the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une tasse de thé — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un thaumatrope — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Pull back, total reveal. 10 seconds continuous.
+[CAMERA] Dutch angle. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro quarante-quatre révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "La géopolitique mondiale se réorganisait autour de la fabrication de ces composants électroniques critiques, transformant de simples usines de semi-conducteurs asiatiques en véritables forteresses militaires stratégiques extrêmement bien surveillées." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 45 — Jardin d'hiver 45 - deux mille vingt-trois
-[LOCATION] Jardin d'hiver 45 - deux mille vingt-trois — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 45 — Bibliothèque secrète
+[LOCATION] Bibliothèque secrète — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — ouvre précautionneusement un livre rare 45 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — prépare une montre à gousset 45 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble d'apothicaire the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un éventail en soie — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un pendule de Foucault — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Fast lateral tracking shot. 10 seconds continuous.
+[CAMERA] Low angle. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro quarante-cinq révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Les marchés secondaires du matériel informatique d'occasion s'effondraient, inondés par des vagues de serveurs obsolètes que personne ne voulait plus acheter malgré des prix cassés défiant toute concurrence." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 46 — Fumoir privé 46 - deux mille vingt-quatre
-[LOCATION] Fumoir privé 46 - deux mille vingt-quatre — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 46 — Salle de musique
+[LOCATION] Salle de musique — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — lit attentivement un carte géographique 46 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — essuie un encrier 46 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de bar the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un parapluie à pommeau — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une bobine Tesla — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Low angle, power rise. 10 seconds continuous.
+[CAMERA] Total orbital pull back. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro quarante-six révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "L'euphorie spéculative atteignait des sommets absurdes, rappelant aux vétérans les heures les plus sombres des krachs boursiers historiques qui avaient pourtant ruiné d'innombrables familles d'investisseurs innocents." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 47 — Galerie des glaces 47 - deux mille vingt-cinq
-[LOCATION] Galerie des glaces 47 - deux mille vingt-cinq — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 47 — Cinéma privé
+[LOCATION] Cinéma privé — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — analyse un globe terrestre 47 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — nettoie un sceau en cire 47 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de drapier the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une canne sculptée — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un tube à vide — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Overhead, plunging. 10 seconds continuous.
+[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro quarante-sept révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Une dépendance technologique toxique s'installait durablement, obligeant de nombreuses administrations à signer des contrats de maintenance prohibitifs pour éviter la paralysie totale de leurs propres systèmes informatiques vitaux vieillissants." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 48 — Cave à vin 48 - deux mille vingt
-[LOCATION] Cave à vin 48 - deux mille vingt — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 48 — Bureau de rédaction
+[LOCATION] Bureau de rédaction — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — inspecte un boussole antique 48 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — calibre une bague en or 48 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'ébéniste the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un chapeau haut-de-forme — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une machine de Wimshurst — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
+[CAMERA] Extreme steadicam push-in. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro quarante-huit révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Le grand public commençait finalement à se désintéresser de ces innovations cosmétiques, réalisant que cette prétendue révolution ne résolvait en rien les véritables problématiques économiques et sociales de leur quotidien." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 49 — Salle des coffres 49 - deux mille vingt-et-un
-[LOCATION] Salle des coffres 49 - deux mille vingt-et-un — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 49 — Salle d'exposition
+[LOCATION] Salle d'exposition — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — range un loupe dorée 49 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — vérifie une maquette 49 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de ferme the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement des gants en cuir — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un électroscope — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Orbital arc around the subject. 10 seconds continuous.
+[CAMERA] Slow horizontal pan. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro quarante-neuf révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "La liquidité sur les marchés se tarissait à mesure que les investisseurs bloquaient leurs fonds dans des projets technologiques dont l'horizon de rentabilité s'éloignait inexorablement chaque nouvelle année." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 50 — Bureau en noyer 50 - deux mille vingt-deux
-[LOCATION] Bureau en noyer 50 - deux mille vingt-deux — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 50 — Atelier de sculpture
+[LOCATION] Atelier de sculpture — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — tourne les pages d'un dossier en cuir 50 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — ajuste une carafe en cristal 50 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble d'horloger the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un masque de velours — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un galvanomètre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Handheld, intimate close. 10 seconds continuous.
+[CAMERA] Rapid whip pan. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -767,139 +767,137 @@ Narrator: "Dans une usine de la péninsule coréenne, un conglomérat industriel
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 51 — Salon privé 51 - deux mille vingt-trois
-[LOCATION] Salon privé 51 - deux mille vingt-trois — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 51 — Salle de réception
+[LOCATION] Salle de réception — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — examine minutieusement un stylo en or 51 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — verse un télescope ancien 51 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de banque the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un éventail en plumes — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un voltmètre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Oner, continuous tracking. 10 seconds continuous.
+[CAMERA] Vertigo effect zoom. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Ces trois fabricants américains contrôlaient quatre-vingt-dix pour cent de l'approvisionnement en puces mémoire, et redirigèrent quatre-vingt-treize pour cent de leur production totale vers les immenses entrepôts d'intelligence artificielle." (30 ✅)
+Narrator: "Ces trois fabricants contrôlaient quatre-vingt-dix pour cent de l'approvisionnement mondial en puces mémoire, et ils redirigèrent quatre-vingt-treize pour cent de leur production vers les entrepôts d'intelligence artificielle." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 52 — Suite présidentielle 52 - deux mille vingt-quatre
-[LOCATION] Suite présidentielle 52 - deux mille vingt-quatre — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 52 — Jardin à la française
+[LOCATION] Jardin à la française — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — déplace lentement un verre en cristal 52 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — manipule une lampe en laiton 52 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de tric-trac the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une dague antique — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un ampèremètre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Push-out, final reveal. 10 seconds continuous.
+[CAMERA] Drone sweeping overhead. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le prix d'un gigaoctet bondit de zéro virgule quarante-trois à deux virgule trente-neuf dollars en six mois, selon le directeur général d'un grand fabricant américain d'ordinateurs personnels." (30 ✅)
+Narrator: "Le prix d'un gigaoctet de mémoire vive bondit de zéro virgule quarante-trois à deux virgule trente-neuf dollars en six mois, selon le directeur d'un grand fabricant d'ordinateurs." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 53 — Salle des archives 53 - deux mille vingt-cinq
-[LOCATION] Salle des archives 53 - deux mille vingt-cinq — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 53 — Cour intérieure
+[LOCATION] Cour intérieure — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — observe silencieusement un horloge ancienne 53 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — règle un boulier en bois 53 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de juge the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un pistolet de duel — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un rhéostat — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Extreme macro, financial close-up. 10 seconds continuous.
+[CAMERA] Circular tracking shot. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro cinquante-trois révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Les ingénieurs les plus brillants, fatigués par cette course à la puissance purement spéculative, démissionnaient en masse pour fonder de petites structures indépendantes axées sur des solutions techniques réellement utiles." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 54 — Bibliothèque historique 54 - deux mille vingt
-[LOCATION] Bibliothèque historique 54 - deux mille vingt — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 54 — Terrasse panoramique
+[LOCATION] Terrasse panoramique — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — ferme doucement un sculpture en bronze 54 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — positionne un plateau en argent 54 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de chevet the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un coffret de médailles — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une boussole d'inclinaison — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Tilt up, monumental final. 10 seconds continuous.
+[CAMERA] Ground-level tilt up. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro cinquante-quatre révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Les promesses grandiloquentes de résoudre les crises mondiales par de simples lignes de code apparaissaient comme de vulgaires stratagèmes marketing visant uniquement à justifier d'énormes levées de fonds astronomiques." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 55 — Jardin d'hiver 55 - deux mille vingt-et-un
-[LOCATION] Jardin d'hiver 55 - deux mille vingt-et-un — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 55 — Pavillon de chasse
+[LOCATION] Pavillon de chasse — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — ouvre précautionneusement un livre rare 55 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — prépare une montre à gousset 55 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble de sacristie the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un jeu de tarot — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un sextant de marine — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Oner, continuous tracking. 10 seconds continuous.
+[CAMERA] Over-the-shoulder tracking. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro cinquante-cinq révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "La surproduction mondiale de puces électroniques spécialisées annonçait inévitablement un réajustement brutal des stocks, menaçant de faire plonger l'ensemble de la chaîne logistique technologique dans une profonde récession industrielle." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 56 — Fumoir privé 56 - deux mille vingt-deux
-[LOCATION] Fumoir privé 56 - deux mille vingt-deux — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 56 — Chalet de montagne
+[LOCATION] Chalet de montagne — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — lit attentivement un carte géographique 56 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — essuie un encrier 56 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de pharmacie the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une boule de cristal — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un chronomètre de marine — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Oner, continuous tracking. 10 seconds continuous.
+[CAMERA] Steadicam push-in. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro cinquante-six révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Certains dirigeants de la Silicon Valley préparaient leur sortie financière, transférant secrètement d'immenses capitaux vers des paradis fiscaux avant que la dure réalité économique ne rattrape leurs valorisations artificielles." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 57 — Galerie des glaces 57 - deux mille vingt-trois
-[LOCATION] Galerie des glaces 57 - deux mille vingt-trois — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 57 — Villa romaine
+[LOCATION] Villa romaine — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — analyse un globe terrestre 57 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — nettoie un sceau en cire 57 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de liseuse the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un astrolabe — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un octant — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Oner, continuous tracking. 10 seconds continuous.
+[CAMERA] Short orbital arc. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro cinquante-sept révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "Le réveil des marchés financiers allait laisser derrière lui un cimetière d'entreprises technologiques surendettées, incapables de refinancer leurs opérations courantes face à des taux d'intérêt devenus soudainement prohibitifs." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 58 — Cave à vin 58 - deux mille vingt-quatre
-[LOCATION] Cave à vin 58 - deux mille vingt-quatre — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 58 — Palais oriental
+[LOCATION] Palais oriental — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — inspecte un boussole antique 58 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — calibre une bague en or 58 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'huissier the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement un sextant — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule un compas de relèvement — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Oner, continuous tracking. 10 seconds continuous.
+[CAMERA] Dutch angle. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le dossier confidentiel numéro cinquante-huit révélait une perte historique qui terrorisait secrètement l'ensemble des investisseurs institutionnels cherchant désespérément à protéger massivement leur capital contre cette dévaluation totalement incontrôlable." (29 ✅)
+Narrator: "L'histoire économique retenait son souffle, consciente que l'éclatement prochain de cette illusion algorithmique redessinerait durablement les rapports de force industriels à l'échelle de notre planète entière." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
-SCENE 59 — Salle des coffres 59 - deux mille vingt-cinq
-[LOCATION] Salle des coffres 59 - deux mille vingt-cinq — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 59 — Maison de verre
+[LOCATION] Maison de verre — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur costume sur mesure en laine de vigogne
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau en marbre the full ten seconds.
-Second actor in continuous physical motion — range un loupe dorée 59 — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — vérifie une maquette 59 — adjusting, pouring or manipulating throughout the ten seconds.
+[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table d'orientation the full ten seconds.
+Second actor in continuous physical motion — examine minutieusement une lunette astronomique — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — manipule une alidade — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Push-out, final reveal. 10 seconds continuous.
+[CAMERA] Low angle. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Avez-vous défini une stratégie claire pour protéger votre capital avant que l'effondrement inévitable de cette bulle n'anéantisse vos efforts ? Suivez le canal pour la prochaine révélation." (29 ✅)
+Narrator: "Alors que les professionnels de la finance liquident silencieusement leurs positions technologiques, quelle sera votre stratégie personnelle pour éviter de subir ce réajustement algorithmique prévisible et brutal ?" (28 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
-
-===FIN===
