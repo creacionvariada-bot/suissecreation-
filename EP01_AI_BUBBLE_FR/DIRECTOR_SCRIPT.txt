@@ -1,7 +1,7 @@
 OMNI FLASH — Text-to-video 10s — 9:16
 SCENE 0 — SCROLL STOPPER — 10 SECONDS
 [LOCATION] Bureau en noyer, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur marine.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur crêpe marine, chemisier ivoire, ceinture cuir doré, montre Cartier.
 [ACTION] ULTRA-FAST COLLAGE — 5 FLASH CUTS IN 10 SECONDS:
 0.0-2.0s: EXTREME STEADICAM PUSH-IN on @Narrateur's face, lips already moving, gaze rising toward the lens.
 2.0-4.0s: FLASH CUT — iconic physical detail — hands / object / money — brutal close-up — short orbital arc around the detail
@@ -13,13 +13,13 @@ Hard brutal cut between each flash — zero fade — pure cinema
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "En juin deux mille vingt-six, pour la première fois de son histoire, un empire technologique américain augmentait ses prix en plein milieu de l'année, sans présenter aucun nouveau produit." (30 ✅)
+Narrator: "Quatre-vingt-quatorze dollars sur cent, gagnés par tous les géants de la technologie mondiale, repartirent immédiatement dans de vastes entrepôts de calcul artificiel, laissant six dollars pour tout le reste." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 1 — Salon privé
 [LOCATION] Salon privé, décoration opulente riche en acajou. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur ivoire.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe fourreau soie bordeaux, veste structurée noire, collier or blanc.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table en chêne the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un verre en cristal — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une lampe en laiton — adjusting, pouring or manipulating throughout the ten seconds.
@@ -28,13 +28,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L'ordinateur portable bondissait de dix-huit pour cent, la tablette haut de gamme de vingt pour cent, et le boîtier télévisé de cinquante-quatre pour cent en une seule nuit." (29 ✅)
+Narrator: "L'ordinateur portable bondit de dix-huit pour cent, la tablette haut de gamme de vingt pour cent, et le boîtier télévisé de cinquante-quatre pour cent en une seule nuit." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 2 — Suite présidentielle
 [LOCATION] Suite présidentielle, décoration opulente riche en cuir. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur bordeaux.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume-pantalon laine gris anthracite, blouse soie crème, perles.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un pupitre ancien the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une montre à gousset — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un livre de comptes — adjusting, pouring or manipulating throughout the ten seconds.
@@ -49,7 +49,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 3 — Galerie d'art
 [LOCATION] Galerie d'art, décoration opulente riche en velours. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur taupe.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer velours vert bouteille, pantalon soie noire, broche dorée.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de billard the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une loupe en laiton — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un plan d'architecture — adjusting, pouring or manipulating throughout the ten seconds.
@@ -58,13 +58,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Les investisseurs continuaient d'acheter aveuglément ces actions technologiques surévaluées, ignorant que les fondateurs et dirigeants vendaient discrètement leurs propres participations massives depuis plusieurs semaines consécutives sans le moindre répit." (30 ✅)
+Narrator: "Les investisseurs continuèrent d'acheter aveuglément ces actions technologiques surévaluées, ignorant que les fondateurs et dirigeants vendirent discrètement leurs propres participations massives depuis plusieurs semaines consécutives sans le moindre répit." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 4 — Jardin d'hiver
 [LOCATION] Jardin d'hiver, décoration opulente riche en laiton. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur noir.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur cachemire taupe, foulard Hermès bordeaux, bague or.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de directeur the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un globe terrestre — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un croquis au fusain — adjusting, pouring or manipulating throughout the ten seconds.
@@ -73,13 +73,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L'infrastructure énergétique nécessaire pour alimenter ces gigantesques fermes de serveurs engloutissait la production de plusieurs centrales, provoquant des tensions inédites sur les réseaux électriques des grandes métropoles mondiales." (29 ✅)
+Narrator: "L'infrastructure énergétique nécessaire pour alimenter ces gigantesques fermes de serveurs engloutit la production de plusieurs centrales, provoquant des tensions inédites sur les réseaux électriques des grandes métropoles mondiales." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 5 — Cabinet de curiosités
 [LOCATION] Cabinet de curiosités, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, brutal crimson shadows. Piercing siren red highlights. High-contrast aggressive grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur gris anthracite.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe jersey noir mat, veste tweed prune, escarpins cuir marron.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bar en acajou the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un jeu de cartes — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une partition de musique — adjusting, pouring or manipulating throughout the ten seconds.
@@ -88,13 +88,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Une étude indépendante révélait que la majorité des tâches déléguées aux algorithmes avancés n'apportait aucune valeur mesurable, se contentant de reproduire des schémas d'optimisation déjà parfaitement maîtrisés auparavant." (30 ✅)
+Narrator: "Une étude indépendante révéla que la majorité des tâches déléguées aux algorithmes avancés n'apportait aucune valeur mesurable, se contentant de reproduire des schémas d'optimisation déjà parfaitement maîtrisés auparavant." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 6 — Fumoir clandestin
 [LOCATION] Fumoir clandestin, décoration opulente riche en cristal. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur marine.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur-pantalon laine caramel, chemisier blanc cassé, manchettes argent.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un lutrin sculpté the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une pièce de monnaie — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un tableau de maître — adjusting, pouring or manipulating throughout the ten seconds.
@@ -103,13 +103,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Les promesses de révolutionner la productivité mondiale se heurtaient violemment à la réalité technique, chaque avancée marginale exigeant désormais de multiplier par dix la puissance de calcul mathématique brute." (29 ✅)
+Narrator: "Les promesses de révolutionner la productivité mondiale se heurtèrent violemment à la réalité technique, chaque avancée marginale exigeant désormais de multiplier par dix la puissance de calcul mathématique brute." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 7 — Salle de conférence en marbre
 [LOCATION] Salle de conférence en marbre, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur ivoire.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume flanelle bleu nuit, pochette ivoire, montre dorée.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une étagère dorée the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un sablier — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un vase en porcelaine — adjusting, pouring or manipulating throughout the ten seconds.
@@ -118,13 +118,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Sur cent dollars gagnés par les quatre plus grandes entreprises technologiques mondiales en deux mille vingt-six, quatre-vingt-quatorze repartaient immédiatement dans la construction de nouveaux entrepôts de calcul artificiel." (28 ✅)
+Narrator: "Sur cent dollars gagnés par les quatre plus grandes entreprises technologiques mondiales en deux mille vingt-six, quatre-vingt-quatorze repartirent immédiatement dans la construction de nouveaux entrepôts de calcul artificiel." (28 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 8 — Atelier d'horlogerie
 [LOCATION] Atelier d'horlogerie, décoration opulente riche en soie. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur bordeaux.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe crêpe chocolat, ceinture cognac, collier perles longues.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un guéridon en fer forgé the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une clé ancienne — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une tapisserie murale — adjusting, pouring or manipulating throughout the ten seconds.
@@ -139,7 +139,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 9 — Banque abandonnée
 [LOCATION] Banque abandonnée, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur taupe.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer soie champagne, pantalon gris perle, escarpins noirs.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un coffre antique the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un sceau en cire — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un tapis persan — adjusting, pouring or manipulating throughout the ten seconds.
@@ -154,7 +154,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 10 — Manoir gothique
 [LOCATION] Manoir gothique, décoration opulente riche en acajou. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur noir.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur laine bordeaux strict, chemisier soie blanche, épingle or.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une cheminée monumentale the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un parchemin — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un chandelier en argent — adjusting, pouring or manipulating throughout the ten seconds.
@@ -163,13 +163,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Les régulateurs internationaux observaient prudemment cette concentration de capitaux, craignant qu'une correction brutale ne finisse par déstabiliser l'ensemble du système bancaire et financier mondial fortement interconnecté." (28 ✅)
+Narrator: "Les régulateurs internationaux observèrent prudemment cette concentration de capitaux, craignant qu'une correction brutale ne finisse par déstabiliser l'ensemble du système bancaire et financier mondial fortement interconnecté." (28 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 11 — Observatoire astronomique
 [LOCATION] Observatoire astronomique, décoration opulente riche en cuir. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur gris anthracite.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe fourreau émeraude, veste cachemire noir, manchettes or.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un secrétaire à abattant the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un carnet en cuir — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un miroir ancien — adjusting, pouring or manipulating throughout the ten seconds.
@@ -178,13 +178,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Dans la Silicon Valley, les ingénieurs exigeaient des rémunérations démentielles pour concevoir des systèmes dont la date d'obsolescence programmée ne dépassait plus désormais que quelques petits mois à peine." (30 ✅)
+Narrator: "Dans la Silicon Valley, les ingénieurs exigèrent des rémunérations démentielles pour concevoir des systèmes dont la date d'obsolescence programmée ne dépassa plus désormais que quelques petits mois à peine." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 12 — Laboratoire clandestin
 [LOCATION] Laboratoire clandestin, décoration opulente riche en velours. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur marine.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume gabardine anthracite, blouse soie pêche, montre Rolex.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de campagne the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un échiquier — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une pendule de cheminée — adjusting, pouring or manipulating throughout the ten seconds.
@@ -193,13 +193,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "La fabrication de composants spécialisés nécessitait d'immenses quantités de métaux rares, déclenchant une véritable guerre économique souterraine entre les puissances industrielles cherchant à sécuriser leurs propres chaînes d'approvisionnement." (30 ✅)
+Narrator: "La fabrication de composants spécialisés nécessita d'immenses quantités de métaux rares, déclenchant une véritable guerre économique souterraine entre les puissances industrielles cherchant à sécuriser leurs propres chaînes d'approvisionnement." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 13 — Bourse de valeurs
 [LOCATION] Bourse de valeurs, décoration opulente riche en laiton. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur ivoire.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur tweed ocre, chemisier soie ivoire, ceinture cuir brun.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table d'architecte the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une statuette de bronze — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un baromètre — adjusting, pouring or manipulating throughout the ten seconds.
@@ -208,13 +208,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Les compagnies d'assurance commençaient silencieusement à refuser de couvrir ces infrastructures informatiques démesurées, estimant que la probabilité d'un effondrement matériel simultané devenait statistiquement beaucoup trop élevée cette année." (30 ✅)
+Narrator: "Les compagnies d'assurance commencèrent silencieusement à refuser de couvrir ces infrastructures informatiques démesurées, estimant que la probabilité d'un effondrement matériel simultané devint statistiquement beaucoup trop élevée cette année." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 14 — Hôtel de luxe
 [LOCATION] Hôtel de luxe, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur bordeaux.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer laine marine, pantalon crêpe crème, bijoux or rose.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un établi en bois massif the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un télescope — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un thermomètre — adjusting, pouring or manipulating throughout the ten seconds.
@@ -223,13 +223,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L'illusion d'une croissance perpétuelle masquait mal le fait que la demande pour ces services plafonnait, les entreprises refusant de payer des licences exorbitantes pour des gains opérationnels marginaux." (30 ✅)
+Narrator: "L'illusion d'une croissance perpétuelle masqua mal le fait que la demande pour ces services plafonnait, les entreprises refusant de payer des licences exorbitantes pour des gains opérationnels marginaux." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 15 — Villa sur la falaise
 [LOCATION] Villa sur la falaise, décoration opulente riche en cristal. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur taupe.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe soie lie de vin, veste laine grise, boucles diamant.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de réunion the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un microscope — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un hygromètre — adjusting, pouring or manipulating throughout the ten seconds.
@@ -244,7 +244,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 16 — Yacht privé
 [LOCATION] Yacht privé, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur noir.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur velours prune profond, blouse soie blanche, montre acier.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une desserte the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un appareil photo rétro — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un calendrier perpétuel — adjusting, pouring or manipulating throughout the ten seconds.
@@ -253,13 +253,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Les marchés boursiers mondiaux oscillaient dangereusement, chaque annonce de ralentissement technologique provoquant immédiatement des vagues de ventes que seuls les algorithmes de trading à haute fréquence tentaient encore d'amortir." (30 ✅)
+Narrator: "Les marchés boursiers mondiaux oscillèrent dangereusement, chaque annonce de ralentissement technologique provoquant immédiatement des vagues de ventes que seuls les algorithmes de trading à haute fréquence tentèrent encore d'amortir." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 17 — Penthouse panoramique
 [LOCATION] Penthouse panoramique, décoration opulente riche en soie. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur gris anthracite.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe jersey anthracite, veste cuir brun, collier or jaune.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble de classement the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un gramophone — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un pèse-lettre — adjusting, pouring or manipulating throughout the ten seconds.
@@ -268,13 +268,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Pour justifier chaque dollar investi dans l'intelligence artificielle, une grande banque new-yorkaise a calculé que l'ensemble du secteur devait générer six cent cinquante milliards de revenus par an." (30 ✅)
+Narrator: "Pour justifier chaque dollar investi dans l'intelligence artificielle, une grande banque new-yorkaise calcula que l'ensemble du secteur devait générer six cent cinquante milliards de revenus par an." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 18 — Musée d'antiquités
 [LOCATION] Musée d'antiquités, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur marine.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume soie champagne, chemisier bordeaux, ceinture cuir doré.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'officier the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un téléphone à cadran — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une balance de précision — adjusting, pouring or manipulating throughout the ten seconds.
@@ -283,13 +283,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le manque à gagner atteignait cinq cent soixante-quinze milliards de dollars, un gouffre que personne, dans les salles de marché de San Francisco à New York, n'arrivait à combler." (30 ✅)
+Narrator: "Le manque à gagner atteignit cinq cent soixante-quinze milliards de dollars, un gouffre que personne, dans les salles de marché de San Francisco à New York, n'arrivait à combler." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 19 — Opéra désert
 [LOCATION] Opéra désert, décoration opulente riche en acajou. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur ivoire.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur crêpe noir parfait, chemisier soie crème, verni noir.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de salle à manger the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un coffret en bois — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une mallette en cuir — adjusting, pouring or manipulating throughout the ten seconds.
@@ -304,7 +304,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 20 — Salle des coffres
 [LOCATION] Salle des coffres, décoration opulente riche en cuir. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur bordeaux.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer cachemire bleu pétrole, pantalon flanelle grise, solitaire.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de jeu the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une machine à écrire — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un coffre-fort — adjusting, pouring or manipulating throughout the ten seconds.
@@ -319,7 +319,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 21 — Théâtre classique
 [LOCATION] Théâtre classique, décoration opulente riche en velours. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur taupe.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe soie taupe, veste courte cuir noir, boucles or jaune.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de poste the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un éventail — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un sac de voyage — adjusting, pouring or manipulating throughout the ten seconds.
@@ -328,13 +328,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Une poignée de fonds spéculatifs spécialisés commençait à parier sur l'éclatement imminent de cette bulle, accumulant des positions courtes pour profiter du plongeon inévitable des valorisations technologiques historiquement aberrantes." (30 ✅)
+Narrator: "Une poignée de fonds spéculatifs spécialisés commença à parier sur l'éclatement imminent de cette bulle, accumulant des positions courtes pour profiter du plongeon inévitable des valorisations technologiques historiquement aberrantes." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 22 — Palais de justice
 [LOCATION] Palais de justice, décoration opulente riche en laiton. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur noir.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur laine terracotta, chemisier soie ivoire, montre or.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de préparation the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une pipe en bruyère — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une malle ancienne — adjusting, pouring or manipulating throughout the ten seconds.
@@ -349,7 +349,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 23 — Ambassade majestueuse
 [LOCATION] Ambassade majestueuse, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur gris anthracite.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume velours nuit, blouse soie saumon, manchettes dorées.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de professeur the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un briquet en argent — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un écrin à bijoux — adjusting, pouring or manipulating throughout the ten seconds.
@@ -358,13 +358,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le marché de l'emploi technologique montrait de premiers signes de fatigue inquiétants, avec des gels de recrutement massifs annoncés par les mêmes entreprises qui promettaient hier une révolution imminente." (30 ✅)
+Narrator: "Le marché de l'emploi technologique montra de premiers signes de fatigue inquiétants, avec des gels de recrutement massifs annoncés par les mêmes entreprises qui promettaient hier une révolution imminente." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 24 — Bureau de poste ancien
 [LOCATION] Bureau de poste ancien, décoration opulente riche en cristal. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur marine.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer tweed bordeaux et beige, pantalon noir, pochette blanche.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de réception the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un porte-cigarette — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un métronome — adjusting, pouring or manipulating throughout the ten seconds.
@@ -373,13 +373,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L'empreinte carbone désastreuse de ces centres de données titanesques suscitait la colère d'une nouvelle génération de militants, prêts à bloquer physiquement les chantiers de ces énormes monstres énergétiques." (30 ✅)
+Narrator: "L'empreinte carbone désastreuse de ces centres de données titanesques suscita la colère d'une nouvelle génération de militants, prêts à bloquer physiquement les chantiers de ces énormes monstres énergétiques." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 25 — Gare désaffectée
 [LOCATION] Gare désaffectée, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur ivoire.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe crêpe gris ardoise, veste marine, collier perles.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'avocat the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un monocle — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un diapason — adjusting, pouring or manipulating throughout the ten seconds.
@@ -388,13 +388,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Les banques centrales, déjà aux prises avec une inflation persistante, observaient comment cette allocation irrationnelle de capital privait l'économie traditionnelle des investissements productifs nécessaires à une véritable croissance durable." (30 ✅)
+Narrator: "Les banques centrales, déjà aux prises avec une inflation persistante, observèrent comment cette allocation irrationnelle de capital priva l'économie traditionnelle des investissements productifs nécessaires à une véritable croissance durable." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 26 — Restaurant étoilé
 [LOCATION] Restaurant étoilé, décoration opulente riche en soie. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur bordeaux.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur cachemire chocolat, chemisier soie crème, ceinture croco.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table d'appoint the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un couteau à papier — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un phonographe — adjusting, pouring or manipulating throughout the ten seconds.
@@ -403,13 +403,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le PDG d'un groupe américain travaillant pour les services secrets et les plus grandes banques du monde a déclaré : ces modèles ont été vendus de façon totalement irresponsable." (30 ✅)
+Narrator: "Le PDG d'un groupe américain travaillant pour les services secrets et les plus grandes banques du monde déclara : ces modèles ont été vendus de façon totalement irresponsable." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 27 — Boutique de tailleur
 [LOCATION] Boutique de tailleur, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur taupe.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume trois pièces laine verte anglaise, chemisier blanc, broche or.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau victorien the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un presse-papier — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un rouleau de cire — adjusting, pouring or manipulating throughout the ten seconds.
@@ -418,13 +418,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Un grand cabinet de conseil mondial avait pourtant chiffré la réalité : soixante-treize pour cent des déploiements d'intelligence artificielle en entreprise échouaient à atteindre leur retour sur investissement projeté." (30 ✅)
+Narrator: "Un grand cabinet de conseil mondial chiffra pourtant la réalité : soixante-treize pour cent des déploiements d'intelligence artificielle en entreprise échouaient à atteindre leur retour sur investissement projeté." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 28 — Salle de bal
 [LOCATION] Salle de bal, décoration opulente riche en acajou. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur noir.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer soie ivoire, pantalon gabardine taupe, escarpins bordeaux.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une coiffeuse the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un tampon encreur — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un disque vinyle — adjusting, pouring or manipulating throughout the ten seconds.
@@ -439,7 +439,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 29 — Chapelle abandonnée
 [LOCATION] Chapelle abandonnée, décoration opulente riche en cuir. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur gris anthracite.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe jersey bleu nuit, veste laine grise, montre or blanc.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une console d'entrée the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un encrier — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une bande magnétique — adjusting, pouring or manipulating throughout the ten seconds.
@@ -454,7 +454,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 30 — Bunker luxueux
 [LOCATION] Bunker luxueux, décoration opulente riche en velours. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur marine.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur crêpe anthracite, chemisier soie rouge carmin, manchettes argent.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de bibliothécaire the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un plumier — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un projecteur de film — adjusting, pouring or manipulating throughout the ten seconds.
@@ -469,7 +469,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 31 — Atelier d'architecte
 [LOCATION] Atelier d'architecte, décoration opulente riche en laiton. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur ivoire.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume flanelle caramel, blouse soie champagne, boucles perles.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble vitrine the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un collier de perles — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un appareil photo à soufflet — adjusting, pouring or manipulating throughout the ten seconds.
@@ -478,13 +478,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le mirage de l'automatisation totale commençait à se dissiper, révélant que derrière chaque interface soi-disant intelligente se cachaient en réalité de nombreux travailleurs précaires exploitant des données brutes manuellement." (30 ✅)
+Narrator: "Le mirage de l'automatisation totale commença à se dissiper, révélant que derrière chaque interface soi-disant intelligente se cachaient en réalité de nombreux travailleurs précaires exploitant des données brutes manuellement." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 32 — Galerie des glaces
 [LOCATION] Galerie des glaces, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur bordeaux.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer velours émeraude, pantalon noir, ceinture lézard doré.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de joaillier the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une broche — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une plaque photographique — adjusting, pouring or manipulating throughout the ten seconds.
@@ -499,7 +499,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 33 — Salon de thé
 [LOCATION] Salon de thé, décoration opulente riche en cristal. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur taupe.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe soie bordeaux profond, veste laine noire, épingle or.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de géomètre the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un miroir à main — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un agrandisseur — adjusting, pouring or manipulating throughout the ten seconds.
@@ -514,7 +514,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 34 — Club privé
 [LOCATION] Club privé, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur noir.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur tweed gris et bleu, chemisier soie ivoire, montre Cartier.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau moderniste the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un peigne en écaille — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un stéréoscope — adjusting, pouring or manipulating throughout the ten seconds.
@@ -523,13 +523,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Les procès pour violation massive de droits d'auteur se multipliaient, menaçant la viabilité juridique de ces immenses bases de données construites hâtivement en aspirant illégalement le travail d'autrui." (30 ✅)
+Narrator: "Les procès pour violation massive de droits d'auteur se multiplièrent, menaçant la viabilité juridique de ces immenses bases de données construites hâtivement en aspirant illégalement le travail d'autrui." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 35 — Salle de billard
 [LOCATION] Salle de billard, décoration opulente riche en soie. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur gris anthracite.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume soie noire brillante, chemisier crêpe prune, collier or.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de monastère the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une flasque en argent — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une lanterne magique — adjusting, pouring or manipulating throughout the ten seconds.
@@ -544,7 +544,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 36 — Piscine intérieure
 [LOCATION] Piscine intérieure, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur marine.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer cachemire taupe rosé, pantalon flanelle grise, escarpins noirs.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'antiquaire the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un shaker à cocktail — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un kaléidoscope — adjusting, pouring or manipulating throughout the ten seconds.
@@ -559,7 +559,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 37 — Loft panoramique
 [LOCATION] Loft panoramique, décoration opulente riche en acajou. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur ivoire.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe fourreau soie marine, veste courte blanche, bijoux or blanc.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de ministre the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un verre de cognac — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un praxinoscope — adjusting, pouring or manipulating throughout the ten seconds.
@@ -574,7 +574,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 38 — Serre tropicale
 [LOCATION] Serre tropicale, décoration opulente riche en cuir. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur bordeaux.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur laine bordeaux brique, chemisier soie dorée, ceinture cuir.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table à cartes the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un tire-bouchon — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un zootrope — adjusting, pouring or manipulating throughout the ten seconds.
@@ -589,7 +589,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 39 — Garage de collection
 [LOCATION] Garage de collection, décoration opulente riche en velours. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur taupe.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume velours bleu canard, blouse soie crème, manchettes or.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table ronde the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une tasse de thé — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un thaumatrope — adjusting, pouring or manipulating throughout the ten seconds.
@@ -604,7 +604,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 40 — Bibliothèque secrète
 [LOCATION] Bibliothèque secrète, décoration opulente riche en laiton. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur noir.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer tweed chocolat et crème, pantalon noir, bague rubis.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble d'apothicaire the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un éventail en soie — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un pendule de Foucault — adjusting, pouring or manipulating throughout the ten seconds.
@@ -619,7 +619,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 41 — Salle de musique
 [LOCATION] Salle de musique, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur gris anthracite.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe jersey gris ardoise, veste cuir bordeaux, collier ambre.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de bar the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un parapluie à pommeau — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une bobine Tesla — adjusting, pouring or manipulating throughout the ten seconds.
@@ -628,13 +628,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "L'euphorie spéculative atteignait des sommets absurdes, rappelant aux vétérans les heures les plus sombres des krachs boursiers historiques qui avaient pourtant ruiné d'innombrables familles d'investisseurs innocents." (29 ✅)
+Narrator: "L'euphorie spéculative atteignit des sommets absurdes, rappelant aux vétérans les heures les plus sombres des krachs boursiers historiques qui avaient pourtant ruiné d'innombrables familles d'investisseurs innocents." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 42 — Cinéma privé
 [LOCATION] Cinéma privé, décoration opulente riche en cristal. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur marine.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur crêpe vert anglais, chemisier blanc, escarpins caramel.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de drapier the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une canne sculptée — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un tube à vide — adjusting, pouring or manipulating throughout the ten seconds.
@@ -649,7 +649,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 43 — Bureau de rédaction
 [LOCATION] Bureau de rédaction, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur ivoire.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume flanelle anthracite, blouse soie champagne, montre or.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'ébéniste the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un chapeau haut-de-forme — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une machine de Wimshurst — adjusting, pouring or manipulating throughout the ten seconds.
@@ -658,13 +658,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le grand public commençait finalement à se désintéresser de ces innovations cosmétiques, réalisant que cette prétendue révolution ne résolvait en rien les véritables problématiques économiques et sociales de leur quotidien." (30 ✅)
+Narrator: "Le grand public commença finalement à se désintéresser de ces innovations cosmétiques, réalisant que cette prétendue révolution ne résolvait en rien les véritables problématiques économiques et sociales de leur quotidien." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 44 — Salle d'exposition
 [LOCATION] Salle d'exposition, décoration opulente riche en soie. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur bordeaux.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer soie lie de vin, pantalon gabardine noir, épingle dorée.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de ferme the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement des gants en cuir — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un électroscope — adjusting, pouring or manipulating throughout the ten seconds.
@@ -679,7 +679,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 45 — Atelier de sculpture
 [LOCATION] Atelier de sculpture, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur taupe.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe soie prune, veste structurée laine grise, perles longues.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble d'horloger the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un masque de velours — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un galvanomètre — adjusting, pouring or manipulating throughout the ten seconds.
@@ -688,13 +688,13 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Dans une usine de la péninsule coréenne, un conglomérat industriel a pris une décision silencieuse qui allait renchérir le prix de votre ordinateur, de votre téléphone et de votre console." (30 ✅)
+Narrator: "Dans une usine de la péninsule coréenne, un conglomérat industriel prit une décision silencieuse qui allait renchérir le prix de votre ordinateur, de votre téléphone et de votre console." (29 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
 
 SCENE 46 — Salle de réception
 [LOCATION] Salle de réception, décoration opulente riche en acajou. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur noir.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur laine bleu nuit, chemisier soie corail, ceinture dorée.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de banque the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un éventail en plumes — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un voltmètre — adjusting, pouring or manipulating throughout the ten seconds.
@@ -709,7 +709,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 47 — Jardin à la française
 [LOCATION] Jardin à la française, décoration opulente riche en cuir. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur gris anthracite.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume velours bordeaux, blouse blanche, manchettes argent.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de tric-trac the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une dague antique — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un ampèremètre — adjusting, pouring or manipulating throughout the ten seconds.
@@ -724,7 +724,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 48 — Cour intérieure
 [LOCATION] Cour intérieure, décoration opulente riche en velours. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur marine.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer cachemire ivoire, pantalon crêpe taupe, escarpins marine.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de juge the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un pistolet de duel — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un rhéostat — adjusting, pouring or manipulating throughout the ten seconds.
@@ -739,7 +739,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 49 — Terrasse panoramique
 [LOCATION] Terrasse panoramique, décoration opulente riche en laiton. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur ivoire.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe soie anthracite, veste courte tweed, boucles or.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de chevet the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un coffret de médailles — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une boussole d'inclinaison — adjusting, pouring or manipulating throughout the ten seconds.
@@ -754,7 +754,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 50 — Pavillon de chasse
 [LOCATION] Pavillon de chasse, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur bordeaux.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur laine émeraude, chemisier soie ivoire, montre platine.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble de sacristie the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un jeu de tarot — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un sextant de marine — adjusting, pouring or manipulating throughout the ten seconds.
@@ -769,7 +769,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 51 — Chalet de montagne
 [LOCATION] Chalet de montagne, décoration opulente riche en cristal. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur taupe.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume flanelle grise, blouse soie bordeaux, collier or.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de pharmacie the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une boule de cristal — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un chronomètre de marine — adjusting, pouring or manipulating throughout the ten seconds.
@@ -784,7 +784,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 52 — Villa romaine
 [LOCATION] Villa romaine, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur noir.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer tweed brun doré, pantalon noir, bague chevalière.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de liseuse the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un astrolabe — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un octant — adjusting, pouring or manipulating throughout the ten seconds.
@@ -799,7 +799,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 53 — Palais oriental
 [LOCATION] Palais oriental, décoration opulente riche en soie. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur gris anthracite.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe fourreau soie noir profond, veste cachemire grise, diamants.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'huissier the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement un sextant — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un compas de relèvement — adjusting, pouring or manipulating throughout the ten seconds.
@@ -814,7 +814,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 54 — Maison de verre
 [LOCATION] Maison de verre, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage discret et luxueux, posture de dirigeante, 30-45 ans, charisme naturel. Bijoux discrets en or. Montre de luxe visible. Costume tailleur haut de gamme couleur marine.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur crêpe marine immaculé, chemisier soie blanc, perles diamant.
 [ACTION] @Narrateur lips moving clearly, gesturing continuously over une table d'orientation the full ten seconds.
 Second actor in continuous physical motion — examine minutieusement une lunette astronomique — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une alidade — adjusting, pouring or manipulating throughout the ten seconds.
