@@ -1,0 +1,548 @@
+[00:00:03.669] How do you think about this bubble talk
+[00:00:03.679] that has been going on for the last few
+[00:00:05.839] months especially?
+[00:00:12.070] >> I mean I I think it's quite possible.
+[00:00:12.080] >> Ladies and gentlemen, on 25th of June
+[00:00:14.240] 2026, Apple did something that it has
+[00:00:16.720] never done in its history. In the middle
+[00:00:19.119] of the year for no new product, it just
+[00:00:22.000] raised prices. MacBook Air is up by 18%,
+[00:00:25.680] iPad Pro is up by 20% and Apple TV is up
+[00:00:29.439] by 54%.
+[00:00:35.030] Apple said yesterday it is immediately
+[00:00:35.040] raising prices on the products.
+[00:00:36.719] >> The company says soaring memory chip
+[00:00:38.640] prices are driving up costs and the
+[00:00:40.610] [music] AI boom is a major factor behind
+[00:00:42.480] the surge.
+[00:00:42.960] >> The AI trade is leading to real
+[00:00:45.040] near-term inflation.
+[00:00:48.000] >> And when asked why, Apple said something
+[00:00:50.719] remarkable. They said, "We have never
+[00:00:53.440] seen a competent price increase this
+[00:00:55.440] much this quickly." And the reason your
+[00:00:57.760] laptop got more expensive is because of
+[00:01:00.239] a war being fought over tiny memory
+[00:01:02.320] chips thousands of kilometers away. And
+[00:01:04.720] look at this graph. In 2020, before Chad
+[00:01:07.680] GBD existed, the four biggest US tech
+[00:01:10.320] companies spent combined $90 billion on
+[00:01:13.439] capeex. In 2023, they spent $147
+[00:01:16.799] billion. In 2025 that number went up to
+[00:01:20.799] $410 billion and then in 2026 it is up
+[00:01:25.759] to $725 billion. So in 6 years the capex
+[00:01:30.560] has grown 8x and all of this is coming
+[00:01:33.759] just from Amazon, Meta, Google and
+[00:01:36.320] Microsoft. At the same time, the stock
+[00:01:38.400] market was going so crazy over the AI
+[00:01:40.479] wave that on 2nd of June 2026, Nvidia
+[00:01:43.680] was worth $5 trillion and analysts were
+[00:01:46.880] screaming to buy AI stocks.
+[00:01:48.880] >> The AI will be a pretty [music] good
+[00:01:50.320] thing to invest in.
+[00:01:51.680] >> It is going to be, I think, just a
+[00:01:53.600] booming year for AI and tech stocks,
+[00:01:55.936] [music] especially in the first half of
+[00:01:57.439] the year.
+[00:01:57.920] >> But just 3 days later, something started
+[00:02:00.240] cracking. Nvidia lost $320 billion in
+[00:02:04.079] market cap. By 24th June, Micron was
+[00:02:06.960] down by 13%, SanDisk was down by 10.59%,
+[00:02:11.200] Apple fell by 6.1% and Soft Bank tanked
+[00:02:14.879] 12%. On top of that, OpenAI delayed its
+[00:02:17.920] IPO and slowly warnings are coming from
+[00:02:20.480] the smartest people on earth are
+[00:02:22.959] >> right now rising close to the same level
+[00:02:25.840] in 2010.
+[00:02:26.879] >> So what's the end? Is it a bubble that
+[00:02:28.239] bursts eventually?
+[00:02:29.200] >> I think it is. Yes. The problem with the
+[00:02:31.200] AI capex boom is not only is it immense
+[00:02:34.400] but a big chunk of it is funded with
+[00:02:36.560] debt and that pain doesn't stay
+[00:02:38.959] restricted. It spills over into the rest
+[00:02:42.080] of society. The second thing that
+[00:02:43.920] happens when people get very excited as
+[00:02:46.239] they are today about artificial
+[00:02:47.840] intelligence for example is every
+[00:02:50.879] experiment gets funded. This is a kind
+[00:02:53.200] of industrial bubble as opposed to
+[00:02:55.599] financial bubbles. Now looking at this
+[00:02:57.760] madness, I went back to understand all
+[00:02:59.920] the bubbles in history. I read the Wall
+[00:03:01.599] Street Journal, the Financial Times, the
+[00:03:03.360] CNBC transcripts and even the JP Morgan
+[00:03:05.599] gap analysis to understand why does Ray
+[00:03:08.000] Dalio call this a textbook example of a
+[00:03:10.239] bubble. And by the end of this video,
+[00:03:11.519] you will understand better than 99% of
+[00:03:13.360] Indian investors, whether this is the
+[00:03:15.120] greatest business bet in human history
+[00:03:16.480] or the greatest bubble ever inflated.
+[00:03:18.480] Why are Michael Bur, Ray Dalio, and Jeff
+[00:03:20.959] Bezos implying that this is a bubble?
+[00:03:23.280] And what happens when this bubble
+[00:03:24.959] bursts? Before we move on, if you're a
+[00:03:27.360] manufacturer or if you run an e-commerce
+[00:03:29.440] store, ODO has something very special
+[00:03:31.040] for you. ODO understands that as a
+[00:03:32.879] business owner, you are already juggling
+[00:03:34.480] between three different tools. One for
+[00:03:35.920] inventory, one for accounting, and one
+[00:03:37.599] for sales. And every single day,
+[00:03:39.120] something slips through the cracks even
+[00:03:40.640] with your best efforts. Some order goes
+[00:03:42.640] missing, the stock count doesn't match,
+[00:03:44.480] the customer calls get lost between two
+[00:03:46.080] teams, and hours are wasted just keeping
+[00:03:48.159] these disconnected systems alive. Now,
+[00:03:50.400] imagine if all of this ran from one
+[00:03:52.480] place. This is exactly where ODO comes
+[00:03:54.799] in. Odo is an all-in-one business
+[00:03:56.480] management software that brings together
+[00:03:58.400] 45 easy to use applications under one
+[00:04:01.040] roof. So whether you are managing sales,
+[00:04:02.959] invoicing, inventory, projects, or even
+[00:04:04.959] building your own website, UDO runs
+[00:04:06.959] everything from a single platform. So no
+[00:04:09.280] more juggling and no more messy
+[00:04:11.040] integrations. And the real magic is that
+[00:04:13.360] every app talks to each other. So once
+[00:04:15.680] you make a sale on your e-commerce
+[00:04:17.199] store, the invoice is automatically
+[00:04:18.959] created and your stock is updated in
+[00:04:20.959] your inventory. So you always get a
+[00:04:23.120] real-time view of your business in one
+[00:04:25.040] place. And as your business grows, ODO
+[00:04:27.600] grows with you. And the best part is you
+[00:04:29.600] can get started with ODO for free today.
+[00:04:31.759] And as your business scales, you can
+[00:04:33.280] access the full suite for just 580
+[00:04:35.280] rupees per user per month. So if you
+[00:04:37.759] want to grow your business in a flash,
+[00:04:39.280] click the link in the description and
+[00:04:40.639] start your journey with ODO today.
+[00:04:44.928] >> [music]
+[00:04:46.080] >> This is the story of one of the greatest
+[00:04:48.320] bets in human history. Before we go
+[00:04:50.240] anywhere, let me install a mental model
+[00:04:52.000] in your head. Because if you don't
+[00:04:53.360] understand what a data center actually
+[00:04:54.880] is, none of the numbers will make sense.
+[00:04:56.800] Imagine your phone. When you type a
+[00:04:58.560] question into Chad Gupty, your phone
+[00:05:00.479] doesn't just answer by [music] itself.
+[00:05:02.080] Your phone is just a screen with Wi-Fi.
+[00:05:04.639] The actual thinking happens somewhere
+[00:05:06.400] else in a warehouse. A giant windowless
+[00:05:09.440] industrial warehouse which is filled
+[00:05:11.280] with metal racks. And each rack is
+[00:05:13.520] installed with thousands of these
+[00:05:15.058] [music] chips. That warehouse is called
+[00:05:17.120] a data center. Each one of these
+[00:05:19.440] buildings can hold 100,000 Nvidia GPUs.
+[00:05:22.880] Each Nvidia GPU cost 30 to $40,000.
+[00:05:26.720] So one building holds 3 to4 billion
+[00:05:29.919] worth of chips. One building just holds
+[00:05:32.743] [music]
+[00:05:33.520] 3 to4 billion worth of chips. This 3 to4
+[00:05:37.680] billion is [music] just for chips. On
+[00:05:40.800] top of that, you have to power them,
+[00:05:42.639] cool them, connect them with [music]
+[00:05:43.919] high-speed cables and build them with
+[00:05:46.000] concrete, security, and fire
+[00:05:47.600] suppression. All in all, a single large
+[00:05:50.400] AI data center cost 10 to 25 billion to
+[00:05:53.440] build. [music] And this is where the
+[00:05:55.120] race is happening. Like I told you in
+[00:05:57.120] the data center case study, if you look
+[00:05:58.960] at this graph, in 2010, the world
+[00:06:01.759] created or replicated two zetabytes of
+[00:06:03.759] data. That's roughly 2 trillion GB. But
+[00:06:06.479] fast forward to today, something
+[00:06:08.319] terrifying is happening. By 2026, the
+[00:06:11.389] [music] world is projected to generate
+[00:06:13.280] 221 zetabytes of data. That's over 100x
+[00:06:16.880] more than in 2010. So, the world is
+[00:06:20.080] producing more data in a month than it
+[00:06:22.400] did in all of history until 2010. This
+[00:06:25.440] is the reason why the investment in data
+[00:06:27.360] centers has shot up from $90 billion to
+[00:06:29.919] $725 billion in just the last 6 years.
+[00:06:33.919] Now, here's a number that made me
+[00:06:35.199] question everything that is happening.
+[00:06:36.960] The PIMCO report says that big tech
+[00:06:39.360] capeex will consume 94% of operating
+[00:06:42.800] cash flows. I repeat 94% of operating
+[00:06:46.639] cash flows over the next 2 years. You
+[00:06:49.680] know what that means? If big tech earns
+[00:06:52.000] $100, they will spend $94 back into
+[00:06:55.840] building AI infrastructure. Only $6 will
+[00:06:58.880] be left for dividends, buybacks, salary
+[00:07:01.440] hikes, innovation, and everything else.
+[00:07:04.160] In 2023, that same ratio was just 40%.
+[00:07:07.520] And now it stands at 94%. So do you
+[00:07:10.800] realize big tech is betting 94% of all
+[00:07:14.160] its money into just one assumption. And
+[00:07:16.880] the assumption says that in just 5
+[00:07:18.960] years, the world will need so much AI
+[00:07:21.280] compute that every dollar being spent
+[00:07:23.280] right now will practically look like a
+[00:07:25.680] bargain. Sounds unstoppable, right?
+[00:07:27.759] After all, we are producing so much
+[00:07:29.360] data. Well, here's where it gets
+[00:07:31.759] dangerous. Now, let's forget economics
+[00:07:33.520] for a second and just imagine that you
+[00:07:34.960] are a business owner. Let's say you
+[00:07:36.639] spend $10 million building a coffee
+[00:07:38.400] machine factory. Now, imagine that after
+[00:07:40.639] all that, your factory only sells
+[00:07:42.639] $400,000 worth of coffee machines in a
+[00:07:45.039] year. So, you just make $400,000 from a
+[00:07:48.800] factory that cost you $10 million. Is
+[00:07:51.280] that good, bad, or terrible? You tell
+[00:07:53.599] me. It's terrible, right? Why would you
+[00:07:56.160] build another factory if your current
+[00:07:57.840] factory doesn't make any money? Now take
+[00:08:00.479] that exact same example and apply it to
+[00:08:02.720] AI. Now let me show you the math. JP
+[00:08:05.120] Morgan sat down and did this calculation
+[00:08:07.039] and the logic is pretty simple. If
+[00:08:09.039] you're an investor and you put money
+[00:08:10.800] into something, you would at least
+[00:08:12.400] expect a 10% return. That's bare minimum
+[00:08:14.639] any serious investor demands on a risky
+[00:08:16.240] bet like this. So JP Morgan said for AI
+[00:08:18.639] giants to justify all the money that
+[00:08:20.479] they're spending, how much money does AI
+[00:08:22.879] actually need to bring in every year?
+[00:08:24.960] The answer was $650 billion every single
+[00:08:28.639] year. Okay, now remember this figure,
+[00:08:31.120] $650 billion. Now, do you know how much
+[00:08:34.560] AI is actually earning right now? Let's
+[00:08:36.560] add it up. OpenAI, the makers of Chad
+[00:08:38.880] GBT, make $25 billion a year, and
+[00:08:40.959] they're losing $14 billion a year.
+[00:08:43.279] Anthropic is set to make $47 billion at
+[00:08:45.760] best if their current run rate goes on
+[00:08:47.920] for one year. As of now, the target for
+[00:08:50.320] Anthropic is about $26 billion by the
+[00:08:52.560] end of this year. And let's say Gemini
+[00:08:54.640] also makes $25 billion. So every major
+[00:08:57.839] AI model company combined make around
+[00:09:00.640] $75 billion with OpenAI losing 14
+[00:09:03.760] billion and Anthropic losing 3 billion
+[00:09:06.000] in 2025 alone. Now put these three
+[00:09:08.160] numbers side by side. Money that AI
+[00:09:10.640] needs to earn to make sense $650
+[00:09:12.880] billion. Money AI is actually earning
+[00:09:16.160] $75 billion. Money that AI is losing is
+[00:09:19.040] minimum $17 billion. But the money that
+[00:09:21.839] the giants are spending on top of all of
+[00:09:23.839] this is $725 billion. That difference
+[00:09:28.720] between what they earn and what they
+[00:09:30.959] need to earn is about 9 to 10 times. Now
+[00:09:34.560] read that one more time slowly. For
+[00:09:36.800] every single dollar that the AI industry
+[00:09:38.880] is bringing in, the tech giants are
+[00:09:41.200] spending 9 to 10 times more than they
+[00:09:44.000] earn. This is why SEOA's David Khan
+[00:09:46.560] calls this the $600 billion question. a
+[00:09:49.360] $600 billion annual revenue deficit that
+[00:09:52.240] nobody knows who will fill. Now the
+[00:09:53.839] single biggest argument against this
+[00:09:55.200] crazy number is Ganesh enterprises will
+[00:09:57.440] pay money. Every single one of these
+[00:09:59.600] companies will become profitable and
+[00:10:01.360] investors will make money when the
+[00:10:03.440] enterprises will pay money because AI is
+[00:10:06.320] making all enterprises very very
+[00:10:07.920] efficient at dirt cheap cost. Okay.
+[00:10:11.120] Well, that is not the right argument
+[00:10:14.079] because even I thought the same and then
+[00:10:15.839] I found the service. McKenzie says 73%
+[00:10:18.720] of enterprise AI deployments are failing
+[00:10:20.880] to achieve projected return on
+[00:10:22.800] investment. BCG says only 5% of
+[00:10:25.200] companies are seeing substantial ROI
+[00:10:26.880] from AI. MIT says there is a 95% failure
+[00:10:29.760] rate in achieving measurable financial
+[00:10:31.440] returns. Only 29% of the executives can
+[00:10:33.519] even measure their AI return on
+[00:10:35.920] investment. And this is where the story
+[00:10:38.079] gets its first phase. Meet Flo. He runs
+[00:10:40.800] an AI startup in San Francisco called
+[00:10:42.560] Lindy. They have about 25 employees. In
+[00:10:45.360] June 2026, he did an interview with CNBC
+[00:10:47.680] that shook the AI industry. His team was
+[00:10:50.000] spending more on Anthropic Cloud API
+[00:10:52.399] than on their entire payroll. So, you
+[00:10:55.120] know what Flo did? Flo switched 100% of
+[00:10:57.600] his traffic to Deep Seek and his cost
+[00:10:59.279] dropped by 90%. And then Uber CTO
+[00:11:01.680] admitted publicly that Uber had blown
+[00:11:03.440] its entire annual AI budget in just 4
+[00:11:06.720] months. And that ladies and gentlemen is
+[00:11:09.279] the twist because everyone assumed that
+[00:11:11.760] enterprises would keep paying more and
+[00:11:13.760] more for AI tokens forever. That was the
+[00:11:16.720] whole model. That is why OpenAI is worth
+[00:11:18.880] $850 billion. That is why Anthropic is
+[00:11:21.360] worth $965 billion. But in June 2026,
+[00:11:24.399] Enterprise started doing something that
+[00:11:25.920] the market did not expect. They started
+[00:11:28.399] looking for cheaper alternatives. Which
+[00:11:30.560] is why Alex Karp, the CEO of Palanteer
+[00:11:33.200] went on CNBC and said this on 1st of
+[00:11:35.360] July. Every single enterprise I deal
+[00:11:38.000] with, they're like, I am paying for
+[00:11:39.920] tokens that create no value. These
+[00:11:42.000] people are stealing the weights and
+[00:11:43.600] alpha of my business and they're
+[00:11:45.279] creating a wealth tax. And the reason
+[00:11:46.959] for it is because [music] these models
+[00:11:49.200] have been completely over irresponsibly
+[00:11:51.440] oversold. And Palanteer, if you saw our
+[00:11:53.519] previous case study, is one of the
+[00:11:55.040] biggest software enterprise companies on
+[00:11:57.360] earth. They sell to the CIA, the US
+[00:11:59.680] government, Airbnb, JP Morgan, and god
+[00:12:02.880] knows how many large companies. and the
+[00:12:05.279] CEO of that company is telling you that
+[00:12:07.519] something has completely gone wrong.
+[00:12:09.920] Now, at this point, I know exactly what
+[00:12:11.440] you're thinking. You must be thinking,
+[00:12:12.800] "Yeah, Ganesh, this is a rich man's
+[00:12:14.320] problem. Nvidia losing 500 billion, Sam,
+[00:12:16.800] Dario, Sundar, they're all billionaires.
+[00:12:18.720] How am I getting affected by all of
+[00:12:20.399] this?" Well, let me take you to South
+[00:12:22.480] Korea and show you how.
+[00:12:26.079] This is a factory in South Korea that is
+[00:12:27.920] owned by Samsung. This factory makes a
+[00:12:30.079] very specific kind of memory chip called
+[00:12:32.399] DM. the same DAM that goes into your
+[00:12:34.800] laptop, your smartphone, your Xbox, and
+[00:12:37.200] even your washing machine. In 2024,
+[00:12:39.839] Samsung had a choice. It could sell its
+[00:12:41.839] DAM to consumer companies like Apple,
+[00:12:43.839] HP, or Dell. Or it could sell a special
+[00:12:47.760] extremely expensive version called high
+[00:12:50.240] bandwidth memory to AI data centers. And
+[00:12:53.279] guess which one pays more? The AI data
+[00:12:56.240] centers paid 10x more per module. So
+[00:13:00.160] Samsung, SKH Highix and Micron, the
+[00:13:02.480] three companies that control 90% of the
+[00:13:04.800] world's memory chip supply, did what
+[00:13:06.664] [music] any factory would do. They
+[00:13:08.480] shifted 93% of their production towards
+[00:13:11.279] AI memory because that is a rule of
+[00:13:13.279] capitalism, right? Capital always flows
+[00:13:15.839] to the highest bidder. Now watch what
+[00:13:17.680] happens at bigger scales. DM prices are
+[00:13:20.639] up by 171% year-over-year as of March
+[00:13:23.600] 2026. DDR5 memory are up 4x since
+[00:13:27.440] September 2025. A contract price for PC
+[00:13:29.920] memory is up by 105 to 110% in one
+[00:13:32.560] quarter. In fact, Dell CEO said that the
+[00:13:34.320] price of 1 GB of DAM went from 0.43 to
+[00:13:37.519] $2.39 in just 6 months. That is a 5 and
+[00:13:41.440] a half times increase in price. In fact,
+[00:13:43.600] that is why on 25th of June 2026, Apple
+[00:13:46.320] did something that it had never done
+[00:13:47.920] before. In the middle of a product year,
+[00:13:50.480] Apple simply raised their prices. This
+[00:13:52.800] is the reason why they said, "We have
+[00:13:54.560] never seen a competent price increase
+[00:13:56.000] this much this quickly. We've shielded
+[00:13:58.560] our customers from these increases so
+[00:14:00.160] far. But now we've reached a point where
+[00:14:02.560] we need to begin raising prices. Now
+[00:14:04.800] that is Apple telling you this guys. The
+[00:14:06.959] richest most vertically integrated tech
+[00:14:08.800] company in the world is telling you that
+[00:14:10.560] they cannot absorb this cost. That is
+[00:14:13.519] how you are paying the AI tax. But this
+[00:14:16.720] is where a scary question arises. If
+[00:14:19.279] enterprises are moving off claw to save
+[00:14:21.360] 90%. If Apple cannot absorb cost
+[00:14:24.320] anymore, if the ROI is broken, then why
+[00:14:27.440] are Amazon, Microsoft, Google, and Meta
+[00:14:29.440] still spending more? Well, the answer is
+[00:14:32.639] one of the most fascinating concepts in
+[00:14:34.399] economics, and it explains every single
+[00:14:36.560] bubble in human history. It's called the
+[00:14:38.880] capital cycle. [music] In this cycle,
+[00:14:40.720] there are four steps. Step number one,
+[00:14:42.480] high returns attract capital. Step
+[00:14:44.880] number two, capital keeps flowing until
+[00:14:47.040] over capacity is built. Step three,
+[00:14:49.680] return over capacity eventually results
+[00:14:51.839] into collapse. And step four, everyone
+[00:14:54.320] dies except a few survivors who
+[00:14:56.320] eventually make a fortune when demand
+[00:14:58.000] catches up. And every bubble in modern
+[00:15:00.480] history has followed this exact same
+[00:15:02.639] pattern. Let me show you how. In 1996,
+[00:15:05.600] the US passed the Telecommunications Act
+[00:15:07.519] because just like AI, the internet back
+[00:15:09.680] then was a life-changing technology
+[00:15:11.279] which was exploding in demand. The story
+[00:15:13.440] was so intoxicating because it was clear
+[00:15:15.839] to the world that internet was the
+[00:15:17.360] future. Data traffic was exploding and
+[00:15:19.519] everybody just knew that bandwidth
+[00:15:21.760] demand would grow forever. Some founders
+[00:15:24.399] even believed that internet traffic
+[00:15:26.240] would double every 3 months. So money
+[00:15:28.959] came pouring in to build the fiber optic
+[00:15:31.279] cables. And then came the flood. Several
+[00:15:33.279] companies raised to lay fiber optic
+[00:15:34.800] cables across the country. And in just 5
+[00:15:37.120] years after that act, telecom companies
+[00:15:39.199] poured more than $500 billion into
+[00:15:41.440] cables, switches and networks. And if
+[00:15:43.680] you look at the financials of these
+[00:15:44.959] companies, you will see why the AI
+[00:15:46.480] bubble is very similar. A company called
+[00:15:48.880] Global Crossing went from a small equity
+[00:15:50.800] check to a $47 billion valuation without
+[00:15:54.000] ever making a single year of profit.
+[00:15:56.079] Corvis, a fiber equipment startup,
+[00:15:57.759] pulled off a $1.1 billion IPO with
+[00:16:00.639] literally 0 in revenue and carried a $32
+[00:16:03.440] billion market cap. And just when
+[00:16:05.680] everyone thought they'll become
+[00:16:06.880] millionaires and billionaires, the
+[00:16:08.800] collapse happened. You know what
+[00:16:10.399] happened? Everyone thought that the
+[00:16:12.000] internet will explode by 1,000% year on
+[00:16:14.079] year, but the internet traffic only
+[00:16:16.240] exploded by 100% year on year, which was
+[00:16:18.959] great, but not great enough to justify
+[00:16:21.759] the cost of investment. You know how
+[00:16:23.519] much of this installed fiber was
+[00:16:24.959] actually utilized? Take a guess. 50%,
+[00:16:28.880] 20%, [music]
+[00:16:30.000] 10%, at least 5% must have been
+[00:16:32.560] utilized, right? Well, guess what? By
+[00:16:34.480] early 2000s, as little as just 2.7% of
+[00:16:38.560] the installed fiber was actually
+[00:16:40.240] carrying data. Over 95% sat unused
+[00:16:43.199] underground. That is how trillions of
+[00:16:45.120] dollars of cable got buried without
+[00:16:46.880] earning anything. So when there was no
+[00:16:48.800] revenue, bandwidth prices collapsed by
+[00:16:50.399] up to 90% and the giant started failing.
+[00:16:53.040] WorldCom, after hiding $3.8 billion of
+[00:16:55.440] expenses to fake profits, filed the
+[00:16:57.199] biggest bankruptcy in US history. Global
+[00:16:59.360] Crossing, that $47 billion darling went
+[00:17:01.600] bankrupt. And in total, the telecom
+[00:17:03.759] crash wiped out $2 trillion of market
+[00:17:05.679] value with stocks going down by 95%. And
+[00:17:08.880] then [music] came step four, the
+[00:17:10.319] survivors. Now, here's where the twist
+[00:17:13.120] comes in which makes it the perfect
+[00:17:14.799] mirror for AI. Those fiber optic cables
+[00:17:17.520] did not vanish. They stayed in the
+[00:17:19.120] ground and within a few years, demand
+[00:17:21.439] finally arrived. YouTube happened,
+[00:17:23.919] streaming started, cloud storage became
+[00:17:25.919] a real thing, and [music] smartphone
+[00:17:27.360] became popular. And suddenly the world
+[00:17:29.760] needed exactly what had been overbuilt.
+[00:17:32.320] So the survivors bought the wreckage for
+[00:17:34.160] dirt cheap prices and that wasted cable
+[00:17:36.720] became the physical backbone of the
+[00:17:38.480] modern internet. The same infrastructure
+[00:17:40.400] that made Google, Netflix [music] and
+[00:17:42.400] AWS possible. So do you realize that
+[00:17:45.039] technology was real? The internet did
+[00:17:47.280] change everything but the bubble still
+[00:17:49.039] burst. Why? Because the demand was
+[00:17:51.200] exploding but not so much to justify
+[00:17:53.919] over capacity. So the technology
+[00:17:55.760] survived but the companies that built
+[00:17:57.440] did not. Now, here's what the pattern
+[00:17:58.880] looks like. Britain in 1846 authorized
+[00:18:01.360] 9,500 miles of track and one/ird of it
+[00:18:03.520] never got built. And then the bubble
+[00:18:05.120] burst. America in 2000 laid millions of
+[00:18:07.600] miles of fiber and 97% of it was unused
+[00:18:10.559] and eventually the bubble burst. In
+[00:18:12.799] 2026, America alone is building 725
+[00:18:16.160] billion of data centers per year and we
+[00:18:19.280] don't know how much of it will actually
+[00:18:21.039] be used. So the question is, will it all
+[00:18:22.960] be worth it and become the greatest tech
+[00:18:24.720] story ever told? Or will it go down as
+[00:18:27.280] the greatest bubble in world history?
+[00:18:29.280] Only time can give us the answer. So is
+[00:18:32.240] this definitely a bubble? Well, we don't
+[00:18:34.000] know that yet. Why? Because the
+[00:18:35.760] companies in the telecom bubble were
+[00:18:37.039] funded by debt and they were losing
+[00:18:38.640] money. But Nvidia earned $120 billion in
+[00:18:41.200] net income last year. And Microsoft,
+[00:18:43.280] Google, and Amazon are literally the
+[00:18:44.640] most profitable enterprises in human
+[00:18:46.160] history. So they won't collapse like
+[00:18:47.919] other weak companies. Similarly, at the
+[00:18:49.840] 2000.com peak, the NASDAQ 100 forward PE
+[00:18:53.200] was about 60x. Today, it's around 26x.
+[00:18:56.640] It's higher than normal, but nowhere
+[00:18:58.320] near the insanity of 1999. So, if anyone
+[00:19:01.200] tells you for certain that this is a
+[00:19:02.960] bubble, they're lying to you. And anyone
+[00:19:04.799] tells you that it is definitely not a
+[00:19:06.320] bubble is also lying to you because the
+[00:19:08.240] truth is uncomfortable and it's
+[00:19:09.600] somewhere in between. There is a very
+[00:19:11.200] high possibility of a bubble, but not a
+[00:19:13.360] certainty. The technology is real, the
+[00:19:15.520] revenue is real, and we're not betting
+[00:19:17.039] on whether AI changes the world or not.
+[00:19:18.640] We are betting on whether the price for
+[00:19:20.960] it actually makes sense or not. So now
+[00:19:23.440] the question is what exactly is going to
+[00:19:24.960] happen if the bubble burst? And what if
+[00:19:26.880] it doesn't? Well, there are two
+[00:19:29.120] possibilities. Path one, the bubble
+[00:19:31.200] pops, jobs are lost, the NASDAQ crashes,
+[00:19:34.160] and every big tech company slams the
+[00:19:36.400] brakes on spending, and that spending is
+[00:19:38.480] what feeds our Indian IT and service
+[00:19:40.400] sector. So your cousin's first coding
+[00:19:42.559] job disappears before the boom can catch
+[00:19:44.320] him. Path two is that the bubble doesn't
+[00:19:46.240] pop. Instead, to justify those trillion
+[00:19:48.080] dollar valuations, the company will try
+[00:19:49.840] to race towards profit. So the price of
+[00:19:51.600] AI, as in the token cost will shoot up
+[00:19:53.520] and suddenly only the giants will be
+[00:19:55.280] able to afford AI. So the cheap AI tools
+[00:19:57.760] that you use today will eventually
+[00:19:59.200] become a luxury. So a lot of AI products
+[00:20:01.280] might die not because the tech failed,
+[00:20:03.200] but because it just got too expensive to
+[00:20:04.960] run. Or lastly, we could expect a
+[00:20:07.520] miracle that will drop down the token
+[00:20:09.120] cost, will make enterprises pay, and
+[00:20:11.440] everyone will make money. But that, my
+[00:20:14.160] dear friends, is a teeny tiny
+[00:20:16.480] possibility. This, my dear friends, is
+[00:20:18.320] the story of the AI bubble. Now, you
+[00:20:19.919] tell me in the comments what do you
+[00:20:20.880] think about the situation with the
+[00:20:22.000] trillion dollar valuation that we
+[00:20:23.360] seeing. Is this really a bubble or is
+[00:20:25.600] this the greatest bet humanity has ever
+[00:20:27.840] taken? That's all from my side for
+[00:20:29.679] today, guys. If you learned something
+[00:20:30.880] valuable from this case study, please
+[00:20:32.400] hit the like button to support our work.
+[00:20:34.159] And for more such business and political
+[00:20:35.679] case studies, please subscribe to our
+[00:20:37.200] channel. Thank you so much for watching.
+[00:20:38.559] I will see you in the next one. Bye-bye.
