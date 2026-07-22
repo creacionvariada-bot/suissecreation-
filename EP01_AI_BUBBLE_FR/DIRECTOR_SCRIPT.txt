@@ -2,25 +2,19 @@ OMNI FLASH — Text-to-video 10s — 9:16
 SCENE 0 — SCROLL STOPPER — 10 SECONDS
 [LOCATION] Bureau en noyer, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur crêpe marine, chemisier ivoire, ceinture cuir doré, montre Cartier.
-[ACTION] ULTRA-FAST COLLAGE — 5 FLASH CUTS IN 10 SECONDS:
-0.0-2.0s: EXTREME STEADICAM PUSH-IN on @Narrateur's face, lips already moving, gaze rising toward the lens.
-2.0-4.0s: FLASH CUT — iconic physical detail — hands / object / money — brutal close-up — short orbital arc around the detail
-4.0-6.0s: FLASH CUT — most dramatic moment of the series — aggressive dutch angle — maximum contrast
-6.0-8.0s: FLASH CUT — @Narrateur facing camera in front of the monumental set — human scale vs. monumental scale — low angle power shot
-8.0-10.0s: total ORBITAL PULL BACK — reveals the full extent — final frame total black
-Hard brutal cut between each flash — zero fade — pure cinema
+[ACTION] 2-second extreme push-in on @Narrateur face (lips moving only, facing camera) — then immediately hard cut to @Narrateur walking briskly across the room. No other face-to-camera permitted.
 [CAMERA] steadicam push-in / short orbital arc / dutch angle / low angle / total orbital pull back
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Quatre-vingt-quatorze dollars sur cent, gagnés par tous les géants de la technologie mondiale, repartirent immédiatement dans de vastes entrepôts de calcul artificiel, laissant six dollars pour tout le reste." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 1 — Salon privé
 [LOCATION] Salon privé, décoration opulente riche en acajou. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe fourreau soie bordeaux, veste structurée noire, collier or blanc.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table en chêne the full ten seconds.
+[ACTION] @Narrateur walks toward the window, turns gracefully and leans against une table en chêne. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un verre en cristal — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une lampe en laiton — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -30,12 +24,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "L'ordinateur portable bondit de dix-huit pour cent, la tablette haut de gamme de vingt pour cent, et le boîtier télévisé de cinquante-quatre pour cent en une seule nuit." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 2 — Suite présidentielle
 [LOCATION] Suite présidentielle, décoration opulente riche en cuir. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume-pantalon laine gris anthracite, blouse soie crème, perles.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un pupitre ancien the full ten seconds.
+[ACTION] @Narrateur opens the cabinet, removes documents and walks over to un pupitre ancien. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une montre à gousset — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un livre de comptes — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -45,12 +39,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "La raison officielle était une guerre invisible menée à des milliers de kilomètres, autour de minuscules puces mémoire, aspirées en masse par les gigantesques entrepôts de calcul artificiel." (28 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 3 — Galerie d'art
 [LOCATION] Galerie d'art, décoration opulente riche en velours. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer velours vert bouteille, pantalon soie noire, broche dorée.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de billard the full ten seconds.
+[ACTION] @Narrateur steps forward confidently and firmly sets a crystal glass on une table de billard. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une loupe en laiton — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un plan d'architecture — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -60,12 +54,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les investisseurs continuèrent d'acheter aveuglément ces actions technologiques surévaluées, ignorant que les fondateurs et dirigeants vendirent discrètement leurs propres participations massives depuis plusieurs semaines consécutives sans le moindre répit." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 4 — Jardin d'hiver
 [LOCATION] Jardin d'hiver, décoration opulente riche en laiton. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur cachemire taupe, foulard Hermès bordeaux, bague or.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de directeur the full ten seconds.
+[ACTION] @Narrateur paces slowly across the floor and stops to examine un bureau de directeur. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un globe terrestre — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un croquis au fusain — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -75,12 +69,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "L'infrastructure énergétique nécessaire pour alimenter ces gigantesques fermes de serveurs engloutit la production de plusieurs centrales, provoquant des tensions inédites sur les réseaux électriques des grandes métropoles mondiales." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 5 — Cabinet de curiosités
 [LOCATION] Cabinet de curiosités, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, brutal crimson shadows. Piercing siren red highlights. High-contrast aggressive grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe jersey noir mat, veste tweed prune, escarpins cuir marron.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bar en acajou the full ten seconds.
+[ACTION] @Narrateur sits down elegantly in a velvet armchair beside un bar en acajou. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un jeu de cartes — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une partition de musique — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -90,12 +84,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Une étude indépendante révéla que la majorité des tâches déléguées aux algorithmes avancés n'apportait aucune valeur mesurable, se contentant de reproduire des schémas d'optimisation déjà parfaitement maîtrisés auparavant." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 6 — Fumoir clandestin
 [LOCATION] Fumoir clandestin, décoration opulente riche en cristal. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur-pantalon laine caramel, chemisier blanc cassé, manchettes argent.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un lutrin sculpté the full ten seconds.
+[ACTION] @Narrateur stands up in motion, adjusting her jacket while walking past un lutrin sculpté. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une pièce de monnaie — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un tableau de maître — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -105,12 +99,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les promesses de révolutionner la productivité mondiale se heurtèrent violemment à la réalité technique, chaque avancée marginale exigeant désormais de multiplier par dix la puissance de calcul mathématique brute." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 7 — Salle de conférence en marbre
 [LOCATION] Salle de conférence en marbre, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume flanelle bleu nuit, pochette ivoire, montre dorée.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une étagère dorée the full ten seconds.
+[ACTION] @Narrateur gracefully turns around the antique globe and approaches une étagère dorée. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un sablier — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un vase en porcelaine — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -120,12 +114,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Sur cent dollars gagnés par les quatre plus grandes entreprises technologiques mondiales en deux mille vingt-six, quatre-vingt-quatorze repartirent immédiatement dans la construction de nouveaux entrepôts de calcul artificiel." (28 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 8 — Atelier d'horlogerie
 [LOCATION] Atelier d'horlogerie, décoration opulente riche en soie. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe crêpe chocolat, ceinture cognac, collier perles longues.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un guéridon en fer forgé the full ten seconds.
+[ACTION] @Narrateur slides a gold pen across the surface of un guéridon en fer forgé. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une clé ancienne — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une tapisserie murale — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -135,12 +129,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Il ne restait plus que six dollars sur cent pour les dividendes, les hausses de salaires, l'innovation et la totalité des autres besoins de ces puissants empires numériques." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 9 — Banque abandonnée
 [LOCATION] Banque abandonnée, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer soie champagne, pantalon gris perle, escarpins noirs.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un coffre antique the full ten seconds.
+[ACTION] @Narrateur enters the frame walking briskly and rests her hand on un coffre antique. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un sceau en cire — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un tapis persan — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -150,12 +144,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "En deux mille vingt-trois, ce même ratio n'était que de quarante pour cent, ce qui signifie qu'il avait plus que doublé en l'espace de trois petites années." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 10 — Manoir gothique
 [LOCATION] Manoir gothique, décoration opulente riche en acajou. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur laine bordeaux strict, chemisier soie blanche, épingle or.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une cheminée monumentale the full ten seconds.
+[ACTION] @Narrateur closes an old ledger and strides decisively toward une cheminée monumentale. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un parchemin — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un chandelier en argent — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -165,12 +159,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les régulateurs internationaux observèrent prudemment cette concentration de capitaux, craignant qu'une correction brutale ne finisse par déstabiliser l'ensemble du système bancaire et financier mondial fortement interconnecté." (28 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 11 — Observatoire astronomique
 [LOCATION] Observatoire astronomique, décoration opulente riche en cuir. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe fourreau émeraude, veste cachemire noir, manchettes or.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un secrétaire à abattant the full ten seconds.
+[ACTION] @Narrateur picks up a brass magnifying glass and walks around un secrétaire à abattant. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un carnet en cuir — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un miroir ancien — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -180,12 +174,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Dans la Silicon Valley, les ingénieurs exigèrent des rémunérations démentielles pour concevoir des systèmes dont la date d'obsolescence programmée ne dépassa plus désormais que quelques petits mois à peine." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 12 — Laboratoire clandestin
 [LOCATION] Laboratoire clandestin, décoration opulente riche en velours. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume gabardine anthracite, blouse soie pêche, montre Rolex.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de campagne the full ten seconds.
+[ACTION] @Narrateur steps down from a small platform and leans over un bureau de campagne. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un échiquier — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une pendule de cheminée — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -195,12 +189,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "La fabrication de composants spécialisés nécessita d'immenses quantités de métaux rares, déclenchant une véritable guerre économique souterraine entre les puissances industrielles cherchant à sécuriser leurs propres chaînes d'approvisionnement." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 13 — Bourse de valeurs
 [LOCATION] Bourse de valeurs, décoration opulente riche en laiton. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur tweed ocre, chemisier soie ivoire, ceinture cuir brun.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table d'architecte the full ten seconds.
+[ACTION] @Narrateur walks thoughtfully along the bookshelves, then turns toward une table d'architecte. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une statuette de bronze — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un baromètre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -210,12 +204,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les compagnies d'assurance commencèrent silencieusement à refuser de couvrir ces infrastructures informatiques démesurées, estimant que la probabilité d'un effondrement matériel simultané devint statistiquement beaucoup trop élevée cette année." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 14 — Hôtel de luxe
 [LOCATION] Hôtel de luxe, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer laine marine, pantalon crêpe crème, bijoux or rose.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un établi en bois massif the full ten seconds.
+[ACTION] @Narrateur crosses the room and places a heavy leather binder on un établi en bois massif. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un télescope — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un thermomètre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -225,12 +219,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "L'illusion d'une croissance perpétuelle masqua mal le fait que la demande pour ces services plafonnait, les entreprises refusant de payer des licences exorbitantes pour des gains opérationnels marginaux." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 15 — Villa sur la falaise
 [LOCATION] Villa sur la falaise, décoration opulente riche en cristal. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe soie lie de vin, veste laine grise, boucles diamant.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de réunion the full ten seconds.
+[ACTION] @Narrateur walks toward the window, turns gracefully and leans against une table de réunion. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un microscope — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un hygromètre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -240,12 +234,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Derrière les discours visionnaires se cachait une réalité mathématique implacable : le coût de chaque nouvelle requête automatisée restait désespérément supérieur au revenu publicitaire qu'elle pouvait réellement générer." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 16 — Yacht privé
 [LOCATION] Yacht privé, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur velours prune profond, blouse soie blanche, montre acier.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une desserte the full ten seconds.
+[ACTION] @Narrateur opens the cabinet, removes documents and walks over to une desserte. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un appareil photo rétro — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un calendrier perpétuel — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -255,12 +249,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les marchés boursiers mondiaux oscillèrent dangereusement, chaque annonce de ralentissement technologique provoquant immédiatement des vagues de ventes que seuls les algorithmes de trading à haute fréquence tentèrent encore d'amortir." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 17 — Penthouse panoramique
 [LOCATION] Penthouse panoramique, décoration opulente riche en soie. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe jersey anthracite, veste cuir brun, collier or jaune.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble de classement the full ten seconds.
+[ACTION] @Narrateur steps forward confidently and firmly sets a crystal glass on un meuble de classement. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un gramophone — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un pèse-lettre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -270,12 +264,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Pour justifier chaque dollar investi dans l'intelligence artificielle, une grande banque new-yorkaise calcula que l'ensemble du secteur devait générer six cent cinquante milliards de revenus par an." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 18 — Musée d'antiquités
 [LOCATION] Musée d'antiquités, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume soie champagne, chemisier bordeaux, ceinture cuir doré.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'officier the full ten seconds.
+[ACTION] @Narrateur paces slowly across the floor and stops to examine un bureau d'officier. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un téléphone à cadran — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une balance de précision — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -285,12 +279,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Le manque à gagner atteignit cinq cent soixante-quinze milliards de dollars, un gouffre que personne, dans les salles de marché de San Francisco à New York, n'arrivait à combler." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 19 — Opéra désert
 [LOCATION] Opéra désert, décoration opulente riche en acajou. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur crêpe noir parfait, chemisier soie crème, verni noir.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de salle à manger the full ten seconds.
+[ACTION] @Narrateur sits down elegantly in a velvet armchair beside une table de salle à manger. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un coffret en bois — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une mallette en cuir — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -300,12 +294,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Face à cette destruction massive de valeur sur les marchés mondiaux, avez-vous déjà audité la véritable exposition de votre propre patrimoine financier face à cette nouvelle bulle technologique imminente ?" (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 20 — Salle des coffres
 [LOCATION] Salle des coffres, décoration opulente riche en cuir. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer cachemire bleu pétrole, pantalon flanelle grise, solitaire.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de jeu the full ten seconds.
+[ACTION] @Narrateur stands up in motion, adjusting her jacket while walking past une table de jeu. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une machine à écrire — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un coffre-fort — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -315,12 +309,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Pour chaque dollar que l'industrie de l'intelligence artificielle générait, les quatre grands empires technologiques en dépensaient entre neuf et dix, sans aucune garantie de retour sur investissement." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 21 — Théâtre classique
 [LOCATION] Théâtre classique, décoration opulente riche en velours. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe soie taupe, veste courte cuir noir, boucles or jaune.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de poste the full ten seconds.
+[ACTION] @Narrateur gracefully turns around the antique globe and approaches un bureau de poste. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un éventail — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un sac de voyage — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -330,12 +324,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Une poignée de fonds spéculatifs spécialisés commença à parier sur l'éclatement imminent de cette bulle, accumulant des positions courtes pour profiter du plongeon inévitable des valorisations technologiques historiquement aberrantes." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 22 — Palais de justice
 [LOCATION] Palais de justice, décoration opulente riche en laiton. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur laine terracotta, chemisier soie ivoire, montre or.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de préparation the full ten seconds.
+[ACTION] @Narrateur slides a gold pen across the surface of une table de préparation. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une pipe en bruyère — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une malle ancienne — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -345,12 +339,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les petites entreprises innovantes se retrouvaient complètement asphyxiées, incapables de rivaliser avec les budgets colossaux que les monopoles numériques consacraient quotidiennement à la simple acquisition de leurs cartes graphiques." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 23 — Ambassade majestueuse
 [LOCATION] Ambassade majestueuse, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume velours nuit, blouse soie saumon, manchettes dorées.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de professeur the full ten seconds.
+[ACTION] @Narrateur enters the frame walking briskly and rests her hand on un bureau de professeur. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un briquet en argent — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un écrin à bijoux — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -360,12 +354,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Le marché de l'emploi technologique montra de premiers signes de fatigue inquiétants, avec des gels de recrutement massifs annoncés par les mêmes entreprises qui promettaient hier une révolution imminente." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 24 — Bureau de poste ancien
 [LOCATION] Bureau de poste ancien, décoration opulente riche en cristal. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer tweed bordeaux et beige, pantalon noir, pochette blanche.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de réception the full ten seconds.
+[ACTION] @Narrateur closes an old ledger and strides decisively toward un comptoir de réception. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un porte-cigarette — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un métronome — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -375,12 +369,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "L'empreinte carbone désastreuse de ces centres de données titanesques suscita la colère d'une nouvelle génération de militants, prêts à bloquer physiquement les chantiers de ces énormes monstres énergétiques." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 25 — Gare désaffectée
 [LOCATION] Gare désaffectée, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe crêpe gris ardoise, veste marine, collier perles.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'avocat the full ten seconds.
+[ACTION] @Narrateur picks up a brass magnifying glass and walks around un bureau d'avocat. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un monocle — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un diapason — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -390,12 +384,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les banques centrales, déjà aux prises avec une inflation persistante, observèrent comment cette allocation irrationnelle de capital priva l'économie traditionnelle des investissements productifs nécessaires à une véritable croissance durable." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 26 — Restaurant étoilé
 [LOCATION] Restaurant étoilé, décoration opulente riche en soie. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur cachemire chocolat, chemisier soie crème, ceinture croco.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table d'appoint the full ten seconds.
+[ACTION] @Narrateur steps down from a small platform and leans over une table d'appoint. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un couteau à papier — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un phonographe — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -403,14 +397,14 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "Le PDG d'un groupe américain travaillant pour les services secrets et les plus grandes banques du monde déclara : ces modèles ont été vendus de façon totalement irresponsable." (29 ✅)
+Narrator: "Les négociateurs des plus grandes institutions financières mondiales rencontrèrent les représentants des fonds souverains les plus puissants de la planète pour sceller des accords inédits sur la propriété des données." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 27 — Boutique de tailleur
 [LOCATION] Boutique de tailleur, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume trois pièces laine verte anglaise, chemisier blanc, broche or.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau victorien the full ten seconds.
+[ACTION] @Narrateur walks thoughtfully along the bookshelves, then turns toward un bureau victorien. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un presse-papier — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un rouleau de cire — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -420,12 +414,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Un grand cabinet de conseil mondial chiffra pourtant la réalité : soixante-treize pour cent des déploiements d'intelligence artificielle en entreprise échouaient à atteindre leur retour sur investissement projeté." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 28 — Salle de bal
 [LOCATION] Salle de bal, décoration opulente riche en acajou. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer soie ivoire, pantalon gabardine taupe, escarpins bordeaux.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une coiffeuse the full ten seconds.
+[ACTION] @Narrateur crosses the room and places a heavy leather binder on une coiffeuse. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un tampon encreur — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un disque vinyle — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -435,12 +429,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Une startup de vingt-cinq employés à San Francisco avait basculé vers une alternative chinoise à bas coût, et sa facture mensuelle avait aussitôt chuté de quatre-vingt-dix pour cent." (28 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 29 — Chapelle abandonnée
 [LOCATION] Chapelle abandonnée, décoration opulente riche en cuir. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe jersey bleu nuit, veste laine grise, montre or blanc.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une console d'entrée the full ten seconds.
+[ACTION] @Narrateur walks toward the window, turns gracefully and leans against une console d'entrée. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un encrier — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une bande magnétique — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -450,12 +444,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Chaque panne technique dans ces énormes infrastructures centralisées provoquait désormais des ondes de choc catastrophiques, paralysant instantanément des pans entiers de l'économie numérique sur plusieurs continents de manière simultanée." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 30 — Bunker luxueux
 [LOCATION] Bunker luxueux, décoration opulente riche en velours. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur crêpe anthracite, chemisier soie rouge carmin, manchettes argent.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de bibliothécaire the full ten seconds.
+[ACTION] @Narrateur opens the cabinet, removes documents and walks over to un bureau de bibliothécaire. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un plumier — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un projecteur de film — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -465,12 +459,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les campagnes de relations publiques orchestrées par les lobbys technologiques peinaient de plus en plus à masquer le mécontentement des développeurs indépendants, piégés dans cet écosystème fermé et monopolistique." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 31 — Atelier d'architecte
 [LOCATION] Atelier d'architecte, décoration opulente riche en laiton. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume flanelle caramel, blouse soie champagne, boucles perles.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble vitrine the full ten seconds.
+[ACTION] @Narrateur steps forward confidently and firmly sets a crystal glass on un meuble vitrine. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un collier de perles — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un appareil photo à soufflet — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -480,12 +474,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Le mirage de l'automatisation totale commença à se dissiper, révélant que derrière chaque interface soi-disant intelligente se cachaient en réalité de nombreux travailleurs précaires exploitant des données brutes manuellement." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 32 — Galerie des glaces
 [LOCATION] Galerie des glaces, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer velours émeraude, pantalon noir, ceinture lézard doré.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de joaillier the full ten seconds.
+[ACTION] @Narrateur paces slowly across the floor and stops to examine un comptoir de joaillier. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une broche — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une plaque photographique — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -495,12 +489,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les auditeurs financiers tiraient l'alarme, refusant de valider les méthodes de comptabilité créative utilisées pour transformer d'énormes dépenses d'exploitation en investissements amortissables sur des durées irréalistes." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 33 — Salon de thé
 [LOCATION] Salon de thé, décoration opulente riche en cristal. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe soie bordeaux profond, veste laine noire, épingle or.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de géomètre the full ten seconds.
+[ACTION] @Narrateur sits down elegantly in a velvet armchair beside une table de géomètre. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un miroir à main — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un agrandisseur — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -510,12 +504,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "L'obsession pour la création de modèles virtuels de plus en plus lourds détournait les chercheurs des vrais enjeux, monopolisant l'essentiel des financements académiques au profit d'intérêts corporatistes." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 34 — Club privé
 [LOCATION] Club privé, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur tweed gris et bleu, chemisier soie ivoire, montre Cartier.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau moderniste the full ten seconds.
+[ACTION] @Narrateur stands up in motion, adjusting her jacket while walking past un bureau moderniste. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un peigne en écaille — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un stéréoscope — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -525,12 +519,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les procès pour violation massive de droits d'auteur se multiplièrent, menaçant la viabilité juridique de ces immenses bases de données construites hâtivement en aspirant illégalement le travail d'autrui." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 35 — Salle de billard
 [LOCATION] Salle de billard, décoration opulente riche en soie. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume soie noire brillante, chemisier crêpe prune, collier or.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de monastère the full ten seconds.
+[ACTION] @Narrateur gracefully turns around the antique globe and approaches une table de monastère. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une flasque en argent — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une lanterne magique — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -540,12 +534,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "En l'an deux mille, des entreprises de télécommunications américaines avaient englouti cinq cents milliards de dollars dans des câbles à fibre optique enterrés sous les routes du pays." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 36 — Piscine intérieure
 [LOCATION] Piscine intérieure, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer cachemire taupe rosé, pantalon flanelle grise, escarpins noirs.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'antiquaire the full ten seconds.
+[ACTION] @Narrateur slides a gold pen across the surface of un bureau d'antiquaire. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un shaker à cocktail — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un kaléidoscope — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -555,12 +549,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Il s'avéra que moins de trois pour cent de cette immense infrastructure de câbles était réellement utilisée, pendant que tout le reste dormait inutilisé sous les terres américaines." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 37 — Loft panoramique
 [LOCATION] Loft panoramique, décoration opulente riche en acajou. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe fourreau soie marine, veste courte blanche, bijoux or blanc.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de ministre the full ten seconds.
+[ACTION] @Narrateur enters the frame walking briskly and rests her hand on un bureau de ministre. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un verre de cognac — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un praxinoscope — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -570,12 +564,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Pendant que les géants brûlent des centaines de milliards sans retour sur investissement, comment comptez-vous protéger vos économies face à la correction brutale qui s'annonce sur les marchés ?" (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 38 — Serre tropicale
 [LOCATION] Serre tropicale, décoration opulente riche en cuir. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur laine bordeaux brique, chemisier soie dorée, ceinture cuir.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table à cartes the full ten seconds.
+[ACTION] @Narrateur closes an old ledger and strides decisively toward une table à cartes. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un tire-bouchon — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un zootrope — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -585,12 +579,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les actions de ces géants des télécommunications s'effondrèrent de quatre-vingt-quinze pour cent, et plus de deux billions de dollars de valeur boursière disparurent en seulement quelques trimestres consécutifs." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 39 — Garage de collection
 [LOCATION] Garage de collection, décoration opulente riche en velours. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume velours bleu canard, blouse soie crème, manchettes or.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table ronde the full ten seconds.
+[ACTION] @Narrateur picks up a brass magnifying glass and walks around une table ronde. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une tasse de thé — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un thaumatrope — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -600,12 +594,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "La géopolitique mondiale se réorganisait autour de la fabrication de ces composants électroniques critiques, transformant de simples usines de semi-conducteurs asiatiques en véritables forteresses militaires stratégiques extrêmement bien surveillées." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 40 — Bibliothèque secrète
 [LOCATION] Bibliothèque secrète, décoration opulente riche en laiton. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer tweed chocolat et crème, pantalon noir, bague rubis.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble d'apothicaire the full ten seconds.
+[ACTION] @Narrateur steps down from a small platform and leans over un meuble d'apothicaire. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un éventail en soie — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un pendule de Foucault — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -615,12 +609,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les marchés secondaires du matériel informatique d'occasion s'effondraient, inondés par des vagues de serveurs obsolètes que personne ne voulait plus acheter malgré des prix cassés défiant toute concurrence." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 41 — Salle de musique
 [LOCATION] Salle de musique, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe jersey gris ardoise, veste cuir bordeaux, collier ambre.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de bar the full ten seconds.
+[ACTION] @Narrateur walks thoughtfully along the bookshelves, then turns toward un comptoir de bar. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un parapluie à pommeau — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une bobine Tesla — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -630,12 +624,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "L'euphorie spéculative atteignit des sommets absurdes, rappelant aux vétérans les heures les plus sombres des krachs boursiers historiques qui avaient pourtant ruiné d'innombrables familles d'investisseurs innocents." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 42 — Cinéma privé
 [LOCATION] Cinéma privé, décoration opulente riche en cristal. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur crêpe vert anglais, chemisier blanc, escarpins caramel.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de drapier the full ten seconds.
+[ACTION] @Narrateur crosses the room and places a heavy leather binder on une table de drapier. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une canne sculptée — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un tube à vide — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -645,12 +639,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Une dépendance technologique toxique s'installait durablement, obligeant de nombreuses administrations à signer des contrats de maintenance prohibitifs pour éviter la paralysie totale de leurs propres systèmes informatiques vitaux vieillissants." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 43 — Bureau de rédaction
 [LOCATION] Bureau de rédaction, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume flanelle anthracite, blouse soie champagne, montre or.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'ébéniste the full ten seconds.
+[ACTION] @Narrateur walks toward the window, turns gracefully and leans against un bureau d'ébéniste. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un chapeau haut-de-forme — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une machine de Wimshurst — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -660,12 +654,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Le grand public commença finalement à se désintéresser de ces innovations cosmétiques, réalisant que cette prétendue révolution ne résolvait en rien les véritables problématiques économiques et sociales de leur quotidien." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 44 — Salle d'exposition
 [LOCATION] Salle d'exposition, décoration opulente riche en soie. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer soie lie de vin, pantalon gabardine noir, épingle dorée.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de ferme the full ten seconds.
+[ACTION] @Narrateur opens the cabinet, removes documents and walks over to une table de ferme. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement des gants en cuir — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un électroscope — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -675,12 +669,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "La liquidité sur les marchés se tarissait à mesure que les investisseurs bloquaient leurs fonds dans des projets technologiques dont l'horizon de rentabilité s'éloignait inexorablement chaque nouvelle année." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 45 — Atelier de sculpture
 [LOCATION] Atelier de sculpture, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe soie prune, veste structurée laine grise, perles longues.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble d'horloger the full ten seconds.
+[ACTION] @Narrateur steps forward confidently and firmly sets a crystal glass on un meuble d'horloger. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un masque de velours — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un galvanomètre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -690,12 +684,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Dans une usine de la péninsule coréenne, un conglomérat industriel prit une décision silencieuse qui allait renchérir le prix de votre ordinateur, de votre téléphone et de votre console." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 46 — Salle de réception
 [LOCATION] Salle de réception, décoration opulente riche en acajou. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur laine bleu nuit, chemisier soie corail, ceinture dorée.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de banque the full ten seconds.
+[ACTION] @Narrateur paces slowly across the floor and stops to examine un comptoir de banque. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un éventail en plumes — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un voltmètre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -705,12 +699,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Ces trois fabricants contrôlaient quatre-vingt-dix pour cent de l'approvisionnement mondial en puces mémoire, et ils redirigèrent quatre-vingt-treize pour cent de leur production vers les entrepôts d'intelligence artificielle." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 47 — Jardin à la française
 [LOCATION] Jardin à la française, décoration opulente riche en cuir. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume velours bordeaux, blouse blanche, manchettes argent.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de tric-trac the full ten seconds.
+[ACTION] @Narrateur sits down elegantly in a velvet armchair beside une table de tric-trac. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une dague antique — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un ampèremètre — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -720,12 +714,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Le prix d'un gigaoctet de mémoire vive bondit de zéro virgule quarante-trois à deux virgule trente-neuf dollars en six mois, selon le directeur d'un grand fabricant d'ordinateurs." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 48 — Cour intérieure
 [LOCATION] Cour intérieure, décoration opulente riche en velours. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer cachemire ivoire, pantalon crêpe taupe, escarpins marine.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau de juge the full ten seconds.
+[ACTION] @Narrateur stands up in motion, adjusting her jacket while walking past un bureau de juge. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un pistolet de duel — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un rhéostat — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -735,12 +729,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les ingénieurs les plus brillants, fatigués par cette course à la puissance purement spéculative, démissionnaient en masse pour fonder de petites structures indépendantes axées sur des solutions techniques réellement utiles." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 49 — Terrasse panoramique
 [LOCATION] Terrasse panoramique, décoration opulente riche en laiton. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe soie anthracite, veste courte tweed, boucles or.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de chevet the full ten seconds.
+[ACTION] @Narrateur gracefully turns around the antique globe and approaches une table de chevet. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un coffret de médailles — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une boussole d'inclinaison — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -750,12 +744,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Les promesses grandiloquentes de résoudre les crises mondiales par de simples lignes de code apparaissaient comme de vulgaires stratagèmes marketing visant uniquement à justifier d'énormes levées de fonds astronomiques." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 50 — Pavillon de chasse
 [LOCATION] Pavillon de chasse, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur laine émeraude, chemisier soie ivoire, montre platine.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un meuble de sacristie the full ten seconds.
+[ACTION] @Narrateur slides a gold pen across the surface of un meuble de sacristie. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un jeu de tarot — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un sextant de marine — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -765,12 +759,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "La surproduction mondiale de puces électroniques spécialisées annonçait inévitablement un réajustement brutal des stocks, menaçant de faire plonger l'ensemble de la chaîne logistique technologique dans une profonde récession industrielle." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 51 — Chalet de montagne
 [LOCATION] Chalet de montagne, décoration opulente riche en cristal. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Costume flanelle grise, blouse soie bordeaux, collier or.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un comptoir de pharmacie the full ten seconds.
+[ACTION] @Narrateur enters the frame walking briskly and rests her hand on un comptoir de pharmacie. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une boule de cristal — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un chronomètre de marine — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -780,12 +774,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Certains dirigeants de la Silicon Valley préparaient leur sortie financière, transférant secrètement d'immenses capitaux vers des paradis fiscaux avant que la dure réalité économique ne rattrape leurs valorisations artificielles." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 52 — Villa romaine
 [LOCATION] Villa romaine, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Blazer tweed brun doré, pantalon noir, bague chevalière.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table de liseuse the full ten seconds.
+[ACTION] @Narrateur closes an old ledger and strides decisively toward une table de liseuse. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un astrolabe — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un octant — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -795,12 +789,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Le réveil des marchés financiers allait laisser derrière lui un cimetière d'entreprises technologiques surendettées, incapables de refinancer leurs opérations courantes face à des taux d'intérêt devenus soudainement prohibitifs." (30 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 53 — Palais oriental
 [LOCATION] Palais oriental, décoration opulente riche en soie. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe fourreau soie noir profond, veste cachemire grise, diamants.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over un bureau d'huissier the full ten seconds.
+[ACTION] @Narrateur picks up a brass magnifying glass and walks around un bureau d'huissier. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un sextant — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un compas de relèvement — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -810,12 +804,12 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "L'histoire économique retenait son souffle, consciente que l'éclatement prochain de cette illusion algorithmique redessinerait durablement les rapports de force industriels à l'échelle de notre planète entière." (29 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 54 — Maison de verre
 [LOCATION] Maison de verre, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur crêpe marine immaculé, chemisier soie blanc, perles diamant.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over une table d'orientation the full ten seconds.
+[ACTION] @Narrateur steps down from a small platform and leans over une table d'orientation. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement une lunette astronomique — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule une alidade — adjusting, pouring or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
@@ -825,4 +819,4 @@ All three actors in continuous physical motion the full ten seconds — camera i
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
 Narrator: "Alors que les professionnels de la finance liquident silencieusement leurs positions technologiques, quelle sera votre stratégie personnelle pour éviter de subir ce réajustement algorithmique prévisible et brutal ?" (28 ✅)
 Zero text. Zero music. Zero watermarks.
-NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos
+NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
