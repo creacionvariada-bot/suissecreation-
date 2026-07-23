@@ -72,7 +72,7 @@ Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
 SCENE 5 — Cabinet de curiosités
-[LOCATION] Cabinet de curiosités, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, brutal crimson shadows. Piercing siren red highlights. High-contrast aggressive grade.
+[LOCATION] Cabinet de curiosités, décoration opulente riche en or. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe jersey noir mat, veste tweed prune, escarpins cuir marron.
 [ACTION] @Narrateur sits down elegantly in a velvet armchair beside un bar en acajou. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un jeu de cartes — hands moving throughout the ten seconds.
@@ -142,7 +142,7 @@ All three actors in continuous physical motion the full ten seconds — camera i
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY]
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
-Narrator: "En deux mille vingt-trois, ce même ratio n'était que de quarante pour cent, ce qui signifie qu'il avait plus que doublé en l'espace de trois petites années." (30 ✅)
+Narrator: "En deux mille vingt-trois, ce même ratio n'était que de quarante pour cent, ce qui signifiait qu'il avait plus que doublé en l'espace de trois petites années." (30 ✅)
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no photo-like render, no on-screen text, no code, no programming code, no code snippets, no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
@@ -238,7 +238,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 16 — Yacht privé
 [LOCATION] Yacht privé, décoration opulente riche en bronze. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur velours prune profond, blouse soie blanche, montre acier.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Tailleur velours gris ardoise, blouse soie blanche, montre acier.
 [ACTION] @Narrateur opens the cabinet, removes documents and walks over to une desserte. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un appareil photo rétro — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un calendrier perpétuel — adjusting, pouring or manipulating throughout the ten seconds.
@@ -673,7 +673,7 @@ NEGATIVE: no static freeze-frame, no motionless actors, no locked camera, no pho
 
 SCENE 45 — Atelier de sculpture
 [LOCATION] Atelier de sculpture, décoration opulente riche en marbre. Éclairage doré et dramatique. Grande hauteur sous plafond, objets d'art de prestige — Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe soie prune, veste structurée laine grise, perles longues.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Robe soie bleu nuit, veste structurée laine grise, perles longues.
 [ACTION] @Narrateur steps forward confidently and firmly sets a crystal glass on un meuble d'horloger. Lips moving continuously for the full ten seconds. No looking at camera.
 Second actor in continuous physical motion — examine minutieusement un masque de velours — hands moving throughout the ten seconds.
 Third actor in continuous physical motion — manipule un galvanomètre — adjusting, pouring or manipulating throughout the ten seconds.
