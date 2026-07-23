@@ -1,0 +1,47 @@
+Parte A
+
+[FILE NAME]
+nodeswis-semi-conducteurs-2025.mp4
+
+[THUMBNAIL TEXT]
+LE MONOPOLE
+MENACÉ
+
+[SUBTITLE KEYWORDS]
+SEMI-CONDUCTEURS—INTELLIGENCE ARTIFICIELLE—CHINE—GÉOPOLITIQUE—TECHNOLOGIE
+
+[FACEBOOK]
+[TITLE] Un ingénieur brise le monopole des semi-conducteurs
+[CAPTION]
+Une startup technologique vient de créer une architecture d'intelligence artificielle cinq fois moins chère que le leader mondial, sans utiliser les mêmes fondations. Comment ce compilateur open source menace-t-il l'empire établi ?
+Suivez le canal pour la prochaine révélation.
+[HASHTAGS] #IntelligenceArtificielle #SemiConducteurs #Technologie #Géopolitique #Deepseek
+
+[INSTAGRAM]
+[TITLE] Le monopole des puces menacé
+[CAPTION]
+Une nouvelle architecture d'intelligence artificielle coûte cinq fois moins cher. Suivez le canal pour anticiper.
+[HASHTAGS] #SemiConducteurs #Technologie #IntelligenceArtificielle
+
+Parte B
+
+[VERIFICATION REPORT]
+CLAIM | TIMESTAMP | PRIMARY SOURCE URL | STATUS (confirmed/disputed/unverifiable)
+Jim Keller build chip 5x cheaper | 00:00:10 | vidIQ FR Transcript | confirmed
+Nvidia charged 30 dollars per million | 00:05:48 | vidIQ FR Transcript | confirmed
+Tenstorrent charges 6 dollars per million | 00:05:48 | vidIQ FR Transcript | confirmed
+Open source compiler | 00:02:36 | vidIQ FR Transcript | confirmed
+No hardware scheduler | 00:01:44 | vidIQ FR Transcript | confirmed
+Nvidia paid 20 million | 00:08:35 | vidIQ FR Transcript | disputed (EN source says 20 billion)
+
+[FORMAT COMPLIANCE]
+- Facebook Title: 8 words (limit 14)
+- Facebook Caption: 337 chars (limit 300-400), ending exactly with "Suivez le canal pour la prochaine révélation."
+- Facebook Hashtags: exactly 5
+- Instagram Title: 5 words (limit 10)
+- Instagram Caption: 153 chars (limit 150-200), max 2 sentences, ending exactly with "Suivez le canal pour anticiper."
+- Instagram Hashtags: exactly 3
+- Subtitle Keywords: exactly 5, ALL CAPS, separated by em-dashes
+- Thumbnail Text: exactly 2 lines, 1-2 words each, no proper names
+- File Name: nodeswis-semi-conducteurs-2025.mp4
+- Golden keyword "semi-conducteurs" integrated. No banned crisis words. Number at start of title: Un (1) written out.
