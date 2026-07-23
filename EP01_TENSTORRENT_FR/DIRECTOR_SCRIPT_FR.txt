@@ -11,10 +11,10 @@ SCENE 0: brutal scroll-stopper hook — ultra-fast summary of the full series �
 SCENE 0 — SCROLL STOPPER — 10 SECONDS
 OMNI FLASH — Text-to-video 10s — 9:16
 [LOCATION] Modern skyscraper boardroom with panoramic city views, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored midnight blue silk suit.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a tailored midnight blue silk suit.
 [ACTION] ULTRA-FAST COLLAGE — 5 FLASH CUTS IN 10 SECONDS:
 0.0-2.0s: EXTREME STEADICAM PUSH-IN on @Narrateur's face, lips already moving, gaze rising toward the lens.
-2.0-4.0s: FLASH CUT — iconic physical detail — hands / object / money — brutal close-up — short orbital arc around the detail
+2.0-4.0s: FLASH CUT — iconic physical detail — hands holding a raw silicon wafer — brutal close-up — short orbital arc around the detail
 4.0-6.0s: FLASH CUT — most dramatic moment of the series — aggressive dutch angle — maximum contrast
 6.0-8.0s: FLASH CUT — @Narrateur facing camera in front of the monumental set — human scale vs. monumental scale — low angle power shot
 8.0-10.0s: total ORBITAL PULL BACK — reveals the full extent — final frame total black
@@ -27,15 +27,15 @@ Narrator: "Un ingénieur fabriqua la puce d'intelligence artificielle cinq fois 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 1 — [UNDERGROUND LUXURY VAULT WITH POLISHED STEEL DOORS, 2025]
+SCENE 1 — [LUXURIOUS HIGH-FREQUENCY TRADING FLOOR]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Underground luxury vault with polished steel doors, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — adjusting a heavy gold chronometer — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — manipulating a vintage brass astrolabe — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Luxurious high-frequency trading floor with curved OLED screens, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a burgundy wool tailored suit.
+[ACTION] @Narrateur lips moving clearly, walking between sleek trading desks the full ten seconds.
+Second actor in continuous physical motion — analyzing real-time market graphs on a terminal — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — reviewing printed financial contracts — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
+[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] Deep black shadows. Precise, cold gold light. Soft ivory highlights.
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -43,15 +43,15 @@ Narrator: "Les mêmes performances, la même vitesse : trois cent cinquante rép
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 2 — [MINIMALIST ARCHITECTURAL STUDIO WITH CONCRETE WALLS, 2025]
+SCENE 2 — [ELITE FINANCIAL ANALYST CABINET]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Minimalist architectural studio with concrete walls, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — cleaning a pair of rimless glasses — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — running fingers over a textured marble statuette — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Elite financial analyst cabinet with brushed steel walls, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a black satin cropped jacket.
+[ACTION] @Narrateur lips moving clearly, pointing to a holographic market projection the full ten seconds.
+Second actor in continuous physical motion — sorting through dense investment portfolios — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — comparing silicon supply chain reports — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
+[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] Deep black shadows. Precise, cold gold light. Soft ivory highlights.
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -59,13 +59,13 @@ Narrator: "Le géant technologique américain factura trente dollars pour ce mê
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 3 — [HIGH-END PRIVATE JET INTERIOR WITH WHITE LEATHER SEATS, 2025]
+SCENE 3 — [MODERN HYPER-SCALE DATA CENTER CORRIDOR]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] High-end private jet interior with white leather seats, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — arranging rare silver coins on a velvet tray — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — polishing a sleek obsidian paperweight — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Modern hyper-scale data center corridor with cold blue LEDs, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a taupe tweed long coat.
+[ACTION] @Narrateur lips moving clearly, striding down the endless server aisle the full ten seconds.
+Second actor in continuous physical motion — monitoring server rack thermal outputs — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — inspecting a fiber-optic cable connection — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Dutch angle, aggressive. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -75,13 +75,13 @@ Narrator: "Ce tout nouveau processeur rejeta l'architecture traditionnelle, aban
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 4 — [EXCLUSIVE MEMBERS-ONLY CLUB WITH DARK MAHOGANY PANELS, 2025]
+SCENE 4 — [SILICON VALLEY EXECUTIVE BOARDROOM]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Exclusive members-only club with dark mahogany panels, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — sorting through thick architectural blueprints — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — adjusting the focus on an antique silver telescope — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Silicon Valley executive boardroom with a massive smart glass table, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a emerald green cashmere double-breasted jacket.
+[ACTION] @Narrateur lips moving clearly, leaning over the conference table signing documents the full ten seconds.
+Second actor in continuous physical motion — handling a sealed architectural blueprint — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — adjusting a multi-screen presentation — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Pull back, total reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -91,13 +91,13 @@ Narrator: "Tout reposa sur une décision radicale prise dès le premier jour : d
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 5 — [GLASS-ENCLOSED PENTHOUSE OVERLOOKING A VIBRANT METROPOLIS, 2025]
+SCENE 5 — [HIGH-TECH VENTURE CAPITAL CONFERENCE ROOM]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Glass-enclosed penthouse overlooking a vibrant metropolis, 2025 — Deep black shadows. Precise, cold gold light. Deep red collapse accent replacing the gold. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — examining a flawless diamond under a loupe — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — winding an intricate skeleton watch mechanism — adjusting or manipulating throughout the ten seconds.
+[LOCATION] High-tech venture capital conference room with panoramic displays, 2025 — Deep black shadows. Precise, cold gold light. Deep red collapse accent replacing the gold. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a charcoal velvet asymmetric vest.
+[ACTION] @Narrateur lips moving clearly, gesturing toward a glowing 3D processor schematic the full ten seconds.
+Second actor in continuous physical motion — examining a rare 8-inch silicon wafer — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — typing on a transparent glass keyboard — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Fast lateral tracking shot. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -107,13 +107,13 @@ Narrator: "Chaque fois qu'une intelligence générative répond, un serveur loin
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 6 — [OPULENT GENEVA BANKING OFFICE WITH MARBLE FLOORS, 2025]
+SCENE 6 — [ULTRA-SECURE SWISS BANKING VAULT RETROFITTED AS A PRIVATE SERVER ROOM, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Opulent Geneva banking office with marble floors, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — folding a silk pocket square with precision — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — tracing the edge of a Damascus steel blade — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Ultra-secure Swiss banking vault retrofitted as a private server room, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a ivory linen trench coat.
+[ACTION] @Narrateur lips moving clearly, unlocking a biometric data cabinet the full ten seconds.
+Second actor in continuous physical motion — inspecting a raw gold bullion next to a server — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — verifying encrypted ledger entries — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Low angle, power rise. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -123,13 +123,13 @@ Narrator: "La grande entreprise d'intelligence générative dépensa trois milli
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 7 — [SLEEK FUTURISTIC SERVER ROOM WITH BLUE LED LIGHTING, 2025]
+SCENE 7 — [HIGH-END MINIMALIST ARCHITECTURAL STUDIO OVERLOOKING A METROPOLIS, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Sleek futuristic server room with blue LED lighting, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — inspecting a sealed vial of rare perfume — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — turning the dials of a complex brass combination lock — adjusting or manipulating throughout the ten seconds.
+[LOCATION] High-end minimalist architectural studio overlooking a metropolis, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a ruby red crepe structured blazer.
+[ACTION] @Narrateur lips moving clearly, sketching on an interactive drafting table the full ten seconds.
+Second actor in continuous physical motion — examining a 3D-printed chip housing prototype — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — reviewing structural thermal plans — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Overhead, plunging. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -139,13 +139,13 @@ Narrator: "Ce fournisseur exclusif imposa ses propres tarifs sans aucune limite,
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 8 — [PRIVATE YACHT CABIN WITH POLISHED TEAK WOOD, 2025]
+SCENE 8 — [FUTURISTIC R&D LABORATORY]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Private yacht cabin with polished teak wood, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — brushing dust off a first edition leather book — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — aligning a set of perfectly weighted platinum pens — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Futuristic R&D laboratory with pristine white concrete surfaces, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a slate grey silk tailored suit.
+[ACTION] @Narrateur lips moving clearly, examining a glowing micro-processor prototype the full ten seconds.
+Second actor in continuous physical motion — adjusting an electron microscope lens — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — recording data on a glowing tablet — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -155,13 +155,13 @@ Narrator: "L'ingénieur visionnaire décida d'attaquer ce problème financier à
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 9 — [GILDED ROYAL ANTECHAMBER RESTORED FOR MODERN USE, 2025]
+SCENE 9 — [STYLIZED SEMICONDUCTOR FABRICATION CLEANROOM BATHED IN AMBER LIGHT, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Gilded royal antechamber restored for modern use, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — examining a delicate porcelain teacup — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — adjusting the leather strap of a vintage camera — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Stylized semiconductor fabrication cleanroom bathed in amber light, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a sapphire wool cropped jacket.
+[ACTION] @Narrateur lips moving clearly, observing automated robotic arms behind glass the full ten seconds.
+Second actor in continuous physical motion — holding a reflective 12-inch silicon wafer — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — checking atmospheric purity gauges — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Orbital arc around the subject. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -171,13 +171,13 @@ Narrator: "En analysant un processeur moderne, on constata qu'une immense partie
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 10 — [ULTRA-MODERN ART GALLERY WITH SPARSE CONCRETE AESTHETIC, 2025]
+SCENE 10 — [MARBLE-CLAD PATENT ATTORNEY OFFICE]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Ultra-modern art gallery with sparse concrete aesthetic, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — turning pages of an open leather dossier — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — handling a crystal decanter, pouring slowly — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Marble-clad patent attorney office with smart-glass walls, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a camel satin long coat.
+[ACTION] @Narrateur lips moving clearly, stamping an open legal dossier the full ten seconds.
+Second actor in continuous physical motion — reviewing dense intellectual property documents — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — examining a proprietary circuit diagram — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Handheld, intimate close. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -187,13 +187,13 @@ Narrator: "Chaque entreprise qui recruta cet ingénieur devint un géant technol
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 11 — [LUXURY UNDERGROUND GARAGE WITH POLISHED EPOXY FLOOR, 2025]
+SCENE 11 — [SILICON VALLEY PENTHOUSE OVERLOOKING THE TECH CAMPUS AT NIGHT, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Luxury underground garage with polished epoxy floor, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — adjusting a heavy gold chronometer — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — manipulating a vintage brass astrolabe — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Silicon Valley penthouse overlooking the tech campus at night, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a olive tweed double-breasted jacket.
+[ACTION] @Narrateur lips moving clearly, standing by the floor-to-ceiling window holding a tablet the full ten seconds.
+Second actor in continuous physical motion — analyzing global tech stock tickers — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — pouring a glass of water while reading news — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Oner, continuous tracking. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -203,13 +203,13 @@ Narrator: "Il conçut la puce qui sauva un empire technologique de la faillite, 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 12 — [EXECUTIVE SUITE IN TOKYO WITH ZEN GARDEN VIEW, 2025]
+SCENE 12 — [EXCLUSIVE HIGH-SPEED MAGNETIC TRAIN CARRIAGE]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Executive suite in Tokyo with Zen garden view, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — cleaning a pair of rimless glasses — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — running fingers over a textured marble statuette — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Exclusive high-speed magnetic train carriage with private tech suites, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a pearl white cashmere asymmetric vest.
+[ACTION] @Narrateur lips moving clearly, swiping through holographic data streams the full ten seconds.
+Second actor in continuous physical motion — studying a competitor's chip spec sheet — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — monitoring international market speeds — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Push-out, final reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -219,13 +219,13 @@ Narrator: "Il dirige aujourd'hui sa propre startup à code ouvert depuis exactem
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 13 — [HIGH-TECH RESEARCH LABORATORY WITH SPOTLESS WHITE SURFACES, 2025]
+SCENE 13 — [PRISTINE WHITE TECH INCUBATION ROOM]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] High-tech research laboratory with spotless white surfaces, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — arranging rare silver coins on a velvet tray — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — polishing a sleek obsidian paperweight — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Pristine white tech incubation room with floating magnetic displays, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a deep plum velvet trench coat.
+[ACTION] @Narrateur lips moving clearly, interacting with a floating code repository the full ten seconds.
+Second actor in continuous physical motion — adjusting a holographic cooling schematic — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — typing on a seamless metallic console — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Extreme macro, financial close-up. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -235,13 +235,13 @@ Narrator: "Il posa les fondations techniques des immenses processeurs mobiles po
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 14 — [OPULENT AUCTION HOUSE FLOOR WITH VELVET SEATING, 2025]
+SCENE 14 — [MODERN ASIAN VILLA]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Opulent auction house floor with velvet seating, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — sorting through thick architectural blueprints — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — adjusting the focus on an antique silver telescope — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Modern Asian villa with integrated smart-home tech and dark wood, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a midnight blue linen structured blazer.
+[ACTION] @Narrateur lips moving clearly, walking through the zen garden with a smart-pad the full ten seconds.
+Second actor in continuous physical motion — reviewing automated security protocols — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — checking environmental control systems — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Tilt up, monumental final. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -251,15 +251,15 @@ Narrator: "Puis il rejoignit le constructeur automobile d'Elon Musk pour dessine
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 15 — [PRIVATE MOUNTAIN CHALET WITH MASSIVE GLASS WINDOWS, 2025]
+SCENE 15 — [UNDERGROUND QUANTUM COMPUTING FACILITY]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Private mountain chalet with massive glass windows, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — examining a flawless diamond under a loupe — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — winding an intricate skeleton watch mechanism — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Underground quantum computing facility with extreme cooling tubes, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a cream crepe tailored suit.
+[ACTION] @Narrateur lips moving clearly, monitoring the sub-zero temperature gauges the full ten seconds.
+Second actor in continuous physical motion — calibrating a quantum state sensor — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — recording anomalous energy spikes — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
+[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] Deep black shadows. Precise, cold gold light. Soft ivory highlights.
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -267,15 +267,15 @@ Narrator: "Chaque projet qu'il toucha se transforma en grand succès magistral, 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 16 — [EXCLUSIVE ROOFTOP TERRACE WITH INFINITY POOL, 2025]
+SCENE 16 — [ELITE TECH-BILLIONAIRE'S PRIVATE LIBRARY]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Exclusive rooftop terrace with infinity pool, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — folding a silk pocket square with precision — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — tracing the edge of a Damascus steel blade — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Elite tech-billionaire's private library with digital archives, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a black silk cropped jacket.
+[ACTION] @Narrateur lips moving clearly, scrolling through historical hardware patents the full ten seconds.
+Second actor in continuous physical motion — handling a rare first-edition computing manual — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — activating a hidden server rack — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
+[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] Deep black shadows. Precise, cold gold light. Soft ivory highlights.
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -283,13 +283,13 @@ Narrator: "Les processeurs classiques suffoquaient sous des systèmes invisibles
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 17 — [MONOLITHIC CONCRETE BUNKER REPURPOSED AS AN ELITE OFFICE, 2025]
+SCENE 17 — [SLEEK CORPORATE SERVER MONITORING HUB]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Monolithic concrete bunker repurposed as an elite office, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — inspecting a sealed vial of rare perfume — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — turning the dials of a complex brass combination lock — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Sleek corporate server monitoring hub with wall-to-wall graphs, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a taupe wool long coat.
+[ACTION] @Narrateur lips moving clearly, pointing at a sudden spike in processing efficiency the full ten seconds.
+Second actor in continuous physical motion — cross-referencing bandwidth optimization charts — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — adjusting a physical master control dial — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Dutch angle, aggressive. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -299,13 +299,13 @@ Narrator: "L'ingénieur comprit que les mathématiques d'intelligence artificiel
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 18 — [GLASS-BOTTOMED MEETING ROOM SUSPENDED OVER A SHEER DROP, 2025]
+SCENE 18 — [MINIMALIST GLASS CUBE OFFICE SUSPENDED OVER A MANUFACTURING FLOOR, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Glass-bottomed meeting room suspended over a sheer drop, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — brushing dust off a first edition leather book — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — aligning a set of perfectly weighted platinum pens — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Minimalist glass cube office suspended over a manufacturing floor, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a emerald green satin double-breasted jacket.
+[ACTION] @Narrateur lips moving clearly, looking down at the automated assembly line the full ten seconds.
+Second actor in continuous physical motion — reviewing production yield statistics — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — examining a flawed circuit board under light — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Pull back, total reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -315,13 +315,13 @@ Narrator: "La charge de travail s'avérant totalement anticipable, il élimina p
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 19 — [HISTORIC OPERA HOUSE AUDITORIUM COMPLETELY DEVOID OF AUDIENCE, 2025]
+SCENE 19 — [HISTORIC DESERT OPERA HOUSE COMPLETELY DEVOID OF AUDIENCE, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Historic opera house auditorium completely devoid of audience, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — examining a delicate porcelain teacup — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — adjusting the leather strap of a vintage camera — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Historic desert opera house completely devoid of audience, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a charcoal tweed asymmetric vest.
+[ACTION] @Narrateur lips moving clearly, standing center stage facing the empty hall the full ten seconds.
+Second actor in continuous physical motion — adjusting the main spotlight controls — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — reviewing an old acoustic blueprint — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Fast lateral tracking shot. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -331,13 +331,13 @@ Narrator: "Vos stratégies d'accumulation personnelles reposent-elles sur des g�
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 20 — [FUTURISTIC DATA CENTER BATHED IN COLD NEON LIGHT, 2025]
+SCENE 20 — [LUXURIOUS ASIAN STOCK EXCHANGE VIP VIEWING GALLERY, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Futuristic data center bathed in cold neon light, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — turning pages of an open leather dossier — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — handling a crystal decanter, pouring slowly — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Luxurious Asian stock exchange VIP viewing gallery, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a ivory cashmere trench coat.
+[ACTION] @Narrateur lips moving clearly, watching the turbulent digital trading floor below the full ten seconds.
+Second actor in continuous physical motion — analyzing real-time equity crashes — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — coordinating emergency sell-offs on a terminal — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Low angle, power rise. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -347,13 +347,13 @@ Narrator: "Un secret inconfortable du leader mondial des puces d'intelligence ar
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 21 — [LUXURIOUS TRAIN CARRIAGE WITH BRASS AND LEATHER DETAILS, 2025]
+SCENE 21 — [GOVERNMENTAL CRISIS RESPONSE ROOM]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Luxurious train carriage with brass and leather details, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — adjusting a heavy gold chronometer — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — manipulating a vintage brass astrolabe — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Governmental crisis response room with massive digital maps, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a ruby red velvet structured blazer.
+[ACTION] @Narrateur lips moving clearly, leaning on the central command table the full ten seconds.
+Second actor in continuous physical motion — tracking global silicon embargo zones — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — reviewing national security supply chain reports — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Overhead, plunging. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -363,13 +363,13 @@ Narrator: "Le reste du silicium comprenait des planificateurs, des contrôleurs 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 22 — [SECLUDED TROPICAL ISLAND VILLA WITH OPEN-AIR ARCHITECTURE, 2025]
+SCENE 22 — [EXCLUSIVE VENTURE CAPITAL PRIVATE CLUB]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Secluded tropical island villa with open-air architecture, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — cleaning a pair of rimless glasses — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — running fingers over a textured marble statuette — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Exclusive venture capital private club with dark leather booths, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a slate grey linen tailored suit.
+[ACTION] @Narrateur lips moving clearly, sitting at a booth reviewing a startup pitch the full ten seconds.
+Second actor in continuous physical motion — handling a physical gold coin and a chip — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — signing a high-stakes investment contract — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -379,13 +379,13 @@ Narrator: "Une startup supprima ces composants redondants, transféra l'intellig
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 23 — [PRIVATE OBSERVATORY WITH MASSIVE TELESCOPE AND DARK WOOD, 2025]
+SCENE 23 — [ULTRA-LUXURY SUPERYACHT INTERIOR RETROFITTED]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Private observatory with massive telescope and dark wood, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — arranging rare silver coins on a velvet tray — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — polishing a sleek obsidian paperweight — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Ultra-luxury superyacht interior retrofitted with a trading floor, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a sapphire crepe cropped jacket.
+[ACTION] @Narrateur lips moving clearly, monitoring offshore server connections the full ten seconds.
+Second actor in continuous physical motion — reviewing maritime satellite uplink data — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — analyzing encrypted oceanic data streams — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Orbital arc around the subject. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -395,13 +395,13 @@ Narrator: "En retirant les aiguilleurs physiques, la gestion des données bascul
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 24 — [UNDERGROUND WINE CELLAR WITH RARE VINTAGES AND SOFT LIGHTING, 2025]
+SCENE 24 — [ELITE HEDGE FUND MANAGER'S OFFICE]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Underground wine cellar with rare vintages and soft lighting, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — sorting through thick architectural blueprints — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — adjusting the focus on an antique silver telescope — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Elite hedge fund manager's office with panoramic city views, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a camel silk long coat.
+[ACTION] @Narrateur lips moving clearly, pacing the floor while dictating trades the full ten seconds.
+Second actor in continuous physical motion — shredding obsolete financial forecasts — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — examining a stark red portfolio graph — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Handheld, intimate close. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -411,13 +411,13 @@ Narrator: "Cette architecture novatrice s'articulait autour de blocs indépendan
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 25 — [MINIMALIST JAPANESE TEA HOUSE WITH MODERN GLASS WALLS, 2025]
+SCENE 25 — [HIGH-END ART GALLERY WHERE CLASSICAL ART MEETS TECH INSTALLATIONS, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Minimalist Japanese tea house with modern glass walls, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — examining a flawless diamond under a loupe — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — winding an intricate skeleton watch mechanism — adjusting or manipulating throughout the ten seconds.
+[LOCATION] High-end art gallery where classical art meets tech installations, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a olive wool double-breasted jacket.
+[ACTION] @Narrateur lips moving clearly, observing a server rack displayed as modern art the full ten seconds.
+Second actor in continuous physical motion — adjusting the gallery's climate control — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — cataloging a piece of vintage computing hardware — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Oner, continuous tracking. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -427,13 +427,13 @@ Narrator: "Chaque bloc intégrait cinq cœurs distincts possédant leur propre m
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 26 — [HIGH-ALTITUDE CABLE CAR INTERIOR DESIGNED FOR VIPS, 2025]
+SCENE 26 — [BILLIONAIRE TECH INVESTOR'S FORTIFIED CONCRETE RESIDENCE, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] High-altitude cable car interior designed for VIPs, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — folding a silk pocket square with precision — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — tracing the edge of a Damascus steel blade — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Billionaire tech investor's fortified concrete residence, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a pearl white satin asymmetric vest.
+[ACTION] @Narrateur lips moving clearly, walking through the brutalist concrete hallway the full ten seconds.
+Second actor in continuous physical motion — unlocking a biometric security vault — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — reviewing private intelligence dossiers — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Push-out, final reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -443,13 +443,13 @@ Narrator: "Puisque le matériel ne réalisait plus aucune prédiction, la magie 
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 27 — [EXCLUSIVE BOTANICAL GARDEN GREENHOUSE WITH IRON FRAMING, 2025]
+SCENE 27 — [UNDERGROUND DATA BUNKER BUILT INTO A SOLID GRANITE MOUNTAIN, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Exclusive botanical garden greenhouse with iron framing, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — inspecting a sealed vial of rare perfume — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — turning the dials of a complex brass combination lock — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Underground data bunker built into a solid granite mountain, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a deep plum tweed trench coat.
+[ACTION] @Narrateur lips moving clearly, inspecting the reinforced steel blast doors the full ten seconds.
+Second actor in continuous physical motion — checking the backup diesel generator logs — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — monitoring seismic sensor readouts — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Extreme macro, financial close-up. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -459,13 +459,13 @@ Narrator: "Ce système alignait trois cent cinquante-deux cœurs sur une seule p
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 28 — [RESTORED MEDIEVAL CASTLE HALL FITTED WITH MODERN TECH, 2025]
+SCENE 28 — [EXCLUSIVE ROOFTOP INFINITY POOL AREA TRANSFORMED INTO AN OUTDOOR OFFICE, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Restored medieval castle hall fitted with modern tech, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — brushing dust off a first edition leather book — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — aligning a set of perfectly weighted platinum pens — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Exclusive rooftop infinity pool area transformed into an outdoor office, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a midnight blue cashmere structured blazer.
+[ACTION] @Narrateur lips moving clearly, sitting by the water's edge with a waterproof terminal the full ten seconds.
+Second actor in continuous physical motion — analyzing liquid cooling flow rates — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — reviewing thermal dissipation charts — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Tilt up, monumental final. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -475,15 +475,15 @@ Narrator: "Cependant, une lecture de la fiche technique révélait une faille ap
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 29 — [LUXURY SUBMARINE INTERIOR WITH PANORAMIC OCEAN VIEWS, 2025]
+SCENE 29 — [PRIVATE OBSERVATORY]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Luxury submarine interior with panoramic ocean views, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — examining a delicate porcelain teacup — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — adjusting the leather strap of a vintage camera — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Private observatory with a massive telescope and digital star maps, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a cream velvet tailored suit.
+[ACTION] @Narrateur lips moving clearly, aligning a digital sensor array the full ten seconds.
+Second actor in continuous physical motion — comparing cosmological data to neural networks — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — calibrating deep-space communication uplinks — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
+[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] Deep black shadows. Precise, cold gold light. Soft ivory highlights.
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -491,15 +491,15 @@ Narrator: "L'entreprise opta pour une mémoire standard bon marché, semblable �
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 30 — [SLEEK CORPORATE HELICOPTER CABIN WITH NOISE-CANCELING TECH, 2025]
+SCENE 30 — [SLEEK UNDERGROUND LUXURY GARAGE HOUSING AUTONOMOUS SERVER VEHICLES, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Sleek corporate helicopter cabin with noise-canceling tech, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — turning pages of an open leather dossier — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — handling a crystal decanter, pouring slowly — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Sleek underground luxury garage housing autonomous server vehicles, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a black linen cropped jacket.
+[ACTION] @Narrateur lips moving clearly, inspecting a mobile processing unit the full ten seconds.
+Second actor in continuous physical motion — checking the autonomous navigation logs — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — connecting a massive power umbilical — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
+[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] Deep black shadows. Precise, cold gold light. Soft ivory highlights.
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -507,13 +507,13 @@ Narrator: "Le plus grand fabricant de puces d'intelligence artificielle au monde
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 31 — [PRIVATE RACE TRACK VIP LOUNGE WITH POLISHED CARBON FIBER, 2025]
+SCENE 31 — [ELITE PRIVATE HOSPITAL DIAGNOSTIC CENTER POWERED BY AI, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Private race track VIP lounge with polished carbon fiber, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — adjusting a heavy gold chronometer — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — manipulating a vintage brass astrolabe — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Elite private hospital diagnostic center powered by AI, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a taupe crepe long coat.
+[ACTION] @Narrateur lips moving clearly, reviewing a high-resolution neural scan the full ten seconds.
+Second actor in continuous physical motion — monitoring real-time biometric processing — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — calibrating a precise surgical laser — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Dutch angle, aggressive. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -523,13 +523,13 @@ Narrator: "Il ne construisit pas une meilleure puce, ne baissa pas les prix : il
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 32 — [UNDERGROUND ART VAULT WITH CLIMATE-CONTROLLED GLASS CASES, 2025]
+SCENE 32 — [EXCLUSIVE BESPOKE TAILOR SHOP DOUBLING AS A SECURE MEETING ROOM, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Underground art vault with climate-controlled glass cases, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — cleaning a pair of rimless glasses — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — running fingers over a textured marble statuette — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Exclusive bespoke tailor shop doubling as a secure meeting room, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a emerald green silk double-breasted jacket.
+[ACTION] @Narrateur lips moving clearly, examining a fabric swatch next to a microchip the full ten seconds.
+Second actor in continuous physical motion — measuring a physical server dimension — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — reviewing a disguised blueprint — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Pull back, total reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -539,13 +539,13 @@ Narrator: "La startup qui survécut ne vendit pas, et fabrique aujourd'hui la pu
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 33 — [HIGH-END TAILOR SHOP WITH DARK OAK AND BRASS FITTINGS, 2025]
+SCENE 33 — [HIGH-TECH SUBTERRANEAN BOTANICAL RESERVE]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] High-end tailor shop with dark oak and brass fittings, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — arranging rare silver coins on a velvet tray — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — polishing a sleek obsidian paperweight — adjusting or manipulating throughout the ten seconds.
+[LOCATION] High-tech subterranean botanical reserve with artificial sunlight, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a charcoal wool asymmetric vest.
+[ACTION] @Narrateur lips moving clearly, monitoring automated environmental sensors the full ten seconds.
+Second actor in continuous physical motion — recording exotic plant growth data — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — adjusting the UV light spectrum — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Fast lateral tracking shot. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -555,13 +555,13 @@ Narrator: "Cette limitation apparente ne freinait pas le processeur, car l'espac
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 34 — [EXCLUSIVE CIGAR LOUNGE WITH THICK VELVET DRAPES, 2025]
+SCENE 34 — [PRIVATE UNDERGROUND CINEMA SCREENING COMPLEX FINANCIAL DATA, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Exclusive cigar lounge with thick velvet drapes, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — sorting through thick architectural blueprints — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — adjusting the focus on an antique silver telescope — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Private underground cinema screening complex financial data, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a ivory satin trench coat.
+[ACTION] @Narrateur lips moving clearly, watching a massive red market crash graph the full ten seconds.
+Second actor in continuous physical motion — adjusting the projection contrast — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — taking notes on a glowing pad — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Low angle, power rise. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -571,13 +571,13 @@ Narrator: "Le logiciel préchargeait exactement les données nécessaires depuis
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 35 — [FUTURISTIC FLOATING CITY PLATFORM WITH OCEAN VIEWS, 2025]
+SCENE 35 — [SLEEK MODERN KITCHEN IN A PENTHOUSE USED AS A MAKESHIFT LAB, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Futuristic floating city platform with ocean views, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — examining a flawless diamond under a loupe — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — winding an intricate skeleton watch mechanism — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Sleek modern kitchen in a penthouse used as a makeshift lab, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a ruby red tweed structured blazer.
+[ACTION] @Narrateur lips moving clearly, examining a processor under the bright island lights the full ten seconds.
+Second actor in continuous physical motion — measuring chemical solvent temperatures — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — cleaning a delicate silicon component — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Overhead, plunging. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -587,13 +587,13 @@ Narrator: "Néanmoins, les modèles linguistiques massifs pesant des dizaines de
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 36 — [PRIVATE LIBRARY WITH RARE FIRST EDITIONS AND MODERN LIGHTING, 2025]
+SCENE 36 — [EXCLUSIVE HIGH-ALTITUDE CABLE CAR STATION DESIGNED FOR VIPS, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Private library with rare first editions and modern lighting, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — folding a silk pocket square with precision — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — tracing the edge of a Damascus steel blade — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Exclusive high-altitude cable car station designed for VIPs, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a slate grey cashmere tailored suit.
+[ACTION] @Narrateur lips moving clearly, monitoring the encrypted communication relay the full ten seconds.
+Second actor in continuous physical motion — checking the alpine weather station data — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — calibrating the main transmission dish — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -603,13 +603,13 @@ Narrator: "L'équipe anticipait totalement ce blocage dès l'origine, sachant qu
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 37 — [PANORAMIC LOFT OVERLOOKING A SPRAWLING INDUSTRIAL COMPLEX, 2025]
+SCENE 37 — [PANORAMIC INDUSTRIAL LOFT OVERLOOKING A SPRAWLING FACTORY COMPLEX, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Panoramic loft overlooking a sprawling industrial complex, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — inspecting a sealed vial of rare perfume — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — turning the dials of a complex brass combination lock — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Panoramic industrial loft overlooking a sprawling factory complex, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a sapphire velvet cropped jacket.
+[ACTION] @Narrateur lips moving clearly, standing by the vast window observing the smoke the full ten seconds.
+Second actor in continuous physical motion — reviewing automated manufacturing logs — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — measuring a new raw material sample — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Orbital arc around the subject. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -619,13 +619,13 @@ Narrator: "Votre portefeuille financier personnel survivra-t-il au vaste effondr
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 38 — [LUXURY DESERT CAMP TENT WITH HIGH-TECH AMENITIES, 2025]
+SCENE 38 — [FUTURISTIC GEOPOLITICAL THINK-TANK]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Luxury desert camp tent with high-tech amenities, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — brushing dust off a first edition leather book — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — aligning a set of perfectly weighted platinum pens — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Futuristic geopolitical think-tank with holographic globes, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a camel linen long coat.
+[ACTION] @Narrateur lips moving clearly, manipulating a glowing 3D map of the world the full ten seconds.
+Second actor in continuous physical motion — tracking international trade blockades — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — reviewing strategic resource distributions — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Handheld, intimate close. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -635,13 +635,13 @@ Narrator: "Dès que plusieurs processeurs se connectaient pour gérer un modèle
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 39 — [EXCLUSIVE SKI RESORT LOUNGE WITH MASSIVE STONE FIREPLACE, 2025]
+SCENE 39 — [MASSIVE TECH CONFERENCE AMPHITHEATER COMPLETELY EMPTY, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Exclusive ski resort lounge with massive stone fireplace, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — examining a delicate porcelain teacup — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — adjusting the leather strap of a vintage camera — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Massive tech conference amphitheater completely empty, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a olive crepe double-breasted jacket.
+[ACTION] @Narrateur lips moving clearly, standing at the podium testing the microphone the full ten seconds.
+Second actor in continuous physical motion — adjusting the massive LED backdrop — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — reviewing the keynote presentation slides — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Oner, continuous tracking. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -651,13 +651,13 @@ Narrator: "Le géant monopolistique surmontait ce mur de communication grâce à
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 40 — [UNDERGROUND SECURE FACILITY WITH BIOMETRIC GLASS DOORS, 2025]
+SCENE 40 — [PRESIDENTIAL SUITE IN A 5-STAR HOTEL CONVERTED INTO A WAR ROOM, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Underground secure facility with biometric glass doors, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — turning pages of an open leather dossier — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — handling a crystal decanter, pouring slowly — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Presidential suite in a 5-star hotel converted into a war room, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a pearl white silk asymmetric vest.
+[ACTION] @Narrateur lips moving clearly, striding across the thick carpet with a tablet the full ten seconds.
+Second actor in continuous physical motion — monitoring multiple news broadcasts — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — organizing classified financial documents — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Push-out, final reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -667,13 +667,13 @@ Narrator: "Un hôpital qui utilise l'intelligence artificielle pour le diagnosti
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 41 — [PRIVATE CONCERT HALL WITH PERFECT ACOUSTIC WOOD PANELING, 2025]
+SCENE 41 — [SECRET UNDERGROUND GALLERY HOUSING EARLY COMPUTER MAINFRAMES, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Private concert hall with perfect acoustic wood paneling, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — adjusting a heavy gold chronometer — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — manipulating a vintage brass astrolabe — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Secret underground gallery housing early computer mainframes, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a deep plum wool trench coat.
+[ACTION] @Narrateur lips moving clearly, walking past towering vintage tape drives the full ten seconds.
+Second actor in continuous physical motion — inspecting a vacuum tube — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — cataloging a magnetic core memory board — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Extreme macro, financial close-up. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -683,13 +683,13 @@ Narrator: "Les dix pour cent d'incompatibilité n'inquiètent pas un développeu
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 42 — [SLEEK MODERN KITCHEN IN A BILLIONAIRE'S MANSION, 2025]
+SCENE 42 — [TOWERING GLASS PENTHOUSE UTILIZING SMART-GLASS PRIVACY FEATURES, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Sleek modern kitchen in a billionaire's mansion, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — cleaning a pair of rimless glasses — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — running fingers over a textured marble statuette — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Towering glass penthouse utilizing smart-glass privacy features, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a midnight blue satin structured blazer.
+[ACTION] @Narrateur lips moving clearly, tapping the glass to turn it opaque the full ten seconds.
+Second actor in continuous physical motion — reviewing stealth corporate acquisition plans — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — analyzing encrypted competitor data — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Tilt up, monumental final. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -699,15 +699,15 @@ Narrator: "Le géant technologique continua de facturer trente dollars par milli
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 43 — [HIGH-TECH MEDICAL FACILITY WITH PRISTINE WHITE SURFACES, 2025]
+SCENE 43 — [EXPERIMENTAL QUANTUM SERVER ROOM BATHED IN ABSOLUTE ZERO MIST, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] High-tech medical facility with pristine white surfaces, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — arranging rare silver coins on a velvet tray — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — polishing a sleek obsidian paperweight — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Experimental quantum server room bathed in absolute zero mist, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a cream tweed tailored suit.
+[ACTION] @Narrateur lips moving clearly, monitoring the extreme cryogenic systems the full ten seconds.
+Second actor in continuous physical motion — checking the superconducting cable connections — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — recording quantum coherence times — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
+[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] Deep black shadows. Precise, cold gold light. Soft ivory highlights.
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -715,15 +715,15 @@ Narrator: "Certaines entreprises technologiques reliaient leurs machines avec d'
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 44 — [EXCLUSIVE PRIVATE MUSEUM WITH RARE ARTIFACTS, 2025]
+SCENE 44 — [URBAN PANORAMIC TERRACE AT TWILIGHT]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Exclusive private museum with rare artifacts, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — sorting through thick architectural blueprints — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — adjusting the focus on an antique silver telescope — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Urban panoramic terrace at twilight with neon reflections, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a black cashmere cropped jacket.
+[ACTION] @Narrateur lips moving clearly, leaning on the glass balcony railing the full ten seconds.
+Second actor in continuous physical motion — watching the city's power grid fluctuations — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — monitoring localized bandwidth surges — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
-[CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
+[CAMERA] Crane shot, brutal descent. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] Deep black shadows. Precise, cold gold light. Soft ivory highlights.
 ARRI Alexa LF. 8K. 35mm anamorphique f/2.8.
@@ -731,13 +731,13 @@ Narrator: "La réponse de la startup fut d'une brutalité saisissante : elle int
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 45 — [LUXURY ORBITAL STATION INTERIOR WITH EARTH VIEWS, 2025]
+SCENE 45 — [ELITE SUBTERRANEAN COMMAND CENTER]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Luxury orbital station interior with Earth views, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — examining a flawless diamond under a loupe — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — winding an intricate skeleton watch mechanism — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Elite subterranean command center with brushed steel consoles, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a taupe velvet long coat.
+[ACTION] @Narrateur lips moving clearly, standing at the central command nexus the full ten seconds.
+Second actor in continuous physical motion — authorizing a massive data migration — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — checking the biometric security logs — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Dutch angle, aggressive. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -747,13 +747,13 @@ Narrator: "Ce compilateur révolutionnaire qui calculait les mouvements de donn�
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 46 — [UNDERGROUND RACING GARAGE WITH NEON ACCENTS, 2025]
+SCENE 46 — [LUXURIOUS TRAIN CARRIAGE REDESIGNED AS A MOBILE DATA FORTRESS, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Underground racing garage with neon accents, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — folding a silk pocket square with precision — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — tracing the edge of a Damascus steel blade — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Luxurious train carriage redesigned as a mobile data fortress, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a emerald green linen double-breasted jacket.
+[ACTION] @Narrateur lips moving clearly, walking down the narrow opulent corridor the full ten seconds.
+Second actor in continuous physical motion — monitoring trackside network handoffs — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — reviewing the onboard server diagnostics — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Pull back, total reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -763,13 +763,13 @@ Narrator: "La brèche logicielle inquiétait toujours les acheteurs institutionn
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 47 — [PRIVATE ISLAND HELIPAD WITH SLEEK MODERN WAITING ROOM, 2025]
+SCENE 47 — [EXCLUSIVE PRIVATE MUSEUM DISPLAYING THE HISTORY OF SILICON, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Private island helipad with sleek modern waiting room, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — inspecting a sealed vial of rare perfume — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — turning the dials of a complex brass combination lock — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Exclusive private museum displaying the history of silicon, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a charcoal crepe asymmetric vest.
+[ACTION] @Narrateur lips moving clearly, examining the very first integrated circuit the full ten seconds.
+Second actor in continuous physical motion — cleaning a protective glass display case — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — updating a digital exhibit catalog — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Fast lateral tracking shot. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -779,13 +779,13 @@ Narrator: "Le logiciel ouvert manquait d'années d'optimisation face au puissant
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 48 — [EXCLUSIVE BESPOKE JEWELRY WORKSHOP WITH PRECISE LIGHTING, 2025]
+SCENE 48 — [HIGH-END ACOUSTIC TESTING CHAMBER LINED]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Exclusive bespoke jewelry workshop with precise lighting, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — brushing dust off a first edition leather book — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — aligning a set of perfectly weighted platinum pens — adjusting or manipulating throughout the ten seconds.
+[LOCATION] High-end acoustic testing chamber lined with sound-absorbing foam, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a ivory silk trench coat.
+[ACTION] @Narrateur lips moving clearly, monitoring server fan noise levels the full ten seconds.
+Second actor in continuous physical motion — recording acoustic resonance frequencies — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — calibrating a sensitive omnidirectional microphone — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Low angle, power rise. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -795,13 +795,13 @@ Narrator: "Contrairement à ses exploits passés, le grand ingénieur ne travail
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 49 — [HIGH-END RECORDING STUDIO WITH DARK ACOUSTIC PANELING, 2025]
+SCENE 49 — [PRIVATE ISLAND COMMAND BUNKER HIDDEN BENEATH TROPICAL FOLIAGE, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] High-end recording studio with dark acoustic paneling, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — examining a delicate porcelain teacup — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — adjusting the leather strap of a vintage camera — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Private island command bunker hidden beneath tropical foliage, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a ruby red wool structured blazer.
+[ACTION] @Narrateur lips moving clearly, monitoring the underwater fiber-optic cables the full ten seconds.
+Second actor in continuous physical motion — checking the desalination plant power draw — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — reviewing satellite cloaking protocols — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Overhead, plunging. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -811,13 +811,13 @@ Narrator: "Il construisait pour la première fois son propre futur technologique
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 50 — [PRIVATE BOTANICAL RESERVE WITH RARE EXOTIC PLANTS, 2025]
+SCENE 50 — [SLEEK UNDERGROUND RACING GARAGE REPURPOSED FOR TECH STARTUPS, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Private botanical reserve with rare exotic plants, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — turning pages of an open leather dossier — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — handling a crystal decanter, pouring slowly — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Sleek underground racing garage repurposed for tech startups, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a slate grey satin tailored suit.
+[ACTION] @Narrateur lips moving clearly, inspecting a liquid-cooled server rack the full ten seconds.
+Second actor in continuous physical motion — calibrating a high-voltage power inverter — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — checking the exhaust ventilation systems — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -827,13 +827,13 @@ Narrator: "Trente-deux puces reliées ne se comportèrent plus comme trente-deux
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 51 — [LUXURY UNDERGROUND CINEMA WITH LEATHER RECLINING SEATS, 2025]
+SCENE 51 — [EXCLUSIVE BESPOKE JEWELRY WORKSHOP EXAMINING MICROSCOPIC TECH, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Luxury underground cinema with leather reclining seats, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — adjusting a heavy gold chronometer — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — manipulating a vintage brass astrolabe — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Exclusive bespoke jewelry workshop examining microscopic tech, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a sapphire tweed cropped jacket.
+[ACTION] @Narrateur lips moving clearly, using a jeweler's loupe on a micro-processor the full ten seconds.
+Second actor in continuous physical motion — polishing a gold electrical contact — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — measuring a microscopic wire gauge — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Orbital arc around the subject. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -843,13 +843,13 @@ Narrator: "Relier trente-six de ces immenses serveurs suffit à créer un superc
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 52 — [EXCLUSIVE CLIFFSIDE RETREAT WITH SHEER DROP VIEWS, 2025]
+SCENE 52 — [HIGH-END RECORDING STUDIO MONITORING DIGITAL NETWORK TRAFFIC, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Exclusive cliffside retreat with sheer drop views, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — cleaning a pair of rimless glasses — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — running fingers over a textured marble statuette — adjusting or manipulating throughout the ten seconds.
+[LOCATION] High-end recording studio monitoring digital network traffic, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a camel cashmere long coat.
+[ACTION] @Narrateur lips moving clearly, adjusting the massive analog mixing console the full ten seconds.
+Second actor in continuous physical motion — analyzing a data sonification graph — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — checking the isolated power supply lines — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Handheld, intimate close. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -859,13 +859,13 @@ Narrator: "Le géant technologique résolut le problème avec des câbles propri
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 53 — [MODERN GLASS HOUSE NESTLED IN A DENSE PINE FOREST, 2025]
+SCENE 53 — [MINIMALIST JAPANESE TEA HOUSE]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Modern glass house nestled in a dense pine forest, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — arranging rare silver coins on a velvet tray — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — polishing a sleek obsidian paperweight — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Minimalist Japanese tea house with embedded tech interfaces, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a olive velvet double-breasted jacket.
+[ACTION] @Narrateur lips moving clearly, kneeling by a smart-table displaying code the full ten seconds.
+Second actor in continuous physical motion — preparing a precise matcha infusion — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — reviewing a digital zen garden algorithm — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Oner, continuous tracking. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -875,13 +875,13 @@ Narrator: "Un puissant modèle linguistique open source tournait brillamment sur
 Zero text. Zero music. Zero watermarks.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no helicopters, no aircraft
 
-SCENE 54 — [PRIVATE UNDERGROUND TRAIN STATION WITH MARBLE PLATFORMS, 2025]
+SCENE 54 — [MODERN GLASS HOUSE ENTIRELY ISOLATED IN A DENSE DARK PINE FOREST, 2025]
 OMNI FLASH — Text-to-video 10s — 9:16
-[LOCATION] Private underground train station with marble platforms, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans. Wearing a tailored charcoal velvet jacket.
-[ACTION] @Narrateur lips moving clearly, gesturing continuously over a polished obsidian table the full ten seconds.
-Second actor in continuous physical motion — sorting through thick architectural blueprints — hands moving throughout the ten seconds.
-Third actor in continuous physical motion — adjusting the focus on an antique silver telescope — adjusting or manipulating throughout the ten seconds.
+[LOCATION] Modern glass house entirely isolated in a dense dark pine forest, 2025 — Deep black shadows. Precise, cold gold light. Soft ivory highlights.
+[SUBJECT] @Narrateur: blonde woman, flawless blowout, fine features, discreet luxury makeup, international executive posture, 30-45 years old. Wearing a pearl white linen asymmetric vest.
+[ACTION] @Narrateur lips moving clearly, standing in the living room facing the dark woods the full ten seconds.
+Second actor in continuous physical motion — monitoring the perimeter security sensors — hands moving throughout the ten seconds.
+Third actor in continuous physical motion — checking the off-grid solar power reserves — adjusting or manipulating throughout the ten seconds.
 All three actors in continuous physical motion the full ten seconds — camera in continuous motion the full ten seconds.
 [CAMERA] Push-out, final reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
