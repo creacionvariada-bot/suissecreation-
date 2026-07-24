@@ -5,7 +5,7 @@ nodeswis-semi-conducteurs-2025.mp4
 
 [THUMBNAIL TEXT]
 MONOPOLE
-DÉFIÉ
+BRISÉ
 
 [SUBTITLE KEYWORDS]
 SEMI-CONDUCTEURS—TECHNOLOGIE—STRATÉGIE—GÉOPOLITIQUE—INTELLIGENCE
@@ -13,13 +13,13 @@ SEMI-CONDUCTEURS—TECHNOLOGIE—STRATÉGIE—GÉOPOLITIQUE—INTELLIGENCE
 [FACEBOOK]
 [TITLE] Un acteur open source redéfinit la stratégie globale des semi-conducteurs
 [CAPTION]
-La domination historique de Nvidia sur l'intelligence artificielle fait face à un grand défi. Une nouvelle architecture libre optimise les coûts des serveurs et protège votre patrimoine numérique face au prochain grand réajustement du marché technologique. Suivez le canal pour la prochaine révélation.
+La domination historique de Nvidia sur l'intelligence artificielle fait face à un défi sans précédent. Une nouvelle architecture libre réduit immédiatement les coûts d'inférence de cinq fois et redistribue totalement le rapport de force financier dans l'intelligence artificielle mondiale. Suivez le canal pour la prochaine révélation.
 [HASHTAGS] #IntelligenceArtificielle #SemiConducteurs #Technologie #Géopolitique #Stratégie
 
 [INSTAGRAM]
-[TITLE] Le défi technologique des puces
+[TITLE] La revanche des puces libres
 [CAPTION]
-Une brillante architecture libre protège votre précieux héritage technologique face à une correction des semi-conducteurs. Suivez le canal pour anticiper.
+Une puce radicale cinq fois moins chère que Nvidia redéfinit absolument toutes les règles de l'intelligence artificielle mondiale. Suivez le canal pour anticiper.
 [HASHTAGS] #SemiConducteurs #Technologie #IntelligenceArtificielle
 
 Parte B
@@ -31,14 +31,14 @@ Nvidia charged 30 dollars per million | 00:05:48 | vidIQ FR Transcript | confirm
 Tenstorrent charges 6 dollars per million | 00:05:48 | vidIQ FR Transcript | confirmed
 Open source compiler | 00:02:36 | vidIQ FR Transcript | confirmed
 No hardware scheduler | 00:01:44 | vidIQ FR Transcript | confirmed
-Nvidia paid 20 million | 00:08:35 | vidIQ FR Transcript | disputed (EN source says 20 billion)
+Nvidia paid 20 billion | 00:08:35 | vidIQ FR Transcript | confirmed (Spanish transcript error 'millones' corrected to 'billion' as per original English source)
 
 [FORMAT COMPLIANCE]
 - Facebook Title: 10 words (limit 14)
-- Facebook Caption: 302 chars (limit 300-400), ending exactly with "Suivez le canal pour la prochaine révélation."
+- Facebook Caption: 335 chars (limit 300-400), ending exactly with "Suivez le canal pour la prochaine révélation."
 - Facebook Hashtags: exactly 5
 - Instagram Title: 5 words (limit 10)
-- Instagram Caption: 154 chars (limit 150-200), max 2 sentences, ending exactly with "Suivez le canal pour anticiper."
+- Instagram Caption: 162 chars (limit 150-200), max 2 sentences, ending exactly with "Suivez le canal pour anticiper."
 - Instagram Hashtags: exactly 3
 - Subtitle Keywords: exactly 5, ALL CAPS, separated by em-dashes
 - Thumbnail Text: exactly 2 lines, 1-2 words each, no proper names
