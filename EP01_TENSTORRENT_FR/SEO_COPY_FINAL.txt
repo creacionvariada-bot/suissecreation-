@@ -4,23 +4,22 @@ Parte A
 nodeswis-semi-conducteurs-2025.mp4
 
 [THUMBNAIL TEXT]
-LE MONOPOLE
-MENACÉ
+MONOPOLE
+DÉFIÉ
 
 [SUBTITLE KEYWORDS]
-SEMI-CONDUCTEURS—INTELLIGENCE ARTIFICIELLE—CHINE—GÉOPOLITIQUE—TECHNOLOGIE
+SEMI-CONDUCTEURS—TECHNOLOGIE—STRATÉGIE—GÉOPOLITIQUE—INTELLIGENCE
 
 [FACEBOOK]
-[TITLE] Un ingénieur brise le monopole des semi-conducteurs
+[TITLE] Un acteur open source redéfinit la stratégie globale des semi-conducteurs
 [CAPTION]
-Une brillante startup technologique vient de créer une architecture d'intelligence artificielle qui est exactement cinq fois moins chère que celle du leader mondial actuel du marché des semi-conducteurs, et tout cela sans utiliser les mêmes fondations matérielles. Comment ce nouveau compilateur open source menace-t-il le grand empire technologique établi ?
-Suivez le canal pour la prochaine révélation.
-[HASHTAGS] #IntelligenceArtificielle #SemiConducteurs #Technologie #Géopolitique #Deepseek
+La domination historique de Nvidia sur l'intelligence artificielle fait face à un grand défi. Une nouvelle architecture libre optimise les coûts des serveurs et protège votre patrimoine numérique face au prochain grand réajustement du marché technologique. Suivez le canal pour la prochaine révélation.
+[HASHTAGS] #IntelligenceArtificielle #SemiConducteurs #Technologie #Géopolitique #Stratégie
 
 [INSTAGRAM]
-[TITLE] Le monopole des puces menacé
+[TITLE] Le défi technologique des puces
 [CAPTION]
-Une nouvelle architecture d'intelligence artificielle radicale coûte désormais exactement cinq fois moins cher. Suivez le canal pour anticiper.
+Une brillante architecture libre protège votre précieux héritage technologique face à une correction des semi-conducteurs. Suivez le canal pour anticiper.
 [HASHTAGS] #SemiConducteurs #Technologie #IntelligenceArtificielle
 
 Parte B
@@ -35,13 +34,13 @@ No hardware scheduler | 00:01:44 | vidIQ FR Transcript | confirmed
 Nvidia paid 20 million | 00:08:35 | vidIQ FR Transcript | disputed (EN source says 20 billion)
 
 [FORMAT COMPLIANCE]
-- Facebook Title: 8 words (limit 14)
-- Facebook Caption: 395 chars (limit 300-400), ending exactly with "Suivez le canal pour la prochaine révélation."
+- Facebook Title: 10 words (limit 14)
+- Facebook Caption: 302 chars (limit 300-400), ending exactly with "Suivez le canal pour la prochaine révélation."
 - Facebook Hashtags: exactly 5
 - Instagram Title: 5 words (limit 10)
-- Instagram Caption: 151 chars (limit 150-200), max 2 sentences, ending exactly with "Suivez le canal pour anticiper."
+- Instagram Caption: 154 chars (limit 150-200), max 2 sentences, ending exactly with "Suivez le canal pour anticiper."
 - Instagram Hashtags: exactly 3
 - Subtitle Keywords: exactly 5, ALL CAPS, separated by em-dashes
 - Thumbnail Text: exactly 2 lines, 1-2 words each, no proper names
 - File Name: nodeswis-semi-conducteurs-2025.mp4
-- Golden keyword "semi-conducteurs" integrated. No banned crisis words. Number at start of title: Un (1) written out.
+- Golden keyword "semi-conducteurs" integrated. Elite vocabulary integrated. No banned crisis words. Number at start of title written out.
