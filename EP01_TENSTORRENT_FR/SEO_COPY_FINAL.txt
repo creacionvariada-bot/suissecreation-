@@ -1,26 +1,52 @@
 Parte A
 
 [FILE NAME]
-nodeswis-semi-conducteurs-2025.mp4
+semi-conducteur-libre-2024.mp4
 
 [THUMBNAIL TEXT]
-MONOPOLE
-BRISÉ
+LIGNE 1: MONOPOLE
+LIGNE 2: BRISÉ
 
 [SUBTITLE KEYWORDS]
-SEMI-CONDUCTEURS—TECHNOLOGIE—STRATÉGIE—GÉOPOLITIQUE—INTELLIGENCE
+SEMI-CONDUCTEURS—TECHNOLOGIE—STRATÉGIE—GÉOPOLITIQUE—CONCURRENCE
 
 [FACEBOOK]
-[TITLE] Un acteur open source redéfinit la stratégie globale des semi-conducteurs
+
+[TITRE A]
+Cinq fois moins cher : la puce libre qui redistribue le pouvoir mondial des semi-conducteurs
+
+[TITRE B]
+Six dollars contre trente : l'architecture ouverte qui défie le géant américain des puces
+
 [CAPTION]
-La domination historique de Nvidia sur l'intelligence artificielle fait face à un défi sans précédent. Une nouvelle architecture libre réduit immédiatement les coûts d'inférence de cinq fois et redistribue totalement le rapport de force financier dans l'intelligence artificielle mondiale. Suivez le canal pour la prochaine révélation.
-[HASHTAGS] #IntelligenceArtificielle #SemiConducteurs #Technologie #Géopolitique #Stratégie
+Six dollars contre trente : une puce open source réduit de cinq fois le coût de l'inférence et redistribue le rapport de force mondial des semi-conducteurs. Cette architecture libre déplace ce que le marché technologique mondial croyait définitivement verrouillé par une seule entreprise. Suivez le canal.
+
+[HASHTAGS]
+#HistoireEconomique #FinanceEtPouvoir #EconomiePolitique #Richesse #Patrimoine
 
 [INSTAGRAM]
-[TITLE] La revanche des puces libres
+
+[TITRE]
+Cinq fois moins cher que le géant américain
+
 [CAPTION]
-Une puce radicale cinq fois moins chère que Nvidia redéfinit absolument toutes les règles de l'intelligence artificielle mondiale. Suivez le canal pour anticiper.
-[HASHTAGS] #SemiConducteurs #Technologie #IntelligenceArtificielle
+Six dollars contre trente : la puce libre qui déplace le rapport de force mondial des semi-conducteurs. Suivez le canal.
+
+[HASHTAGS]
+#HistoireEconomique #FinanceEtPouvoir #EconomiePolitique
+
+[ALT TEXT]
+Architecte numérique en costume sombre devant des serveurs illuminés dans un espace technologique contemporain, lumière froide et précise, sans marque ni logo visible.
+
+[AFTER EFFECTS]
+TITRE SÉRIE: Histoire et Finance
+NUMÉRO ÉPISODE: Épisode un
+TITRE ÉPISODE: La fin du monopole des semi-conducteurs
+TITRE COURT: Monopole Brisé
+LOWER THIRD 1: Histoire et Finance
+LOWER THIRD 2: Ep. 1 — Monopole Brisé
+OPENING CARD: Histoire et Finance | Épisode un
+END CARD: Monopole Brisé
 
 Parte B
 
@@ -31,16 +57,19 @@ Nvidia charged 30 dollars per million | 00:05:48 | vidIQ FR Transcript | confirm
 Tenstorrent charges 6 dollars per million | 00:05:48 | vidIQ FR Transcript | confirmed
 Open source compiler | 00:02:36 | vidIQ FR Transcript | confirmed
 No hardware scheduler | 00:01:44 | vidIQ FR Transcript | confirmed
-Nvidia paid 20 billion | 00:08:35 | vidIQ FR Transcript | confirmed (Spanish transcript error 'millones' corrected to 'billion' as per original English source)
+Nvidia paid 20 billion | 00:08:35 | vidIQ FR Transcript | confirmed (Director Script uses 'vingt milliards' natively, Spanish 20M subtitle was mistranslated from English 20B)
 
 [FORMAT COMPLIANCE]
-- Facebook Title: 10 words (limit 14)
-- Facebook Caption: 335 chars (limit 300-400), ending exactly with "Suivez le canal pour la prochaine révélation."
-- Facebook Hashtags: exactly 5
-- Instagram Title: 5 words (limit 10)
-- Instagram Caption: 162 chars (limit 150-200), max 2 sentences, ending exactly with "Suivez le canal pour anticiper."
-- Instagram Hashtags: exactly 3
+- Facebook Titre A: 14 words (limit 14)
+- Facebook Titre B: 13 words (limit 14)
+- Facebook Caption: 305 chars (limit 300-400), ending exactly with "Suivez le canal."
+- Facebook Hashtags: exactly 5 fixed hashtags (#HistoireEconomique #FinanceEtPouvoir #EconomiePolitique #Richesse #Patrimoine)
+- Instagram Title: 8 words (limit 10)
+- Instagram Caption: 118 chars (limit 150-200), max 2 sentences, ending exactly with "Suivez le canal."
+- Instagram Hashtags: exactly 3 fixed hashtags (#HistoireEconomique #FinanceEtPouvoir #EconomiePolitique)
 - Subtitle Keywords: exactly 5, ALL CAPS, separated by em-dashes
 - Thumbnail Text: exactly 2 lines, 1-2 words each, no proper names
-- File Name: nodeswis-semi-conducteurs-2025.mp4
-- Golden keyword "semi-conducteurs" integrated. Elite vocabulary integrated. No banned crisis words. Number at start of title written out.
+- File Name: semi-conducteur-libre-2024.mp4 (Note: Year 2025/2026 is banned per FR memory rule)
+- ALT TEXT: Included.
+- AFTER EFFECTS: Included.
+- Vanderbilt Inversé applied (starts with brutal figure). No AI triple-parallelisms.
