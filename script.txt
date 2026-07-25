@@ -302,7 +302,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 29 — [CLUB FINANCIER EXCLUSIF AVEC FAUTEUILS CHESTERFIELD, DUBAI — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Club financier exclusif avec fauteuils Chesterfield, Dubai, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant ensemble de soie prune sophistiqué.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur fait glisser un jeton d'or sur le plateau d'une balance pendant toutes les dix secondes. Le troisième acteur manipule un sablier en bronze et cristal pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur fait glisser un jeton d'or sur le plateau d'une balance pendant toutes les dix secondes. Le troisième acteur pose une gemme brute sur un plateau de velours pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Orbital arc around the subject. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -529,7 +529,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 51 — [CANARY WHARF DANS LA BRUME, LONDON — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Canary Wharf dans la brume, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur en laine charcoal élégant.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déballe un paquet contenant des puces de silicium pendant toutes les dix secondes. Le troisième acteur retourne lentement une pièce de monnaie ancienne entre ses doigts pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déballe un paquet contenant des puces de silicium pendant toutes les dix secondes. Le troisième acteur referme un boîtier en titane sur une clé de sécurité pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Crane shot, brutal descent. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -540,7 +540,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 52 — [PLACE PAVÉE LONDONIENNE AVEC JETS D'EAU, LONDON — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Place pavée londonienne avec jets d'eau, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant robe bustier affaire marine stricte.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur glisse des documents dans une chemise de soie noire pendant toutes les dix secondes. Le troisième acteur aligne des capsules en métal brossé sur le bureau pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur extrait un dossier d\'un classeur sécurisé pendant toutes les dix secondes. Le troisième acteur aligne des capsules en métal brossé sur le bureau pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Oner, continuous tracking. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -581,7 +581,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 56 — [PORT DE COMMERCE MARITIME DE NUIT, SINGAPORE — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Port de commerce maritime de nuit, Singapore, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant robe col montant noire.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur aligne des chemises de présentation en velours pendant toutes les dix secondes. Le troisième acteur inspecte les facettes d'un diamant brut tenu en pince pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur dispose des liasses de contrats sous ruban rouge pendant toutes les dix secondes. Le troisième acteur inspecte les facettes d'un diamant brut tenu en pince pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Orbital arc around the subject. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
