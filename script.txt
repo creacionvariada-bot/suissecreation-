@@ -3,14 +3,8 @@ OMNI FLASH — Text-to-video 10s — 9:16
 SCENE 0 — [BUREAUX EXÉCUTIFS DE BANQUE EN ACAJOU MASSIF, ZURICH — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Bureaux exécutifs de banque en acajou massif, Zurich, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur blanc cassé en crêpe.
-[ACTION] ULTRA-FAST COLLAGE — 5 FLASH CUTS EN 10 SECONDS:
-0.0-2.0s: EXTREME STEADICAM PUSH-IN sur le visage de @Narrateur, lèvres déjà en mouvement, regard montant vers l'objectif.
-2.0-4.0s: FLASH CUT — détail physique iconique — mains — gros plan brutal — short orbital arc autour du détail.
-4.0-6.0s: FLASH CUT — moment de tension maximum — aggressive dutch angle — contraste maximal.
-6.0-8.0s: FLASH CUT — @Narrateur face caméra devant le décor monumental — échelle humaine vs monumentale — low angle power shot.
-8.0-10.0s: total ORBITAL PULL BACK — révèle l'étendue — frame final noir total.
-Coupes brutales entre chaque flash — zéro fondu.
-[CAMERA] steadicam push-in / short orbital arc / dutch angle / low angle / total orbital pull back — cinq mouvements distincts, coupes brutales.
+[ACTION] Lèvres en mouvement dès la première image, regard montant lentement vers l'objectif, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur feuillette un grand livre de comptes relié pendant toutes les dix secondes. Le troisième acteur ouvre le tiroir d'un bureau en acajou massif pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[CAMERA] Steadicam push-in extreme, single continuous movement. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 ARRI Alexa LF. 8K. Motion blur on secondary actors.
