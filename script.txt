@@ -14,7 +14,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 1 — [SUITE PANORAMIQUE ASIATIQUE AVEC BOISERIES, SINGAPORE — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Suite panoramique asiatique avec boiseries, Singapore, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur crème en soie avec revers satin.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur feuillette un grand livre de comptes relié pendant toutes les dix secondes. Le troisième acteur ouvre le tiroir d'un bureau de style empire pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur tient entre ses mains une plaquette de métal précieux poli pendant toutes les dix secondes. Le troisième acteur ouvre le tiroir d'un bureau de style empire pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Dutch angle, aggressive. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -36,7 +36,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 3 — [PALAIS DE MARBRE BLANC LUXUEUX, DUBAI — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Palais de marbre blanc luxueux, Dubai, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur beige clair asymétrique.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur referme un classeur métallique massif pendant toutes les dix secondes. Le troisième acteur ouvre le tiroir d'un bureau de style empire pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur referme un classeur métallique massif pendant toutes les dix secondes. Le troisième acteur ajuste la position d'un sablier de bureau en verre soufflé pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -53,8 +53,8 @@ SCENE 4 — [MARINA BAY AU CRÉPUSCULE, SINGAPORE — DEUX MILLE VINGT-QUATRE]
 ARRI Alexa LF. 8K. Motion blur on secondary actors.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors simultaneously, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no aircraft exterior, no helicopters, no cigarettes, no smoking, no alcohol, no wine glasses, no champagne bottles, no tobacco, no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets
 
-SCENE 5 — [CAFÉ DE L'ÉLITE FINANCIÈRE ORNÉ DE SOIE, ZURICH — DEUX MILLE VINGT-QUATRE]
-[LOCATION] Café de l'élite financière orné de soie, Zurich, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Deep red collapse accent replacing the gold. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 5 — [COULOIR DE SERVEURS CRYOGÉNIQUES EN ACIER BROSSÉ, ZURICH — DEUX MILLE VINGT-QUATRE]
+[LOCATION] Couloir de serveurs cryogéniques en acier brossé, Zurich, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Deep red collapse accent replacing the gold. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant veste de créateur blanche à boutons dorés.
 [ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déchire discrètement une note confidentielle pendant toutes les dix secondes. Le troisième acteur époussette doucement la couverture d'un livre pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Tilt up, monumental final. 10 seconds continuous.
@@ -66,7 +66,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 6 — [BURJ KHALIFA SOMMET PRIVÉ, DUBAI — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Burj Khalifa sommet privé, Dubai, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant robe noire en velours ras.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur tamponne des certificats d'authenticité pendant toutes les dix secondes. Le troisième acteur fait tourner un globe terrestre antique pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur tamponne des certificats d'authenticité pendant toutes les dix secondes. Le troisième acteur fait glisser des jetons en argent massif sur le plateau pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -96,7 +96,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 9 — [TERRASSE D'HÔTEL DE LUXE DORÉE, SINGAPORE — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Terrasse d'hôtel de luxe dorée, Singapore, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant tenue business ébène aux lignes pures.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur manipule des dossiers suspendus dans un meuble en acajou pendant toutes les dix secondes. Le troisième acteur allume une lampe d'architecte articulée pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déplie une carte financière mondiale imprimée sur papier fort pendant toutes les dix secondes. Le troisième acteur allume une lampe d'architecte articulée pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Overhead, plunging. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -117,7 +117,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 11 — [LOFT SURPLOMBANT LE FLEUVE AVEC PARQUET PRÉCIEUX, LONDON — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Loft surplombant le fleuve avec parquet précieux, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant robe manteau perle avec ceinture cuir.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur regroupe des mémos internes marqués secrets pendant toutes les dix secondes. Le troisième acteur ajuste un bouton de manchette en argent pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur inspecte un câble en fibre optique enroulé pendant toutes les dix secondes. Le troisième acteur ajuste un bouton de manchette en argent pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Extreme macro, financial close-up. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -128,7 +128,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 12 — [ROUTE DU DÉSERT EN CONVOI DE BERLINES DE PRESTIGE, DUBAI — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Route du désert en convoi de berlines de prestige, Dubai, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant robe portefeuille charbon.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur tourne les pages d'un épais dossier en cuir pendant toutes les dix secondes. Le troisième acteur vérifie le fermoir de sa mallette de cuir pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur retire des documents d'une sacoche diplomatique en cuir pendant toutes les dix secondes. Le troisième acteur vérifie le fermoir de sa mallette de cuir pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Crane shot, brutal descent. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -169,7 +169,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 16 — [MARINA DE SUPERYACHTS ÉMIRATIS AVEC PONT EN TECK, DUBAI — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Marina de superyachts émiratis avec pont en teck, Dubai, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant tenue de soirée émeraude sombre.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déchire discrètement une note confidentielle pendant toutes les dix secondes. Le troisième acteur nettoie des lunettes de créateur avec un chiffon pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur aligne des lingots d'or miniatures sur le bureau pendant toutes les dix secondes. Le troisième acteur nettoie des lunettes de créateur avec un chiffon pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Low angle, power rise. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -178,8 +178,8 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 17 — [HALL D'ENTRÉE LUXUEUX ORNÉ DE LUSTRES EN CRISTAL, LONDON — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Hall d'entrée luxueux orné de lustres en cristal, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur structuré albâtre.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur feuillette un grand livre de comptes relié pendant toutes les dix secondes. Le troisième acteur manipule un boulier décoratif en bois précieux pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant ensemble en velours nuit profond.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur retourne délicatement une miniature de tour en verre pendant toutes les dix secondes. Le troisième acteur place un signet doré dans un grand atlas financier pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Tilt up, monumental final. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -189,7 +189,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 18 — [LOBBY D'HÔTEL DE LUXE ÉTINCELANT, TOKYO — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Lobby d'hôtel de luxe étincelant, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant costume féminin coquille d'œuf.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur examine des photographies d'archives exclusives pendant toutes les dix secondes. Le troisième acteur verse de l'eau minérale dans un verre en cristal pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur ajuste un baromètre de précision en laiton doré pendant toutes les dix secondes. Le troisième acteur verse de l'eau minérale dans un verre en cristal pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Orbital arc around the subject. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -198,8 +198,8 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 19 — [OPÉRA DÉSERT AUX LUSTRES DE CRISTAL, LONDON — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Opéra désert aux lustres de cristal, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant veste cintrée neige avec col mao.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur trie des courriers officiels à en-tête dorée pendant toutes les dix secondes. Le troisième acteur nettoie des lunettes de créateur avec un chiffon pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant robe de créateur corail brûlé.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur trie des courriers officiels à en-tête dorée pendant toutes les dix secondes. Le troisième acteur dépose une épingle dorée sur une carte mondiale laminée pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Fast lateral tracking shot. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -217,10 +217,10 @@ ARRI Alexa LF. 8K. Motion blur on secondary actors.
 Narrator: "En quatre ans, un éditeur de logiciels de San Francisco multiplia par trente sa dette hors bilan sans qu'aucun actionnaire en soit jamais informé par les régulateurs boursiers." (29 ✅)
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors simultaneously, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no aircraft exterior, no helicopters, no cigarettes, no smoking, no alcohol, no wine glasses, no champagne bottles, no tobacco, no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets
 
-SCENE 21 — [CLUB PRIVÉ DE MAYFAIR AVEC BOISERIES DE CHÊNE, LONDON — DEUX MILLE VINGT-QUATRE]
-[LOCATION] Club privé de Mayfair avec boiseries de chêne, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 21 — [SALLE DE TRADING PRIVÉE AVEC PAROI VITRÉE PANORAMIQUE, LONDON — DEUX MILLE VINGT-QUATRE]
+[LOCATION] Salle de trading privée avec paroi vitrée panoramique, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur soie champagne fluide.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur pousse un lourd registre sur le bureau pendant toutes les dix secondes. Le troisième acteur effleure un vase en porcelaine antique pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur fait pivoter un globe céleste en laiton sur son axe pendant toutes les dix secondes. Le troisième acteur effleure un vase en porcelaine antique pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -231,7 +231,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 22 — [SALLE DE CONFÉRENCE EN VERRE ET CUIR, LONDON — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Salle de conférence en verre et cuir, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant ensemble lin clair doublé de soie.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur scelle une enveloppe avec de la cire pendant toutes les dix secondes. Le troisième acteur ouvre une boîte incrustée vide pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur scelle une enveloppe avec de la cire pendant toutes les dix secondes. Le troisième acteur aligne des jetons de validation en nacre sur la table pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Handheld, intimate close. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -242,7 +242,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 23 — [SALLE DES COFFRES DORÉE DE HAUTE SÉCURITÉ, DUBAI — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Salle des coffres dorée de haute sécurité, Dubai, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant robe droite parchemin avec coutures apparentes.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur tamponne des certificats d'authenticité pendant toutes les dix secondes. Le troisième acteur examine une maquette d'architecture pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur pèse un disque dur dans sa paume ouverte pendant toutes les dix secondes. Le troisième acteur examine une maquette d'architecture pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Push-out, final reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -259,10 +259,10 @@ SCENE 24 — [SIÈGE DE FONDS SPÉCULATIF AVEC ART CONTEMPORAIN, LONDON — DEUX
 ARRI Alexa LF. 8K. Motion blur on secondary actors.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors simultaneously, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no aircraft exterior, no helicopters, no cigarettes, no smoking, no alcohol, no wine glasses, no champagne bottles, no tobacco, no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets
 
-SCENE 25 — [JARDIN ZEN D'ENTREPRISE AVEC PAVILLON DE THÉ, TOKYO — DEUX MILLE VINGT-QUATRE]
-[LOCATION] Jardin zen d'entreprise avec pavillon de thé, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 25 — [LABORATOIRE DE TESTS DE COMPOSANTS ÉLECTRONIQUES HAUT DE GAMME, TOKYO — DEUX MILLE VINGT-QUATRE]
+[LOCATION] Laboratoire de tests de composants électroniques haut de gamme, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant robe structurée améthyste foncée.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur referme un classeur métallique massif pendant toutes les dix secondes. Le troisième acteur déplace un pion sur un échiquier de verre pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur examine une plaquette de silicium tenue à contre-jour pendant toutes les dix secondes. Le troisième acteur déplace un pion sur un échiquier de verre pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Oner, continuous tracking. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -272,7 +272,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 26 — [BUREAU MINIMALISTE EN BOIS PRÉCIEUX, TOKYO — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Bureau minimaliste en bois précieux, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant veste asymétrique crème élégante.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur scelle une enveloppe avec de la cire pendant toutes les dix secondes. Le troisième acteur effleure un vase en porcelaine antique pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur manipule une calculatrice mécanique à touches d'ivoire pendant toutes les dix secondes. Le troisième acteur retourne un carnet de notation à couverture rigide pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Crane shot, brutal descent. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -282,15 +282,15 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 27 — [SALON PRIVÉ D'INVESTISSEMENT AVEC CUIR, ZURICH — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Salon privé d'investissement avec cuir, Zurich, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant ensemble laine fine ivoire.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur assemble des feuillets importants en parchemin pendant toutes les dix secondes. Le troisième acteur examine une maquette d'architecture pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur assemble des feuillets importants en parchemin pendant toutes les dix secondes. Le troisième acteur place des cartes de visite en métal gravé en éventail pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Dutch angle, aggressive. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 ARRI Alexa LF. 8K. Motion blur on secondary actors.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors simultaneously, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no aircraft exterior, no helicopters, no cigarettes, no smoking, no alcohol, no wine glasses, no champagne bottles, no tobacco, no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets
 
-SCENE 28 — [BUREAU EN BOISERIE SUISSE ANTIQUE, ZURICH — DEUX MILLE VINGT-QUATRE]
-[LOCATION] Bureau en boiserie suisse antique, Zurich, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 28 — [CENTRE DE DONNÉES SOUTERRAIN À REFROIDISSEMENT LIQUIDE, ZURICH — DEUX MILLE VINGT-QUATRE]
+[LOCATION] Centre de données souterrain à refroidissement liquide, Zurich, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur jupe nacre au tombé parfait.
 [ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déplace des graphiques imprimés sur papier fort pendant toutes les dix secondes. Le troisième acteur règle minutieusement une montre de luxe pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Tilt up, monumental final. 10 seconds continuous.
@@ -301,18 +301,18 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 29 — [CLUB FINANCIER EXCLUSIF AVEC FAUTEUILS CHESTERFIELD, DUBAI — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Club financier exclusif avec fauteuils Chesterfield, Dubai, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant veste col mao blanche épurée.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur signe un registre des visiteurs doré pendant toutes les dix secondes. Le troisième acteur verse de l'eau minérale dans un verre en cristal pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant ensemble de soie prune sophistiqué.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur fait glisser un jeton d'or sur le plateau d'une balance pendant toutes les dix secondes. Le troisième acteur manipule un sablier en bronze et cristal pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Orbital arc around the subject. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 ARRI Alexa LF. 8K. Motion blur on secondary actors.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors simultaneously, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no aircraft exterior, no helicopters, no cigarettes, no smoking, no alcohol, no wine glasses, no champagne bottles, no tobacco, no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets
 
-SCENE 30 — [CABINE CUIR CRÈME DE JET PRIVÉ, SINGAPORE — DEUX MILLE VINGT-QUATRE]
-[LOCATION] Cabine cuir crème de jet privé, Singapore, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 30 — [PONT ARRIÈRE DE SUPERYACHT AVEC BAIES VITRÉES PANORAMIQUES, SINGAPORE — DEUX MILLE VINGT-QUATRE]
+[LOCATION] Pont arrière de superyacht avec baies vitrées panoramiques, Singapore, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur satin beige aux finitions parfaites.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur range des rapports financiers classifiés pendant toutes les dix secondes. Le troisième acteur repositionne un cadre de photographie sur le meuble pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur tient un rouleau de plans techniques ficelés pendant toutes les dix secondes. Le troisième acteur ouvre un coffret de titres boursiers en métal brossé pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Pull back, total reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -322,8 +322,8 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 31 — [CENTRE DE COMMANDE DE DONNÉES ULTRA SÉCURISÉ, TOKYO — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Centre de commande de données ultra sécurisé, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant ensemble hiver blanc à texture riche.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur ajuste des plans d'architecture monumentaux pendant toutes les dix secondes. Le troisième acteur tient une loupe de bijoutier experte pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant robe midi ardoise foncée structurée.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur ajuste des plans d'architecture monumentaux pendant toutes les dix secondes. Le troisième acteur repose un téléphone à cadran rotatif sur son socle pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Overhead, plunging. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -334,7 +334,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 32 — [CHAMBRE FORTE SOUTERRAINE AUX PORTES D'ACIER BROSSÉ, ZURICH — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Chambre forte souterraine aux portes d'acier brossé, Zurich, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant tenue velours pourpre intense.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur manipule des dossiers suspendus dans un meuble en acajou pendant toutes les dix secondes. Le troisième acteur examine attentivement une pièce de monnaie ancienne pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur dispose des dossiers dans un classeur pare-feu en métal pendant toutes les dix secondes. Le troisième acteur examine attentivement une pièce de monnaie ancienne pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -342,10 +342,10 @@ ARRI Alexa LF. 8K. Motion blur on secondary actors.
 Narrator: "Un investisseur de New York racheta en dix minutes dix milliards d'actifs non notés, sans garantie réelle. La vérification financière standard requiert normalement entre quatre-vingt-dix et cent vingt jours." (30 ✅)
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors simultaneously, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no aircraft exterior, no helicopters, no cigarettes, no smoking, no alcohol, no wine glasses, no champagne bottles, no tobacco, no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets
 
-SCENE 33 — [BUREAU VICTORIEN MODERNISÉ AVEC ANTIQUITÉS, LONDON — DEUX MILLE VINGT-QUATRE]
-[LOCATION] Bureau victorien modernisé avec antiquités, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 33 — [SALLE DE CONFÉRENCE MINIMALISTE D'UN FONDS DE CAPITAL-RISQUE TECHNOLOGIQUE, LONDON — DEUX MILLE VINGT-QUATRE]
+[LOCATION] Salle de conférence minimaliste d'un fonds de capital-risque technologique, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant robe tailleur opale chic.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur tamponne des certificats d'authenticité pendant toutes les dix secondes. Le troisième acteur déplace stratégiquement une figurine en marbre pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur examine une plaque gravée d'identification officielle pendant toutes les dix secondes. Le troisième acteur place une épingle rouge sur un grand plan imprimé pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Low angle, power rise. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -354,8 +354,8 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 34 — [ATRIUM DE BANQUE INTERNATIONALE EN MARBRE, SINGAPORE — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Atrium de banque internationale en marbre, Singapore, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant veste croisée crème à double boutonnage.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur ouvre une mallette sécurisée en aluminium pendant toutes les dix secondes. Le troisième acteur vérifie le fermoir de sa mallette de cuir pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur en lainage moka profond.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur retire une montre de gousset ancienne de la poche intérieure pendant toutes les dix secondes. Le troisième acteur repose un cristal de roche naturel sur un socle en bois pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Handheld, intimate close. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -364,7 +364,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 35 — [ARCHITECTURE BANCAIRE CLASSIQUE SUISSE, ZURICH — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Architecture bancaire classique suisse, Zurich, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur haute couture écru.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant robe de créateur bleu canard mat.
 [ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur insère une clé dans une serrure complexe pendant toutes les dix secondes. Le troisième acteur range un étui à cartes en métal brossé pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
@@ -372,10 +372,10 @@ SCENE 35 — [ARCHITECTURE BANCAIRE CLASSIQUE SUISSE, ZURICH — DEUX MILLE VING
 ARRI Alexa LF. 8K. Motion blur on secondary actors.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors simultaneously, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no aircraft exterior, no helicopters, no cigarettes, no smoking, no alcohol, no wine glasses, no champagne bottles, no tobacco, no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets
 
-SCENE 36 — [BUREAUX EXÉCUTIFS DE BANQUE EN ACAJOU MASSIF, SINGAPORE — DEUX MILLE VINGT-QUATRE]
-[LOCATION] Bureaux exécutifs de banque en acajou massif, Singapore, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 36 — [PLATEAU DE TRADING PRIVÉ AVEC TABLES DE MARBRE BLANC, SINGAPORE — DEUX MILLE VINGT-QUATRE]
+[LOCATION] Plateau de trading privé avec tables de marbre blanc, Singapore, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant ensemble soie grège luxueux.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur insère une clé dans une serrure complexe pendant toutes les dix secondes. Le troisième acteur remonte une horloge mécanique sur la cheminée pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur aligne des chemises de présentation en velours bordeaux pendant toutes les dix secondes. Le troisième acteur examine un échantillon de métal rare sous la lumière pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Extreme macro, financial close-up. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -384,8 +384,8 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 37 — [LOFT PANORAMIQUE LUXUEUX AVEC FAUTEUILS EN CUIR NOIR, TOKYO — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Loft panoramique luxueux avec fauteuils en cuir noir, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur minimaliste blanc aux lignes strictes.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur assemble des feuillets importants en parchemin pendant toutes les dix secondes. Le troisième acteur boutonne les manches de sa veste sur-mesure pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant ensemble soie violine intense.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur ferme un coffret à documents avec son fermoir en bronze pendant toutes les dix secondes. Le troisième acteur boutonne les manches de sa veste sur-mesure pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Fast lateral tracking shot. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -394,8 +394,8 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 38 — [BUREAU AU CENTIÈME ÉTAGE AVEC OR ET VELOURS, DUBAI — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Bureau au centième étage avec or et velours, Dubai, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant veste épaules marquées crème.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur ajuste des plans d'architecture monumentaux pendant toutes les dix secondes. Le troisième acteur ajuste sa cravate en soie pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant robe structurée graphite-anthracite.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déploie une grande carte topographique de centres de données pendant toutes les dix secondes. Le troisième acteur ajuste sa cravate en soie pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Oner, continuous tracking. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -404,8 +404,8 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 39 — [GARE CENTRALE MONUMENTALE AVEC HORLOGE EN OR, ZURICH — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Gare centrale monumentale avec horloge en or, Zurich, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant ensemble fluide ivoire sophistiqué.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur glisse un document dans une chemise noire pendant toutes les dix secondes. Le troisième acteur nettoie des lunettes de créateur avec un chiffon pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur carreaux prince de galles discrets.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur glisse un document dans une chemise noire pendant toutes les dix secondes. Le troisième acteur ajuste un compas de navigation doré sur une carte pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Crane shot, brutal descent. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -415,7 +415,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 40 — [SALON VIP AÉROPORTUAIRE AVEC SIÈGES EN CUIR, SINGAPORE — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Salon VIP aéroportuaire avec sièges en cuir, Singapore, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant robe drapée nuit avec ceinture fine.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur ajuste des plans d'architecture monumentaux pendant toutes les dix secondes. Le troisième acteur règle la hauteur de sa chaise en cuir pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur inspecte les joints d'un attaché-case diplomatique pendant toutes les dix secondes. Le troisième acteur règle la hauteur de sa chaise en cuir pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Dutch angle, aggressive. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -423,10 +423,10 @@ ARRI Alexa LF. 8K. Motion blur on secondary actors.
 Narrator: "En deux mille un, une entreprise énergétique texane dissimula des centaines de millions dans des entités hors bilan à Houston — et provoqua l'une des plus grandes faillites américaines." (30 ✅)
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors simultaneously, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no aircraft exterior, no helicopters, no cigarettes, no smoking, no alcohol, no wine glasses, no champagne bottles, no tobacco, no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets
 
-SCENE 41 — [SALON DE THÉ LUXUEUX ORNÉ DE CRISTAL, DUBAI — DEUX MILLE VINGT-QUATRE]
-[LOCATION] Salon de thé luxueux orné de cristal, Dubai, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 41 — [SHOWROOM DE TECHNOLOGIES DE SURVEILLANCE FINANCIÈRE, DUBAI — DEUX MILLE VINGT-QUATRE]
+[LOCATION] Showroom de technologies de surveillance financière, Dubai, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur cintré albâtre magistral.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur cherche des informations dans un carnet d'adresses en cuir pendant toutes les dix secondes. Le troisième acteur règle la hauteur de sa chaise en cuir pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur cherche des informations dans un carnet d'adresses en cuir pendant toutes les dix secondes. Le troisième acteur fait pivoter une petite balance de précision en laiton pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Pull back, total reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -437,7 +437,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 42 — [ATRIUM DE VERRE ET D'ACIER INDUSTRIEL CHIC, LONDON — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Atrium de verre et d'acier industriel chic, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant robe affaire coquille discrète.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur trie des courriers officiels à en-tête dorée pendant toutes les dix secondes. Le troisième acteur examine une maquette d'architecture pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déplie soigneusement une lettre de créance officielle pendant toutes les dix secondes. Le troisième acteur replace un sceau officiel dans son étui de velours noir pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Tilt up, monumental final. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -448,7 +448,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 43 — [TOURS FINANCIÈRES DE LA CITY EN VERRE, LONDON — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Tours financières de la City en verre, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur perle élégant de pouvoir.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déplie un grand plan détaillé sur la table pendant toutes les dix secondes. Le troisième acteur boutonne les manches de sa veste sur-mesure pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déplie un grand plan détaillé sur la table pendant toutes les dix secondes. Le troisième acteur sépare des billets de grande valeur en liasses égales pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Push-out, final reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -457,8 +457,8 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 44 — [BORDS DE LA TAMISE AU SOIR DEPUIS UN YACHT PRIVÉ, LONDON — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Bords de la Tamise au soir depuis un yacht privé, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant veste d'officier blanche avec dorures.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur sépare des liasses de papier épaisses pendant toutes les dix secondes. Le troisième acteur lisse le tissu de son costume parfaitement coupé pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant veste de créateur bronze vert forêt.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur sépare des liasses de papier épaisses pendant toutes les dix secondes. Le troisième acteur examine un cristal de roche naturel non taillé pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -468,7 +468,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 45 — [RUE PAVÉE HISTORIQUE EN CABRIOLET DE PRESTIGE, ZURICH — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Rue pavée historique en cabriolet de prestige, Zurich, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant ensemble cuir fin noir luxueux.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déchire discrètement une note confidentielle pendant toutes les dix secondes. Le troisième acteur règle minutieusement une montre de luxe pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur retire des documents d'un portefeuille diplomatique chiffré pendant toutes les dix secondes. Le troisième acteur dispose des jetons d'ivoire en colonnes parfaites pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Orbital arc around the subject. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -478,7 +478,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 46 — [TERRASSE AVEC VUE SUR LA PALME ET LA MER, DUBAI — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Terrasse avec vue sur la palme et la mer, Dubai, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant robe haute couture rubis.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur insère des feuilles dans une relieuse professionnelle pendant toutes les dix secondes. Le troisième acteur range un étui à cartes en métal brossé pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur insère des feuilles dans une relieuse professionnelle pendant toutes les dix secondes. Le troisième acteur referme un étui à documents en cuir havane pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Overhead, plunging. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -498,7 +498,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 48 — [SIÈGE SOCIAL HORLOGER AVEC TABLES EN ACAJOU, ZURICH — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Siège social horloger avec tables en acajou, Zurich, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur pantalon blanc optique.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur examine des photographies d'archives exclusives pendant toutes les dix secondes. Le troisième acteur époussette doucement la couverture d'un livre pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur ajuste les graduations d'un baromètre de marine en cuivre pendant toutes les dix secondes. Le troisième acteur tient une fiole de métal rare sous la lumière pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Handheld, intimate close. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -507,8 +507,8 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 49 — [GARE FUTURISTE LUMINEUSE DE L'ÉLITE, TOKYO — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Gare futuriste lumineuse de l'élite, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant veste blanche cintrée en laine froide.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur vérifie des contrats reliés de rubans pendant toutes les dix secondes. Le troisième acteur vérifie le fermoir de sa mallette de cuir pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant ensemble jersey marine nuit minimaliste.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur vérifie des contrats reliés de rubans pendant toutes les dix secondes. Le troisième acteur replace un stylet gravé dans son étui en cuir bordeaux pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Fast lateral tracking shot. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -518,7 +518,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 50 — [SHIBUYA DE NUIT VU D'UN SOMMET, TOKYO — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Shibuya de nuit vu d'un sommet, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant tenue cintrée obsidienne minimaliste.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur classe des documents confidentiels scellés pendant toutes les dix secondes. Le troisième acteur ouvre le tiroir d'un bureau de style empire pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur classe des documents confidentiels scellés pendant toutes les dix secondes. Le troisième acteur ajuste les branches d'un compas architectural en laiton pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Extreme macro, financial close-up. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -528,8 +528,8 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 51 — [CANARY WHARF DANS LA BRUME, LONDON — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Canary Wharf dans la brume, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur blanc cassé chic.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déballe un paquet contenant des puces de silicium pendant toutes les dix secondes. Le troisième acteur ajuste sa cravate en soie pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur en laine charcoal élégant.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur déballe un paquet contenant des puces de silicium pendant toutes les dix secondes. Le troisième acteur retourne lentement une pièce de monnaie ancienne entre ses doigts pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Crane shot, brutal descent. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -540,7 +540,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 52 — [PLACE PAVÉE LONDONIENNE AVEC JETS D'EAU, LONDON — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Place pavée londonienne avec jets d'eau, London, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant robe bustier affaire marine stricte.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur vérifie des contrats reliés de rubans pendant toutes les dix secondes. Le troisième acteur examine un échantillon de matériau rare pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur glisse des documents dans une chemise de soie noire pendant toutes les dix secondes. Le troisième acteur aligne des capsules en métal brossé sur le bureau pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Oner, continuous tracking. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -551,7 +551,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 53 — [JARDINS D'HIVER FUTURISTES DE L'ÉLITE, SINGAPORE — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Jardins d'hiver futuristes de l'élite, Singapore, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant robe fendue ébène élégante.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur regroupe des mémos internes marqués secrets pendant toutes les dix secondes. Le troisième acteur effleure un vase en porcelaine antique pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur plie un document officiel avec une règle d'acajou pendant toutes les dix secondes. Le troisième acteur range délicatement un monocle dans son étui en or pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Tilt up, monumental final. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -561,7 +561,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 54 — [MAISON DE VERRE ET D'ACIER BROSSÉ SUR FALAISE, SINGAPORE — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Maison de verre et d'acier brossé sur falaise, Singapore, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant ensemble satin bordeaux brillant.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur insère des feuilles dans une relieuse professionnelle pendant toutes les dix secondes. Le troisième acteur manipule un stylo plume en or massif pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur ouvre un écrin de présentation révélant une médaille officielle pendant toutes les dix secondes. Le troisième acteur manipule un stylo plume en or massif pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Pull back, total reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -570,8 +570,8 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 
 SCENE 55 — [PLATEFORME D'OBSERVATION VIP, TOKYO — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Plateforme d'observation VIP, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
-[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur soie écrue majestueux.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur classe des documents confidentiels scellés pendant toutes les dix secondes. Le troisième acteur touche un presse-papier en bronze massif pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant robe de soirée bleu saphir profond.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur place des gravures de certification dans un porte-documents pendant toutes les dix secondes. Le troisième acteur dépose un tampon en or sur son support de nacre pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Push-out, final reveal. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -581,7 +581,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 56 — [PORT DE COMMERCE MARITIME DE NUIT, SINGAPORE — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Port de commerce maritime de nuit, Singapore, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, robe élégante business, regard direct caméra, présence magnétique portant robe col montant noire.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur aligne des chemises de présentation en velours pendant toutes les dix secondes. Le troisième acteur remonte une horloge mécanique sur la cheminée pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur aligne des chemises de présentation en velours pendant toutes les dix secondes. Le troisième acteur inspecte les facettes d'un diamant brut tenu en pince pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Orbital arc around the subject. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -591,17 +591,17 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 57 — [SHINJUKU SOUS LA PLUIE DEPUIS UN PENTHOUSE, TOKYO — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Shinjuku sous la pluie depuis un penthouse, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant ensemble tailleur albâtre texturé.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur vérifie des contrats reliés de rubans pendant toutes les dix secondes. Le troisième acteur manipule un stylo plume en or massif pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur ouvre une mallette à code révélant des documents classifiés pendant toutes les dix secondes. Le troisième acteur examine la date d'un jeton historique frappé en or pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Dutch angle, aggressive. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 ARRI Alexa LF. 8K. Motion blur on secondary actors.
 NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs, no children, no four actors simultaneously, no modern elements, no music, no watermarks, no logos, no camera overlays, no technical text, no year numbers, no brand names, no subtitles, no captions, no UI elements, no aircraft exterior, no helicopters, no cigarettes, no smoking, no alcohol, no wine glasses, no champagne bottles, no tobacco, no static freeze-frame, no motionless actors, no locked camera, no still image, no photo-like render, no on-screen text, no code, no programming code, no code snippets
 
-SCENE 58 — [SALON DE THÉ TRADITIONNEL CHIC ORNÉ DE SOIE, TOKYO — DEUX MILLE VINGT-QUATRE]
-[LOCATION] Salon de thé traditionnel chic orné de soie, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
+SCENE 58 — [PLANCHER SURÉLEVÉ D'UN DATACENTER AVEC CÂBLAGE EN FIBRE OPTIQUE VISIBLE, TOKYO — DEUX MILLE VINGT-QUATRE]
+[LOCATION] Plancher surélevé d'un datacenter avec câblage en fibre optique visible, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant veste en lin crème élégante.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur replie un large document de stratégie pendant toutes les dix secondes. Le troisième acteur époussette doucement la couverture d'un livre pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur aligne des capsules de données en aluminium anodisé pendant toutes les dix secondes. Le troisième acteur fait tourner doucement une sphère armillaire en bronze pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Steadicam push-in, extreme. 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
@@ -611,7 +611,7 @@ NEGATIVE: no text, no letters, no symbols, no wall carvings, no murals, no wigs,
 SCENE 59 — [GRATTE-CIELS ULTRAMODERNES D'AFFAIRES, TOKYO — DEUX MILLE VINGT-QUATRE]
 [LOCATION] Gratte-ciels ultramodernes d'affaires, Tokyo, deux mille vingt-quatre — ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
 [SUBJECT] @Narrateur : femme blonde, brushing impeccable, traits fins, maquillage luxueux discret, posture de dirigeante internationale, 30-45 ans, blonde glaciale, regard intense, autorité totale portant tailleur ivoire à simple boutonnage.
-[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur scelle une enveloppe avec de la cire pendant toutes les dix secondes. Le troisième acteur déplace un pion sur un échiquier de verre pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
+[ACTION] Lèvres en mouvement, gestuelle élégante et naturelle, se déplaçant continuellement pendant les dix secondes. Le deuxième acteur replace un cachet d'autorisation dans son boîtier en cristal pendant toutes les dix secondes. Le troisième acteur ferme et verrouille un porte-documents en titane brossé pendant les dix secondes. Les trois acteurs sont en mouvement physique continu pendant la totalité des dix secondes.
 [CAMERA] Dolly zoom (Hitchcock). 10 seconds continuous.
 [AUDIO] @Voice: NarradorFR. Zero music. Zero effects.
 [CHANNEL COLORIMETRY] ARTE golden sepia: Deep, cinematic black shadows. Warm, golden sepia light. Soft ivory highlights. Desaturated ARTE documentary grade.
